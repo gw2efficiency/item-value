@@ -87,20 +87,26 @@ let gemPrice = value.itemGems(item.id)
 
 :construction: **This is not supported yet.** :construction:
 
-// TODO
+Every currency in the wallet is valued at the currently best *permanent* conversion rate.
+
+- **Gold:** Direct value
+- **Spirit Shards:** Best conversion excluding weapons (since they don't sell fast and usually require dungeon tokens as well)
+- **Dungeon Tokens:** Best conversion rate excluding items needing account bound recipes and weapons
+- **Gems:** Current gems to gold conversion rate
+- **Laurels:** Best conversion excluding once-per-account items
+- **Karma / Badges of Honor / Guild Commendations / Claim Tickets:** Best conversion rate
 
 ### Achievements
 
 :construction: **This is not supported yet.** :construction:
 
-// TODO
+The value of an achievement equals the value of all unlock items this achievement requires, but *excluding the value of items still owned by the account*.
 
 ### Crafting professions
 
 :construction: **This is not supported yet.** :construction:
 
-// TODO
-
+The value of a crafting profession equals the cost of leveling the crafting profession to that rating.
 
 ## (TODO) Deploy timeline
 
@@ -117,6 +123,10 @@ let gemPrice = value.itemGems(item.id)
 
 - [ ] Update this module to be able to calculate everything if you pass it an account
 - [ ] Use the module in the frontend and backend
+
+### v2.1 - v2.4
+
+- [ ] Include all the "under construction" points
 
 ## Tests
 
