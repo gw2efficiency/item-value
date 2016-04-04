@@ -1,25 +1,25 @@
 module.exports = {
   // Mystic forge conduit
-  70010: {id: 70013, count: 1},
+  70013: {id: 70010, count: 1},
   // Permanent contracts
-  38507: {id: 38506, count: 1},
-  35984: {id: 35978, count: 1},
-  35985: {id: 35977, count: 1},
-  35986: {id: 35976, count: 1},
+  38506: {id: 38507, count: 1},
+  35978: {id: 35984, count: 1},
+  35977: {id: 35985, count: 1},
+  35976: {id: 35986, count: 1},
   // Delivery portal
   49501: {id: 19721, count: 50, gold: 888888},
   // Tonics
-  66926: {id: 66768, count: 1},
-  67386: {id: 67362, count: 1},
-  49145: {id: 20319, count: 1},
-  49147: {id: 20321, count: 1},
-  49146: {id: 20320, count: 1},
+  66768: {id: 66926, count: 1},
+  67362: {id: 67386, count: 1},
+  20319: {id: 49145, count: 1},
+  20321: {id: 49147, count: 1},
+  20320: {id: 49146, count: 1},
   // Kites
-  66893: {id: 66897, count: 1},
-  66895: {id: 66898, count: 1},
-  66896: {id: 66900, count: 1},
+  66897: {id: 66893, count: 1},
+  66898: {id: 66895, count: 1},
+  66900: {id: 66896, count: 1},
   // Bell
-  68362: {id: 68361, count: 1},
+  68361: {id: 68362, count: 1},
   // Miniatures for candy cobs
   67364: {id: 47909, count: 100},
   48740: {id: 47909, count: 6},
