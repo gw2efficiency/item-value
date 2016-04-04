@@ -63,9 +63,11 @@ The one exception to this are ascended boxes, which use the average value across
 
 ### Skins
 
-Single skins can be acquired from a lot of items most of the time. The value of a skins is therefore the value of the cheapest item unlocking the skin. *(Note: An exception is "Eternity", which is worth nothing, since it unlocks the skin of "Sunrise" & "Twilight" and should not count twice)*
+Single skins can be acquired from a lot of items most of the time. The value of a skins is therefore the value of the cheapest item unlocking the skin. Since this is a special case of getting the "lowest" valued item, item values that are only calculated with the vendor price will be ignored, because they will drag down the skin value.
 
 When calculating the total account value, skins only have a value if the account has no item of this skin in their inventory, so they don't count twice.
+
+*Note: An exception to skin values is "Eternity", which is worth nothing, since it unlocks the skin of "Sunrise" & "Twilight" and would therefore count twice.*
 
 ### Gemstore items
 
@@ -113,9 +115,10 @@ The value of a crafting profession equals the cost of leveling the crafting prof
 
 ### v1
 
-- [ ] Deploy this into gw2-api and set a new "value" key
-- [ ] Expose a new /items/all-values endpoint `{id: 1, price: 12, value: 12}`
-- [ ] Use the value key for skin prices
+- [X] Include this into gw2-api and set a new "value" key
+- [X] Expose a new /items/all-values endpoint `{id: 1, value: 12}`
+- [X] Use the value key for skin prices
+- [ ] Deploy new version of gw2-api
 - [ ] Flip the legacy backend to ues /items/all-values instead of prices
 - [ ] Turn off the "custom item prices" command and endpoint (& remove from gw2api)
 - [ ] Show value in item tooltips
