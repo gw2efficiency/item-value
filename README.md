@@ -24,7 +24,6 @@ This module can be used for Node.js as well as browsers using [Browserify](https
 3. If the item was never sold and cannot be crafted, then the **buy price** is used
 4. If the item has no tradingpost price and cannot be crafted, then the **vendor price** is used
 
-
 ```js
 const value = require('gw2e-account-value')
 
@@ -43,7 +42,7 @@ let value = value.itemValue(item)
 
 ### Untradable items
 
-Some items (like the "Permanent Merchant Express" or the "Miniature Gwynefyrdd") are accountbound and therefore don't have a tradingpost price. Instead, they inherit the value of tradable containers they are included in or items that can be traded for them.
+Some items (like the "Permanent Merchant Express" or the "Miniature Gwynefyrdd") are account-bound and therefore don't have a tradingpost price. Instead, they inherit the value of tradable containers they are included in or items that can be traded for them.
 
 ```js
 const value = require('gw2e-account-value')
@@ -51,6 +50,8 @@ const value = require('gw2e-account-value')
 let item = {id: 1, /* ... */}
 let itemInheritance = value.itemInherits(item.id)
 // -> {id: 12: count: 1}
+// -> {id: 5, count: 100, gold: 10000}
+// -> {gold: 1000000}
 // -> false for items that don't inherit value from other items
 ```
 
@@ -58,11 +59,11 @@ let itemInheritance = value.itemInherits(item.id)
 
 Arguably all containers hold a value, but since it can be completely random how much a container is actually worth and the effort of maintaining a list of container to item mappings is not justified, containers without a tradingpost price are ignored.
 
-The one exception to this are ascended boxes, which use the average value across all ascenced items as a rough estimate.
+The one exception to this are ascended boxes, which use the average value across all ascended items as a rough estimate.
 
 ### Skins
 
-Single skins can be accquired from a lot of items most of the time. The value of a skins is therefore the value of the cheapest item unlocking the skin. *(Note: An exception is "Eternity", which is worth nothing, since it unlocks the skin of "Sunrise" & "Twilight" and should not count twice)*
+Single skins can be acquired from a lot of items most of the time. The value of a skins is therefore the value of the cheapest item unlocking the skin. *(Note: An exception is "Eternity", which is worth nothing, since it unlocks the skin of "Sunrise" & "Twilight" and should not count twice)*
 
 When calculating the total account value, skins only have a value if the account has no item of this skin in their inventory, so they don't count twice.
 
@@ -70,7 +71,7 @@ When calculating the total account value, skins only have a value if the account
 
 :construction: **This is not supported yet.** :construction:
 
-While a lot of gemstore items are accquired for free from dailies or events, they definitely hold a value. This value is the default gem price (without taking sales into account) at the current gold to gem conversion rate.
+While a lot of gemstore items are acquired for free from dailies or events, they definitely hold a value. This value is the default gem price (without taking sales into account) at the current gold to gem conversion rate.
 
 ```js
 const value = require('gw2e-account-value')
@@ -116,7 +117,7 @@ The value of a crafting profession equals the cost of leveling the crafting prof
 - [ ] Expose a new /items/all-values endpoint `{id: 1, price: 12, value: 12}`
 - [ ] Use the value key for skin prices
 - [ ] Flip the legacy backend to ues /items/all-values instead of prices
-- [ ] Turn off the custom item prices
+- [ ] Turn off the "custom item prices" command and endpoint (& remove from gw2api)
 - [ ] Show value in item tooltips
 
 ### v2
