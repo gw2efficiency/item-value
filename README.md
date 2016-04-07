@@ -71,7 +71,7 @@ The value of characters, bank and material storage get calculated with the value
 
 ### Skins
 
-Single skins can be acquired from a lot of items most of the time. The value of a skins is therefore the value of the cheapest item unlocking the skin. Since this is a special case of getting the "lowest" valued item, item values that are only calculated with the vendor price will be ignored, because they will drag down the skin value.
+Single skins can be acquired from a lot of items most of the time. The value of a skins is therefore the value of the cheapest item unlocking the skin. Since this is a special case of getting the "lowest" valued item, item values which are only calculated with the vendor price and items with no value (e.g. karma vendor items) will be ignored, since they distort the correct skin value.
 
 When calculating the total account value, skins only have a value if the account has no item of this skin in their inventory, so they don't count twice.
 
