@@ -140,8 +140,9 @@ The amount of people owning a private guild bank with guild halls unlocked / upg
 - [X] Include this into gw2-api and set a new "value" key
 - [X] Expose a new /items/all-values endpoint `{id: 1, value: 12}`
 - [X] Use the value key for skin prices
-- [ ] Deploy new version of gw2-api
-- [ ] Flip the legacy backend to ues /items/all-values instead of prices
+- [X] Deploy new version of gw2-api
+- [ ] Flip the legacy backend to use /items/all-values instead of prices
+- [ ] Flip the legacy frontend to use "value" key instead of prices
 - [ ] Turn off the "custom item prices" command and endpoint (& remove from gw2api)
 - [ ] Show value in item tooltips
 
