@@ -73,9 +73,7 @@ The value of characters, bank and material storage get calculated with the value
 
 Single skins can be acquired from a lot of items most of the time. The value of a skins is therefore the value of the cheapest item unlocking the skin. Since this is a special case of getting the "lowest" valued item, item values which are only calculated with the vendor price and items with no value (e.g. karma vendor items) will be ignored, since they distort the correct skin value.
 
-When calculating the total account value, skins only have a value if the account has no item of this skin in their inventory, so they don't count twice.
-
-*Note: An exception to skin values is "Eternity", which is worth nothing, since it unlocks the skin of "Sunrise" & "Twilight" and would therefore count twice.*
+When calculating the total account value, skins only have a value if the account has no item of this skin in their inventory, so they don't count twice. Skins also have "inherited" skins, which means if you for example have "Eternity" unlocked, then "Sunrise", "Twilight", "Dusk" and "Dawn" are set to have no value (this is the same for all legendaries). If you find a skin that unlockes multiple valueable skins, let me know.
 
 ### Dyes & Miniatures
 
@@ -100,7 +98,7 @@ let gemPrice = value.itemGems(item.id)
 
 ### Wallet
 
-:construction: **This is not supported yet.** :construction:
+:construction: **Everything except "Gold" is not supported yet.** :construction:
 
 Every currency in the wallet is valued at the currently best *permanent & safe* conversion rate.
 
