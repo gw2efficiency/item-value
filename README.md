@@ -133,28 +133,6 @@ In the case the account owns a private guild, which is defined by a guild with t
 
 The amount of people owning a private guild bank with guild halls unlocked / upgrading their guild is extremely small. Because this does not justify the effort needed, Treasury as well as Upgrades are ignored in the value calculation.
 
-## (TODO) Deploy timeline
-
-### v1
-
-- [X] Include this into gw2-api and set a new "value" key
-- [X] Expose a new /items/all-values endpoint `{id: 1, value: 12}`
-- [X] Use the value key for skin prices
-- [X] Deploy new version of gw2-api
-- [ ] Flip the legacy backend to use /items/all-values instead of prices
-- [ ] Turn off the "custom item prices" command and endpoint (& check if it get's used anywhere)
-- [ ] Flip the legacy frontend to use "value" key instead of prices
-- [ ] Show value in item tooltips
-
-### v2
-
-- [ ] Update this module to be able to calculate everything if you pass it an account
-- [ ] Use the module in the frontend and backend
-
-### v2.1 - v2.4
-
-- [ ] Include all the "under construction" points
-
 ## Tests
 
 ```
