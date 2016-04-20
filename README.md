@@ -79,8 +79,6 @@ When calculating the total account value, skins only have a value if the account
 
 ### Dyes & Miniatures
 
-:construction: **Miniatures are not supported yet.** :construction:
-
 The value of unlocked dyes and miniatures equals the value of the items needed to unlock them. This means that unlocking a miniature and holding it in your inventory has the same value to your account.
 
 ### Gemstore items
