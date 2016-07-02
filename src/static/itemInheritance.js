@@ -20,6 +20,10 @@ module.exports = {
   66900: {id: 66896, count: 1}, // Ventari Follower Kite
   68361: {id: 68362, count: 1}, // Magnanimous Choir Bell
 
+  // Ectoplasm gambling containers
+  69981: {id: 19721, count: 50}, // Massive Glob of Ectoplasm (exotic)
+  49503: {id: 19721, count: 500}, // Massive Glob of Ectoplasm (ascended)
+
   // Miniatures
   67364: {id: 47909, count: 100}, // Mini Gwynefyrdd
   48740: {id: 47909, count: 6}, // Mini Bloody Prince Thorn
