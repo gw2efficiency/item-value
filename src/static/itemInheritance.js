@@ -24,6 +24,56 @@ module.exports = {
   69981: {id: 19721, count: 50}, // Massive Glob of Ectoplasm (exotic)
   49503: {id: 19721, count: 500}, // Massive Glob of Ectoplasm (ascended)
 
+  // Kaiser Snake Weapons
+  78029: {id: 78105, count: 1}, // Kaiser Snake Axe
+  78068: {id: 78105, count: 1}, // Kaiser Snake Axe
+  78045: {id: 78105, count: 1}, // Kaiser Snake Axe Skin
+  78073: {id: 78024, count: 1}, // Kaiser Snake Dagger
+  78110: {id: 78024, count: 1}, // Kaiser Snake Dagger
+  78087: {id: 78024, count: 1}, // Kaiser Snake Dagger Skin
+  78060: {id: 78022, count: 1}, // Kaiser Snake Focus
+  78102: {id: 78022, count: 1}, // Kaiser Snake Focus
+  78066: {id: 78022, count: 1}, // Kaiser Snake Focus Skin
+  78037: {id: 78053, count: 1}, // Kaiser Snake Greatsword
+  78059: {id: 78053, count: 1}, // Kaiser Snake Greatsword
+  78106: {id: 78053, count: 1}, // Kaiser Snake Greatsword Skin
+  78051: {id: 78081, count: 1}, // Kaiser Snake Hammer
+  78104: {id: 78081, count: 1}, // Kaiser Snake Hammer
+  78100: {id: 78081, count: 1}, // Kaiser Snake Hammer Skin
+  78014: {id: 78048, count: 1}, // Kaiser Snake Longbow
+  78020: {id: 78048, count: 1}, // Kaiser Snake Longbow
+  78082: {id: 78048, count: 1}, // Kaiser Snake Longbow Skin
+  78056: {id: 78013, count: 1}, // Kaiser Snake Mace
+  78098: {id: 78013, count: 1}, // Kaiser Snake Mace
+  78021: {id: 78013, count: 1}, // Kaiser Snake Mace Skin
+  78047: {id: 78077, count: 1}, // Kaiser Snake Pistol
+  78113: {id: 78077, count: 1}, // Kaiser Snake Pistol
+  78064: {id: 78077, count: 1}, // Kaiser Snake Pistol Skin
+  78032: {id: 78023, count: 1}, // Kaiser Snake Rifle
+  78083: {id: 78023, count: 1}, // Kaiser Snake Rifle
+  78035: {id: 78023, count: 1}, // Kaiser Snake Rifle Skin
+  78063: {id: 78070, count: 1}, // Kaiser Snake Scepter
+  78099: {id: 78070, count: 1}, // Kaiser Snake Scepter
+  78107: {id: 78070, count: 1}, // Kaiser Snake Scepter Skin
+  78092: {id: 78112, count: 1}, // Kaiser Snake Shield
+  78093: {id: 78112, count: 1}, // Kaiser Snake Shield
+  78075: {id: 78112, count: 1}, // Kaiser Snake Shield Skin
+  78055: {id: 78067, count: 1}, // Kaiser Snake Short Bow
+  78091: {id: 78067, count: 1}, // Kaiser Snake Short Bow
+  78017: {id: 78067, count: 1}, // Kaiser Snake Short Bow Skin
+  78078: {id: 78050, count: 1}, // Kaiser Snake Staff
+  78080: {id: 78050, count: 1}, // Kaiser Snake Staff
+  78015: {id: 78050, count: 1}, // Kaiser Snake Staff Skin
+  78061: {id: 78103, count: 1}, // Kaiser Snake Sword
+  78072: {id: 78103, count: 1}, // Kaiser Snake Sword
+  78101: {id: 78103, count: 1}, // Kaiser Snake Sword Skin
+  78040: {id: 78033, count: 1}, // Kaiser Snake Torch
+  78111: {id: 78033, count: 1}, // Kaiser Snake Torch
+  78042: {id: 78033, count: 1}, // Kaiser Snake Torch Skin
+  78044: {id: 78096, count: 1}, // Kaiser Snake Warhorn
+  78109: {id: 78096, count: 1}, // Kaiser Snake Warhorn
+  78026: {id: 78096, count: 1}, // Kaiser Snake Warhorn Skin
+
   // Miniatures
   67364: {id: 47909, count: 100}, // Mini Gwynefyrdd
   48740: {id: 47909, count: 6}, // Mini Bloody Prince Thorn
