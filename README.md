@@ -111,12 +111,6 @@ Every currency in the wallet is valued at the currently best *permanent & safe* 
 - **Laurels:** Best conversion excluding once-per-account items
 - **Karma / Badges of Honor / Guild Commendations / Claim Tickets:** Best conversion rate
 
-### Achievements
-
-:construction: **This is not supported yet.** :construction:
-
-The value of an achievement equals the value of all unlock items this achievement requires, but *excluding the value of items still owned by the account*.
-
 ### Crafting professions
 
 :construction: **This is not supported yet.** :construction:
@@ -127,9 +121,13 @@ The value of a crafting profession equals the cost of leveling the crafting prof
 
 :construction: **This is not supported yet.** :construction:
 
-In the case the account owns a private guild, which is defined by a guild with the **account as the only member**, all the items in the guild vault count to the account value with their specific value.
+In the case the account owns a private guild, which is defined by a guild with the **account as the only member with deposit & withdraw rights** and with **a maximum of 3 members**. All the items in the guild vault count to the account value with their specific value.
 
 The amount of people owning a private guild bank with guild halls unlocked / upgrading their guild is extremely small. Because this does not justify the effort needed, Treasury as well as Upgrades are ignored in the value calculation.
+
+## What does not have a value?
+
+- **Achievements**, because they are already included in the other values in some way (either the result item or the progress items/skins itself)
 
 ## Tests
 
