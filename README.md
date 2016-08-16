@@ -15,18 +15,11 @@ npm install gw2e-item-value
 
 This module can be used for Node.js as well as browsers using [Browserify](https://github.com/substack/browserify-handbook#how-node_modules-works).
 
-## Defining "value"
+## Usage
 
-> **The value of an item should roughly represent how much money/effort a new player would need to achieve this item.**
+For better understanding of how and why this does things, please read the [design document for the account value](https://github.com/gw2efficiency/issues/blob/master/docs/account-value.md).
 
-## Item value calculations
-
-### Item value
-
-1. If the item is currently sold in the tradingpost, then the **sell price** is used
-2. If the item is currently not sold in the tradingpost, then the greater of the **last known sell price** and the **crafting price** is used
-3. If the item was never sold and cannot be crafted, then the **buy price** is used
-4. If the item has no tradingpost price and cannot be crafted, then the **vendor price** is used
+### Calculate the item value
 
 ```js
 const value = require('gw2e-account-value')
@@ -44,9 +37,7 @@ let value = value.itemValue(item)
 // -> 1337
 ```
 
-### Untradable items
-
-Some items (like the "Permanent Merchant Express" or the "Miniature Gwynefyrdd") are account-bound and therefore don't have a tradingpost price. Instead, they inherit the value of tradable containers they are included in or items that can be traded for them.
+### Get the inherited item
 
 ```js
 const value = require('gw2e-account-value')
@@ -59,13 +50,20 @@ let itemInheritance = value.itemInherits(item.id)
 // -> false for items that don't inherit value from other items
 ```
 
-### Containers
+### Get the gem price of an item
 
-> This functionality is not built into this module for efficiency reasons, but it still exists.
+:construction: **This is not supported yet.** :construction:
 
-Arguably all containers hold a value, but since it can be completely random how much a container is actually worth and the effort of maintaining a list of container to item mappings is not justified, containers without a tradingpost price are ignored.
+```js
+const value = require('gw2e-account-value')
 
-The one exception to this are ascended boxes, which use the average value across all possible ascended items as a rough estimate.
+// Note: for things like character slots and bank slots, the
+// unlock item id should get passed in
+let item = {id: 1, /* ... */}
+let gemPrice = value.itemGems(item.id)
+// -> 123
+// -> false for non-gemstore items
+```
 
 ## Tests
 
