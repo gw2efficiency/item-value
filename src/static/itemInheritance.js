@@ -77,7 +77,6 @@ module.exports = {
   // Miniatures
   67364: {id: 47909, count: 100}, // Mini Gwynefyrdd
   48740: {id: 47909, count: 6}, // Mini Bloody Prince Thorn
-  67365: {id: 47909, count: 12}, // Mini Zuzu, Cat of Darkness
   73476: {gold: 100000}, // Mini Brine
   73749: {gold: 300000}, // Mini Bristleback
   70703: {gold: 200000}, // Mini Castor
