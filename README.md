@@ -52,16 +52,14 @@ let itemInheritance = value.itemInherits(item.id)
 
 ### Get the gem price of an item
 
-:construction: **This is not supported yet.** :construction:
-
 ```js
 const value = require('gw2e-account-value')
 
 // Note: for things like character slots and bank slots, the
 // unlock item id should get passed in
-let item = {id: 1, /* ... */}
+let item = {id: 42597, /* ... */}
 let gemPrice = value.itemGems(item.id)
-// -> 123
+// -> {gems: 75, flags: ['booster']}
 // -> false for non-gemstore items
 ```
 
