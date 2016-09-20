@@ -122,6 +122,7 @@ module.exports = {
   20008: {gems: 150, flags: ['booster']}, // Crafting Booster
   50090: {gems: 500, flags: []}, // Creepy Mini 3-Pack (Container)
   67024: {gems: 167, flags: []}, // Miniature Glowing Bat (Inside a container)
+  67023: {gems: 167, flags: []}, // Mini Candy Corn Skritt (Inside a container)
   67026: {gems: 167, flags: []}, // Mini Mad King Head (Inside a container)
   68653: {gems: 125, flags: []}, // Crimson Lion Dye Kit
   68684: {gems: 700, flags: []}, // Crystal Nomad Outfit
@@ -352,7 +353,6 @@ module.exports = {
   69658: {gems: 400, flags: []}, // Mini Blue Drake Hatchling
   70300: {gems: 350, flags: []}, // Mini Bonebreaker
   68572: {gems: 350, flags: []}, // Mini Braham Eirsson
-  67023: {gems: 350, flags: []}, // Mini Candy Corn Skritt
   66164: {gems: 500, flags: []}, // Mini Chickenado
   67281: {gems: 700, flags: []}, // Mini Chieftain Utahein and Mini Svanir
   67840: {gems: 350, flags: []}, // Mini Drooburt's Ghost
@@ -721,5 +721,7 @@ module.exports = {
   43046: {gems: 133, flags: []}, // Zodiac Medium Jerkin Skin (Inside a container)
   43048: {gems: 133, flags: []}, // Zodiac Medium Armguard Skin (Inside a container)
   43052: {gems: 133, flags: []}, // Zodiac Medium Legging Skin (Inside a container)
-  43044: {gems: 133, flags: []} // Zodiac Medium Boot Skin (Inside a container)
+  43044: {gems: 133, flags: []}, // Zodiac Medium Boot Skin (Inside a container)
+  76905: {gems: 1000, flags: []}, // Crystal Arbiter Outfit (Inside a container)
+  72252: {gems: 1000, flags: []} // Crystal Arbiter Glider (Inside a container)
 }

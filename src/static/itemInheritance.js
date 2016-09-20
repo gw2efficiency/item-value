@@ -19,6 +19,7 @@ module.exports = {
   66898: {id: 66895, count: 1}, // Crystal Shard Kite
   66900: {id: 66896, count: 1}, // Ventari Follower Kite
   68361: {id: 68362, count: 1}, // Magnanimous Choir Bell
+  67374: {id: 47909, count: 3}, // Hexed Outfit
 
   // Ectoplasm gambling containers
   69981: {id: 19721, count: 50}, // Massive Glob of Ectoplasm (exotic)
