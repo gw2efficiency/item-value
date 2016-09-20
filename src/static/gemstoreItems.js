@@ -51,7 +51,7 @@ module.exports = {
   68686: {gems: 500, flags: []}, // Black Feather Wings Backpack (Inside a container)
   36708: {gems: 125, flags: []}, // Black Lion Chest Key
   19980: {gems: 125, flags: []}, // Black Lion Chest Key
-  43077: {gems: 1.600, flags: []}, // Black Lion Introductory Package
+  43077: {gems: 1600, flags: []}, // Black Lion Introductory Package
   19986: {gems: 300, flags: ['daily']}, // Black Lion Salvage Kit
   64195: {gems: 300, flags: ['daily']}, // Black Lion Salvage Kit
   67283: {gems: 300, flags: ['daily']}, // Black Lion Salvage Kit
@@ -62,8 +62,8 @@ module.exports = {
   49941: {gems: 350, flags: []}, // Bloody Prince's Staff Toy (Inside a container)
   78734: {gems: 125, flags: []}, // Blue Shift Dye Kit
   36172: {gems: 400, flags: []}, // Bobblehead Laboratory
-  43527: {gems: 1.000, flags: []}, // Bone Pick
-  48932: {gems: 1.000, flags: []}, // Bone Pick
+  43527: {gems: 1000, flags: []}, // Bone Pick
+  48932: {gems: 1000, flags: []}, // Bone Pick
   20000: {gems: 80, flags: ['daily']}, // Box o' Fun
   43528: {gems: 250, flags: []}, // Box of Chocolates
   49930: {gems: 300, flags: []}, // Boxing Gloves
@@ -78,14 +78,14 @@ module.exports = {
   42656: {gems: 600, flags: []}, // Braham's Shield Skin
   78007: {gems: 500, flags: []}, // Bubble Glider
   64738: {gems: 67, flags: []}, // Bunny Ears (Unlocks all weights)
-  70044: {gems: 1.000, flags: []}, // Butterfly Harvesting Flute
+  70044: {gems: 1000, flags: []}, // Butterfly Harvesting Flute
   70095: {gems: 500, flags: []}, // Butterfly Wings Backpack (Inside a container)
   70292: {gems: 500, flags: []}, // Butterfly Wings Backpack (Inside a container)
   39542: {gems: 200, flags: []}, // Casual Hoodie
   20004: {gems: 600, flags: []}, // Caithe's Bloom Dagger
   67406: {gems: 300, flags: []}, // Candy Corn Gobbler Pack
-  50081: {gems: 1.000, flags: []}, // Captain's Airship Pass
-  50104: {gems: 1.000, flags: []}, // Captain's Airship Pass
+  50081: {gems: 1000, flags: []}, // Captain's Airship Pass
+  50104: {gems: 1000, flags: []}, // Captain's Airship Pass
   42968: {gems: 150, flags: []}, // Captain's Airship Pass (2 weeks)
   50093: {gems: 150, flags: []}, // Captain's Airship Pass (2 weeks)
   67040: {gems: 700, flags: []}, // Ceremonial Plated Outfit
@@ -95,21 +95,21 @@ module.exports = {
   39530: {gems: 200, flags: []}, // Cherry Blossom Shirt
   67862: {gems: 800, flags: []}, // Chickenado Finisher
   68001: {gems: 600, flags: []}, // Chinese World Tournament Finisher
-  42931: {gems: 1.000, flags: []}, // Chop-It-All Logging Axe
-  48931: {gems: 1.000, flags: []}, // Chop-It-All Logging Axe
+  42931: {gems: 1000, flags: []}, // Chop-It-All Logging Axe
+  48931: {gems: 1000, flags: []}, // Chop-It-All Logging Axe
   77821: {gems: 400, flags: []}, // Classical Glider
   41741: {gems: 300, flags: []}, // Communal Boost Bonfire
   68102: {gems: 300, flags: []}, // Confetti Mail Delivery
   37203: {gems: 125, flags: []}, // Consortium Dye Pack
-  42594: {gems: 1.000, flags: []}, // Consortium Harvesting Sickle
-  48930: {gems: 1.000, flags: []}, // Consortium Harvesting Sickle
+  42594: {gems: 1000, flags: []}, // Consortium Harvesting Sickle
+  48930: {gems: 1000, flags: []}, // Consortium Harvesting Sickle
   42595: {gems: 100, flags: []}, // Consortium Mobile Crafting Station
   42596: {gems: 50, flags: []}, // Consortium Mobile Mystic Forge
   20248: {gems: 700, flags: []}, // Cook's Outfit (Container)
   64756: {gems: 350, flags: []}, // Cook's Outfit (Inside a container)
   49939: {gems: 350, flags: []}, // Frying Pan (Inside a container)
   44602: {gems: 800, flags: []}, // Copper-Fed Salvage-o-Matic
-  78731: {gems: 1.000, flags: []}, // Cosmic Mining Tool
+  78731: {gems: 1000, flags: []}, // Cosmic Mining Tool
   44779: {gems: 500, flags: []}, // Costumed Mini 3-Pack (Container)
   48741: {gems: 500, flags: []}, // Mini Ghost Carlotta (Inside a container)
   48753: {gems: 167, flags: []}, // Mini Quaggan Ghost Trick-or-Treater (Inside a container)
@@ -141,7 +141,7 @@ module.exports = {
   68655: {gems: 100, flags: []}, // Dragon Mask Skin (Unlocks all weights)
   42876: {gems: 200, flags: []}, // Dragon's Fortune Fireworks
   74219: {gems: 350, flags: []}, // Dread Quiver Backpack (Inside a container)
-  48955: {gems: 1.000, flags: []}, // Dreamcleaver Logging Axe
+  48955: {gems: 1000, flags: []}, // Dreamcleaver Logging Axe
   69806: {gems: 700, flags: []}, // Dwayna's Regalia Outfit
   78771: {gems: 250, flags: []}, // Electromagnetic Ascender
   77811: {gems: 400, flags: []}, // Electromagnetic-Descender Glider
@@ -163,7 +163,7 @@ module.exports = {
   65198: {gems: 350, flags: []}, // Fancy Winter Outfit (Inside a container)
   64734: {gems: 350, flags: []}, // Fancy Winter Crystal Scepter (Inside a container)
   65202: {gems: 50, flags: []}, // Festive Hat (Unlocks all weights)
-  69958: {gems: 1.000, flags: []}, // Firefly Mining Flute
+  69958: {gems: 1000, flags: []}, // Firefly Mining Flute
   41996: {gems: 200, flags: []}, // Fitted Casual Shirt
   41744: {gems: 125, flags: []}, // Flame Dye Kit
   43576: {gems: 800, flags: []}, // Flamekissed Light Armor Skin (Container)
@@ -190,11 +190,11 @@ module.exports = {
   78790: {gems: 400, flags: []}, // Floral Glider
   42973: {gems: 800, flags: []}, // Flute
   43008: {gems: 800, flags: []}, // Flute
-  78724: {gems: 1.000, flags: []}, // Focused Solar Logging Tool
+  78724: {gems: 1000, flags: []}, // Focused Solar Logging Tool
   41745: {gems: 125, flags: []}, // Frost Dye Kit
-  48825: {gems: 1.000, flags: []}, // Frost Wasp Logging Tool
-  67030: {gems: 1.000, flags: []}, // Fused Molten Logging Axe
-  67032: {gems: 1.000, flags: []}, // Fused Molten Sickle
+  48825: {gems: 1000, flags: []}, // Frost Wasp Logging Tool
+  67030: {gems: 1000, flags: []}, // Fused Molten Logging Axe
+  67032: {gems: 1000, flags: []}, // Fused Molten Sickle
   64755: {gems: 67, flags: []}, // Fuzzy Bear Hat (Unlocks all weights)
   64758: {gems: 67, flags: []}, // Fuzzy Cat Hat (Unlocks all weights)
   64759: {gems: 67, flags: []}, // Fuzzy Hylek Hat (Unlocks all weights)
@@ -211,7 +211,7 @@ module.exports = {
   79010: {gems: 500, flags: []}, // Glide-r-Tron
   67857: {gems: 167, flags: []}, // Glint's Gaze Mask (Unlocks all weights)
   68005: {gems: 125, flags: []}, // Glint's Winter Dye Kit
-  78909: {gems: 1.000, flags: []}, // Glitter Bomb Harvesting Tool
+  78909: {gems: 1000, flags: []}, // Glitter Bomb Harvesting Tool
   70277: {gems: 500, flags: []}, // Glittering Wings Backpack
   21268: {gems: 75, flags: ['booster']}, // Glory Booster
   63891: {gems: 167, flags: []}, // Glowing Crimson Mask (Unlocks all weights)
@@ -254,8 +254,8 @@ module.exports = {
   20003: {gems: 100, flags: ['booster']}, // Item Booster
   70230: {gems: 100, flags: ['booster']}, // Item Booster
   70237: {gems: 100, flags: ['booster']}, // Item Booster
-  44876: {gems: 1.000, flags: []}, // Jack-in-the-Box Scythe
-  48934: {gems: 1.000, flags: []}, // Jack-in-the-Box Scythe
+  44876: {gems: 1000, flags: []}, // Jack-in-the-Box Scythe
+  48934: {gems: 1000, flags: []}, // Jack-in-the-Box Scythe
   67990: {gems: 700, flags: []}, // Jungle Explorer Outfit
   8441: {gems: 75, flags: ['booster']}, // Karma Booster
   20001: {gems: 75, flags: ['booster']}, // Karma Booster
@@ -294,7 +294,7 @@ module.exports = {
   43078: {gems: 125, flags: []}, // Lion's Arch Commemorative Dye Kit
   69934: {gems: 125, flags: []}, // Lion's Arch Rebuild Dye Kit
   64254: {gems: 125, flags: []}, // Lion's Arch Survivors Dye Kit
-  67394: {gems: 1.000, flags: []}, // Log-r-Tron
+  67394: {gems: 1000, flags: []}, // Log-r-Tron
   79179: {gems: 600, flags: []}, // Lord Caudecus's Pistol Skin
   79089: {gems: 600, flags: []}, // Lord Caudecus's Sword Skin
   68687: {gems: 500, flags: []}, // Lord Faren's Rapier Skin
@@ -307,9 +307,9 @@ module.exports = {
   65196: {gems: 350, flags: []}, // Mad King's Outfit
   49943: {gems: 350, flags: []}, // Scepter of Thorn
   69753: {gems: 700, flags: []}, // Mad Scientist Outfit
-  69478: {gems: 1.000, flags: []}, // Mad Scientist's Harvesting Tool
-  68799: {gems: 1.000, flags: []}, // Mad Scientist's Logging Tool
-  68905: {gems: 1.000, flags: []}, // Mad Scientist's Mining Tool
+  69478: {gems: 1000, flags: []}, // Mad Scientist's Harvesting Tool
+  68799: {gems: 1000, flags: []}, // Mad Scientist's Logging Tool
+  68905: {gems: 1000, flags: []}, // Mad Scientist's Mining Tool
   67356: {gems: 250, flags: []}, // Magic Carpet
   8446: {gems: 150, flags: ['booster']}, // Magic Find Booster
   20006: {gems: 150, flags: ['booster']}, // Magic Find Booster
@@ -336,7 +336,7 @@ module.exports = {
   20018: {gems: 32, flags: ['daily']}, // Merchant Express
   42877: {gems: 125, flags: ['daily']}, // Metabolic Primer
   47900: {gems: 125, flags: []}, // Metallurgic Dye Kit
-  67396: {gems: 1.000, flags: []}, // Mine-r-Tron
+  67396: {gems: 1000, flags: []}, // Mine-r-Tron
   70234: {gems: 400, flags: []}, // Mini Angry Chest
   77621: {gems: 400, flags: []}, // Mini Angry Wintersday Gift
   42581: {gems: 400, flags: []}, // Mini Arctodus Cub
@@ -402,8 +402,8 @@ module.exports = {
   46495: {gems: 167, flags: []}, // Mini Super Raccoon (Container)
   44886: {gems: 500, flags: []}, // Mist Herald Back Item Skin Set (Container)
   44888: {gems: 500, flags: []}, // Mist Herald Back Item Skin (Inside a container)
-  41807: {gems: 1.000, flags: []}, // Molten Alliance Mining Pick
-  48933: {gems: 1.000, flags: []}, // Molten Alliance Mining Pick
+  41807: {gems: 1000, flags: []}, // Molten Alliance Mining Pick
+  48933: {gems: 1000, flags: []}, // Molten Alliance Mining Pick
   69863: {gems: 700, flags: []}, // Monk's Outfit
   78768: {gems: 350, flags: []}, // Moth Wings Glider (Inside a container)
   78745: {gems: 350, flags: []}, // Moth Wings Backpack (Inside a container)
@@ -415,7 +415,7 @@ module.exports = {
   35989: {gems: 800, flags: []}, // Name Change Contract
   77676: {gems: 700, flags: []}, // Nature's Oath Outfit
   67398: {gems: 700, flags: []}, // Noble Count Outfit
-  79140: {gems: 1.000, flags: []}, // Noble's Folly Pass
+  79140: {gems: 1000, flags: []}, // Noble's Folly Pass
   79270: {gems: 150, flags: []}, // Noble's Folly Pass (2 weeks)
   79274: {gems: 150, flags: []}, // Noble's Folly Pass (2 weeks)
   68014: {gems: 600, flags: []}, // North American World Tournament Finisher
@@ -536,7 +536,7 @@ module.exports = {
   64020: {gems: 133, flags: []}, // Rampart Heavy Legplate Skin (Inside a container)
   64015: {gems: 133, flags: []}, // Rampart Heavy Warboot Skin (Inside a container)
   64748: {gems: 50, flags: []}, // Reading Glasses (Unlocks all weights)
-  67395: {gems: 1.000, flags: []}, // Reap-r-Tron
+  67395: {gems: 1000, flags: []}, // Reap-r-Tron
   68652: {gems: 600, flags: []}, // Red Envelope Mail Carrier
   68614: {gems: 250, flags: []}, // Red Lantern
   67405: {gems: 500, flags: []}, // Replica Job-o-Tron Backpack (Container)
@@ -553,7 +553,7 @@ module.exports = {
   42659: {gems: 600, flags: []}, // Rox's Short Bow Skin
   44604: {gems: 150, flags: []}, // Royal Pass (2 weeks)
   44605: {gems: 150, flags: []}, // Royal Pass (2 weeks)
-  49149: {gems: 1.000, flags: []}, // Royal Terrace Pass
+  49149: {gems: 1000, flags: []}, // Royal Terrace Pass
   64749: {gems: 67, flags: []}, // Sailor's Beanie (Unlocks all weights)
   47907: {gems: 500, flags: []}, // Scarlet's Champions Mini 3-Pack (Container)
   42956: {gems: 500, flags: []}, // Mini Armored Scarlet Briar (Inside a container)
@@ -604,7 +604,7 @@ module.exports = {
   41911: {gems: 125, flags: ['daily']}, // Super Adventure Box o' Fun
   78009: {gems: 400, flags: []}, // Super Adventure Glider
   78088: {gems: 300, flags: []}, // Super Bee Dog Mail Carrier (Inside a container)
-  69921: {gems: 1.000, flags: []}, // Swarm Logging Flute
+  69921: {gems: 1000, flags: []}, // Swarm Logging Flute
   42597: {gems: 75, flags: ['booster']}, // Swim Speed Boost
   68682: {gems: 350, flags: []}, // Sylvari Seed Pod Mail Carrier
   67291: {gems: 125, flags: []}, // Taimi's Dye Kit
@@ -613,9 +613,9 @@ module.exports = {
   47842: {gems: 167, flags: []}, // Mini Risen Brute (Inside a container)
   47841: {gems: 167, flags: []}, // Mini Risen Thrall (Inside a container)
   47843: {gems: 167, flags: []}, // Mini Risen Plague Carrier (Inside a container)
-  49308: {gems: 1.000, flags: []}, // Thresher-Sickle 5000
-  67063: {gems: 1.000, flags: []}, // Tireless Harvesting Minion
-  67029: {gems: 1.000, flags: []}, // Tireless Logging Minion
+  49308: {gems: 1000, flags: []}, // Thresher-Sickle 5000
+  67063: {gems: 1000, flags: []}, // Tireless Harvesting Minion
+  67029: {gems: 1000, flags: []}, // Tireless Logging Minion
   64750: {gems: 67, flags: []}, // Top Hat (Unlocks all weights)
   35991: {gems: 350, flags: []}, // Total Makeover Kit
   36285: {gems: 350, flags: []}, // Total Makeover Kit
@@ -635,7 +635,7 @@ module.exports = {
   43120: {gems: 133, flags: []}, // Trickster's Light Glove Skin (Inside a container)
   43124: {gems: 133, flags: []}, // Trickster's Light Leggings Skin (Inside a container)
   43116: {gems: 133, flags: []}, // Trickster's Light Shoe Skin (Inside a container)
-  37204: {gems: 1.650, flags: []}, // Tyrian Explorer's Knapsack
+  37204: {gems: 1650, flags: []}, // Tyrian Explorer's Knapsack
   78806: {gems: 800, flags: []}, // Unbreakable Logging Axe (Inside a container)
   78996: {gems: 800, flags: []}, // Unbreakable Harvesting Sickle (Inside a container)
   78812: {gems: 800, flags: []}, // Unbreakable Mining Pick (Inside a container)
@@ -650,9 +650,9 @@ module.exports = {
   43128: {gems: 133, flags: []}, // Viper's Medium Boot Skin (Inside a container)
   39520: {gems: 300, flags: []}, // Warrior Quaggan Backpack Set (Container)
   39519: {gems: 300, flags: []}, // Warrior Quaggan Backpack Cover (Inside a container)
-  47897: {gems: 1.000, flags: []}, // Watchwork Mining Pick
+  47897: {gems: 1000, flags: []}, // Watchwork Mining Pick
   66342: {gems: 500, flags: []}, // Water Fight Balloon Bucket
-  70253: {gems: 1.000, flags: []}, // Wedding Attire Outfit
+  70253: {gems: 1000, flags: []}, // Wedding Attire Outfit
   69882: {gems: 500, flags: []}, // White Feather Wings Backpack (Inside a container)
   79016: {gems: 400, flags: []}, // White Mantle Glider (Inside a container)
   78011: {gems: 700, flags: []}, // White Mantle Outfit (Inside a container)
@@ -700,7 +700,7 @@ module.exports = {
   36177: {gems: 250, flags: []}, // Zephyrite Color Swatch: Green
   36178: {gems: 250, flags: []}, // Zephyrite Color Swatch: Red
   36175: {gems: 250, flags: []}, // Zephyrite Color Swatch: Yellow
-  8468: {gems: 1.000, flags: []}, // Zephyrite Rescue Pack
+  8468: {gems: 1000, flags: []}, // Zephyrite Rescue Pack
   43016: {gems: 800, flags: []}, // Zodiac Heavy Armor Skin (Container)
   43026: {gems: 133, flags: []}, // Zodiac Heavy Warhelm Skin (Inside a container)
   43030: {gems: 133, flags: []}, // Zodiac Heavy Pauldron Skin (Inside a container)
