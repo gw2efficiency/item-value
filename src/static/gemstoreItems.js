@@ -723,5 +723,8 @@ module.exports = {
   43052: {gems: 133, flags: []}, // Zodiac Medium Legging Skin (Inside a container)
   43044: {gems: 133, flags: []}, // Zodiac Medium Boot Skin (Inside a container)
   76905: {gems: 1000, flags: []}, // Crystal Arbiter Outfit (Inside a container)
-  72252: {gems: 1000, flags: []} // Crystal Arbiter Glider (Inside a container)
+  72252: {gems: 1000, flags: []}, // Crystal Arbiter Glider (Inside a container)
+  79531: {gems: 700, flags: []}, // Mursaat Robes
+  79523: {gems: 350, flags: []}, // Mursaat Wings Backpack (Inside a container)
+  79595: {gems: 350, flags: []} // Mursaat Wings Glider (Inside a container)
 }
