@@ -5,6 +5,7 @@ module.exports = {
   35978: {id: 35984, count: 1}, // Permanent Bank Access Express
   35977: {id: 35985, count: 1}, // Personal Merchant Express
   35976: {id: 35986, count: 1}, // Personal Trader Express
+  78217: {id: 78455, count: 1}, // Endless Repair Canister
   49501: {id: 19721, count: 50, gold: 888888}, // Tarrktun Personal Delivery Portal
 
   // Tonics
