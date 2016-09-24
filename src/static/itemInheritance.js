@@ -94,6 +94,24 @@ module.exports = {
   44700: {gold: 100000}, // Sovereign Crescent Skin
   44703: {gold: 100000}, // Sovereign Pillar Skin
 
+  // Carnival Weapons
+  79603: {gold: 1000000}, // Carnival Axe
+  79474: {gold: 1000000}, // Carnival Dagger
+  79610: {gold: 1000000}, // Carnival Mace
+  79617: {gold: 1000000}, // Carnival Pistol
+  79461: {gold: 1000000}, // Carnival Scepter
+  79511: {gold: 1000000}, // Carnival Sword
+  79614: {gold: 500000}, // Carnival Focus
+  79482: {gold: 500000}, // Carnival Warhorn
+  79487: {gold: 500000}, // Carnival Torch
+  79517: {gold: 500000}, // Carnival Shield
+  79480: {gold: 1500000}, // Carnival Greatsword
+  79520: {gold: 1500000}, // Carnival Hammer
+  79416: {gold: 1500000}, // Carnival Longbow
+  79530: {gold: 1500000}, // Carnival Rifle
+  79563: {gold: 1500000}, // Carnival Short Bow
+  79539: {gold: 1500000}, // Carnival Staff
+
   // Miniatures
   67364: {id: 47909, count: 100}, // Mini Gwynefyrdd
   48740: {id: 47909, count: 6}, // Mini Bloody Prince Thorn
