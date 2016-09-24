@@ -76,6 +76,24 @@ module.exports = {
   78109: {id: 78096, count: 1}, // Kaiser Snake Warhorn
   78026: {id: 78096, count: 1}, // Kaiser Snake Warhorn Skin
 
+  // Sovereign Weapons
+  44667: {gold: 70000}, // Sovereign Eviscerator Skin
+  44670: {gold: 70000}, // Sovereign Cinquedea Skin
+  44685: {gold: 70000}, // Sovereign Punisher Skin
+  44688: {gold: 70000}, // Sovereign Firearm Skin
+  44694: {gold: 70000}, // Sovereign Scepter Skin
+  44706: {gold: 70000}, // Sovereign Spatha Skin
+  44673: {gold: 50000}, // Sovereign Artifact Skin
+  44697: {gold: 50000}, // Sovereign Protector Skin
+  44709: {gold: 50000}, // Sovereign Beacon Skin
+  44712: {gold: 50000}, // Sovereign Herald Skin
+  44676: {gold: 100000}, // Sovereign Crusader Skin
+  44679: {gold: 100000}, // Sovereign Warhammer Skin
+  44682: {gold: 100000}, // Sovereign Greatbow Skin
+  44691: {gold: 100000}, // Sovereign Arquebus Skin
+  44700: {gold: 100000}, // Sovereign Crescent Skin
+  44703: {gold: 100000}, // Sovereign Pillar Skin
+
   // Miniatures
   67364: {id: 47909, count: 100}, // Mini Gwynefyrdd
   48740: {id: 47909, count: 6}, // Mini Bloody Prince Thorn
