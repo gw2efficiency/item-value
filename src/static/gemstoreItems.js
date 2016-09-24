@@ -84,7 +84,6 @@ module.exports = {
   39542: {gems: 200, flags: []}, // Casual Hoodie
   20004: {gems: 600, flags: []}, // Caithe's Bloom Dagger
   67406: {gems: 300, flags: []}, // Candy Corn Gobbler Pack
-  50081: {gems: 1000, flags: []}, // Captain's Airship Pass
   50104: {gems: 1000, flags: []}, // Captain's Airship Pass
   42968: {gems: 150, flags: []}, // Captain's Airship Pass (2 weeks)
   50093: {gems: 150, flags: []}, // Captain's Airship Pass (2 weeks)
@@ -93,7 +92,6 @@ module.exports = {
   78667: {gems: 167, flags: []}, // Chaos Gloves Skin (Unlocks all weights)
   19994: {gems: 800, flags: []}, // Character Slot Expansion
   39530: {gems: 200, flags: []}, // Cherry Blossom Shirt
-  67862: {gems: 800, flags: []}, // Chickenado Finisher
   68001: {gems: 600, flags: []}, // Chinese World Tournament Finisher
   42931: {gems: 1000, flags: []}, // Chop-It-All Logging Axe
   48931: {gems: 1000, flags: []}, // Chop-It-All Logging Axe
@@ -423,37 +421,17 @@ module.exports = {
   67835: {gems: 500, flags: []}, // Pact Airship Balloon
   79365: {gems: 600, flags: []}, // Peacock Scepter Skin
   79387: {gems: 100, flags: []}, // Peg-Leg Boots Skin (Unlocks all weights)
-  49164: {gems: 600, flags: []}, // Permanent Ascalonian-Leader Finisher
-  64027: {gems: 800, flags: []}, // Permanent Avatar of Death Finisher
-  44723: {gems: 500, flags: []}, // Permanent Cow Finisher
   44070: {gems: 600, flags: []}, // Permanent Gift Finisher
-  64255: {gems: 650, flags: []}, // Permanent Golem Pummeler Finisher
-  44879: {gems: 500, flags: []}, // Permanent Grave Finisher
-  47899: {gems: 800, flags: []}, // Permanent Great Jungle Wurm Finisher
-  67033: {gems: 600, flags: []}, // Permanent Guild Flag Finisher
-  63873: {gems: 800, flags: []}, // Permanent Guild Shield Finisher
   69786: {gems: 700, flags: []}, // Permanent Honor Guard Finisher
-  48827: {gems: 800, flags: []}, // Permanent Ley Line Finisher
   49952: {gems: 800, flags: []}, // Permanent Llama Finisher
   44068: {gems: 700, flags: []}, // Permanent Mad King Finisher
-  44880: {gems: 500, flags: []}, // Permanent Martial Finisher
   63941: {gems: 800, flags: []}, // Permanent Minstrel Finisher
   49165: {gems: 800, flags: []}, // Permanent Mystical Dragon Finisher
-  68573: {gems: 700, flags: []}, // Permanent Pact Fleet Finisher
-  49954: {gems: 800, flags: []}, // Permanent Quaggan Finisher
-  44881: {gems: 600, flags: []}, // Permanent Sanctified Finisher
   44069: {gems: 500, flags: []}, // Permanent Scarecrow Finisher
-  49169: {gems: 650, flags: []}, // Permanent Skritt-Scavenger Finisher
   47896: {gems: 700, flags: []}, // Permanent Snow Globe Finisher
   44071: {gems: 700, flags: []}, // Permanent Snowman Finisher
-  44877: {gems: 500, flags: []}, // Permanent Spectre Finisher
   44724: {gems: 600, flags: []}, // Permanent Super Explosive Finisher
-  44882: {gems: 600, flags: []}, // Permanent Thornroot Finisher
-  48952: {gems: 600, flags: []}, // Permanent Toxic Offshoot Finisher
-  44601: {gems: 800, flags: []}, // Permanent Twisted Watchwork Finisher
   69616: {gems: 700, flags: []}, // Permanent Unicorn Finisher
-  47880: {gems: 700, flags: []}, // Permanent Vigil Megalaser Finisher
-  44878: {gems: 800, flags: []}, // Permanent Whump the Giant Finisher
   43100: {gems: 800, flags: []}, // Phalanx Heavy-Armor Skin (Container)
   43110: {gems: 133, flags: []}, // Phalanx Heavy Warhelm Skin (Inside a container)
   43114: {gems: 133, flags: []}, // Phalanx Heavy Shoulder Skin (Inside a container)
@@ -662,16 +640,6 @@ module.exports = {
   77804: {gems: 400, flags: []}, // Wings of Love Glider
   77470: {gems: 125, flags: []}, // Winter Chimes Dye Kit
   77595: {gems: 700, flags: []}, // Winter Solstice Outfit (Inside a container)
-  38084: {gems: 500, flags: []}, // Winter's Arc Short Bow Skin
-  38085: {gems: 500, flags: []}, // Winter's Brunt Hammer Skin
-  38077: {gems: 500, flags: []}, // Winter's Cutter Axe Skin
-  38089: {gems: 500, flags: []}, // Winter's Edge Greatsword Skin
-  38070: {gems: 500, flags: []}, // Winter's Needle Dagger Skin
-  38082: {gems: 500, flags: []}, // Winter's Reach Longbow Skin
-  38072: {gems: 500, flags: []}, // Winter's Shelter Shield Skin
-  38076: {gems: 500, flags: []}, // Winter's Slice Sword Skin
-  38080: {gems: 500, flags: []}, // Winter's Sting Pistol Skin
-  38074: {gems: 500, flags: []}, // Winter's Timber Staff Skin
   65200: {gems: 8, flags: []}, // Wintersday Earmuffs (Unlocks all weights)
   42978: {gems: 500, flags: []}, // Wintersday Minis 3-Pack (Container)
   49294: {gems: 500, flags: []}, // Mini Dolyak Calf (Inside a container)
@@ -683,10 +651,7 @@ module.exports = {
   65201: {gems: 350, flags: []}, // Witch's Outfit (Inside a container)
   49932: {gems: 350, flags: []}, // Enchanted Broom (Inside a container)
   49935: {gems: 350, flags: []}, // Enchanted Broom (Inside a container)
-  64253: {gems: 700, flags: []}, // Wizard Lightning Finisher
   64757: {gems: 67, flags: []}, // Wizard's Hat (Unlocks all weights)
-  46500: {gems: 800, flags: []}, // World 1 Super Boom Box
-  46504: {gems: 800, flags: []}, // World 2 Super Boom Box
   66309: {gems: 133, flags: []}, // Wreath of Cooperation (Unlocks all weights)
   8449: {gems: 135, flags: ['booster']}, // WXP Booster
   45045: {gems: 135, flags: ['booster']}, // WXP Booster
