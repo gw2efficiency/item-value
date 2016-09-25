@@ -5,8 +5,8 @@ const itemInherits = require('../src/itemInherits.js')
 
 describe('itemInherits', () => {
   it('gets the inherited item', () => {
-    expect(itemInherits(35976)).to.deep.equal({id: 35986, count: 1})
-    expect(itemInherits(49501)).to.deep.equal({id: 19721, count: 50, gold: 888888})
+    expect(itemInherits(35976)).to.deep.equal([{id: 35986, count: 1}])
+    expect(itemInherits(49501)).to.deep.equal([{id: 19721, count: 50}, {gold: 888888}])
   })
 
   it('fails gracefully', () => {
