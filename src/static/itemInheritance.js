@@ -112,6 +112,28 @@ module.exports = {
   79563: {gold: 1500000}, // Carnival Short Bow
   79539: {gold: 1500000}, // Carnival Staff
 
+  // Golden Fractal Weapons
+  72936: {gold: 30000}, // Golden Fractal Relic
+  73380: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Axe
+  75881: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Dagger
+  71232: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Focus
+  73091: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Greatsword
+  71670: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Hammer
+  75830: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Harpoon
+  73269: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Longbow
+  75835: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Mace
+  74862: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Pistol
+  71164: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Rifle
+  76598: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Scepter
+  72542: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Shield
+  72165: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Short Bow
+  74760: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Speargun
+  70785: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Staff
+  76257: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Sword
+  76974: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Torch
+  77196: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Trident
+  70638: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Warhorn
+
   // Miniatures
   67364: {id: 47909, count: 100}, // Mini Gwynefyrdd
   48740: {id: 47909, count: 6}, // Mini Bloody Prince Thorn

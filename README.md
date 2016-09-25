@@ -44,7 +44,8 @@ const value = require('gw2e-account-value')
 
 let item = {id: 1, /* ... */}
 let itemInheritance = value.itemInherits(item.id)
-// -> {id: 12: count: 1}
+// -> {id: 12, count: 1}
+// -> [{id: 12, count: 1}, {id: 13, count: 1}]
 // -> {id: 5, count: 100, gold: 10000}
 // -> {gold: 1000000}
 // -> false for items that don't inherit value from other items
