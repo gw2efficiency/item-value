@@ -691,5 +691,8 @@ module.exports = {
   72252: {gems: 1000, flags: []}, // Crystal Arbiter Glider (Inside a container)
   79531: {gems: 700, flags: []}, // Mursaat Robes
   79523: {gems: 350, flags: []}, // Mursaat Wings Backpack (Inside a container)
-  79595: {gems: 350, flags: []} // Mursaat Wings Glider (Inside a container)
+  79595: {gems: 350, flags: []}, // Mursaat Wings Glider (Inside a container)
+  79500: {gems: 1000, flags: []}, // Lava Lounge Pass
+  79472: {gems: 1000, flags: []}, // Cosmic Logging Tool
+  79374: {gems: 100, flags: []} // Pirate Corsair Hat Skin (Unlocks all weights)
 }
