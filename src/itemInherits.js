@@ -1,7 +1,5 @@
-const staticItemInheritance = require('./static/itemInheritance.js')
+import staticItemInheritance from './static/itemInheritance.js'
 
-function itemInherits (id) {
+export default function itemInherits (id) {
   return staticItemInheritance[id] || false
 }
-
-module.exports = itemInherits

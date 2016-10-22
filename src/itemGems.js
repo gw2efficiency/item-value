@@ -1,7 +1,5 @@
-const gemstoreItems = require('./static/gemstoreItems.js')
+import gemstoreItems from './static/gemstoreItems.js'
 
-function itemGems (id) {
+export default function itemGems (id) {
   return gemstoreItems[id] || false
 }
-
-module.exports = itemGems

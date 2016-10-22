@@ -1,7 +1,6 @@
 /* eslint-env node, mocha */
-const expect = require('chai').expect
-
-const itemGems = require('../src/itemGems.js')
+import {expect} from 'chai'
+import itemGems from '../src/itemGems.js'
 
 describe('itemGems', () => {
   it('gets the gem count for the item', () => {

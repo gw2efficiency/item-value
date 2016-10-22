@@ -1,4 +1,4 @@
-function itemValue (item) {
+export default function itemValue (item) {
   // 1. If the item is currently sold in the tradingpost,
   // then the sell price is used
   if (item.sell && item.sell.price) {
@@ -27,5 +27,3 @@ function itemValue (item) {
 
   return false
 }
-
-module.exports = itemValue

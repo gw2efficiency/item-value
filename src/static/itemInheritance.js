@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   // Account bound utilities
   70013: [{id: 70010, count: 1}], // Mystic Forge Conduit
   38506: [{id: 38507, count: 1}], // Permanent Self-Style Hair Kit

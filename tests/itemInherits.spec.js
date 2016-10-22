@@ -1,7 +1,6 @@
 /* eslint-env node, mocha */
-const expect = require('chai').expect
-
-const itemInherits = require('../src/itemInherits.js')
+import {expect} from 'chai'
+import itemInherits from '../src/itemInherits.js'
 
 describe('itemInherits', () => {
   it('gets the inherited item', () => {

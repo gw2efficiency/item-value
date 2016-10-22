@@ -1,7 +1,6 @@
 /* eslint-env node, mocha */
-const expect = require('chai').expect
-
-const itemValue = require('../src/itemValue.js')
+import {expect} from 'chai'
+import itemValue from '../src/itemValue.js'
 
 describe('itemValue', () => {
   it('uses the item sell price', () => {

@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   42970: {gems: 800, flags: []}, // Additional Crafting License
   42868: {gems: 800, flags: []}, // Aetherblade Heavy Armor Skin (Container)
   42881: {gems: 133, flags: []}, // Aetherblade Heavy Warhelm Skin (Inside a container)
