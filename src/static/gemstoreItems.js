@@ -694,5 +694,8 @@ module.exports = {
   79595: {gems: 350, flags: []}, // Mursaat Wings Glider (Inside a container)
   79500: {gems: 1000, flags: []}, // Lava Lounge Pass
   79472: {gems: 1000, flags: []}, // Cosmic Logging Tool
-  79374: {gems: 100, flags: []} // Pirate Corsair Hat Skin (Unlocks all weights)
+  79374: {gems: 100, flags: []}, // Pirate Corsair Hat Skin (Unlocks all weights)
+  79631: {gems: 500, flags: []}, // Spectral Glider
+  79380: {gems: 700, flags: []}, // Taimi's Outfit
+  79619: {gems: 133, flags: []} // Furrocious Cat Ears (Unlocks all weights)
 }
