@@ -22,7 +22,7 @@ For better understanding of how and why this does things, please read the [desig
 ### Calculate the item value
 
 ```js
-const value = require('gw2e-account-value')
+import {itemValue} from 'gw2e-account-value'
 
 let item = {
   id: 1, 
@@ -33,17 +33,17 @@ let item = {
   // ...
 }
 
-let value = value.itemValue(item)
+let value = itemValue(item)
 // -> 1337
 ```
 
 ### Get the inherited item
 
 ```js
-const value = require('gw2e-account-value')
+import {itemInherits} from 'gw2e-account-value'
 
 let item = {id: 1, /* ... */}
-let itemInheritance = value.itemInherits(item.id)
+let itemInheritance = itemInherits(item.id)
 // -> [{id: 19721, count: 50}, {gold: 888888}]
 // -> false for items that don't inherit value from other items
 ```
@@ -51,7 +51,7 @@ let itemInheritance = value.itemInherits(item.id)
 ### Get the gem price of an item
 
 ```js
-const value = require('gw2e-account-value')
+import {itemGems} from 'gw2e-account-value'
 
 // Note: for things like character slots and bank slots, the
 // unlock item id should get passed in
@@ -70,3 +70,4 @@ npm test
 ## Licence
 
 MIT
+I
