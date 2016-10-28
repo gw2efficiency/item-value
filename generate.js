@@ -1,9 +1,9 @@
-const content = `paste from excel here`
+const content = `copy & paste from excel into here`
 
 console.log('module.exports = {')
 const rows = content.split('\n').slice(1)
 rows.map((row, i) => {
-  row = row.split('	')
+  row = row.split('\t')
   let flags = row[3].split(',').filter(x => x !== '').map(x => `'${x}'`).join(',')
   let gems = row[2].replace('.', '')
   let comma = i === rows.length - 1 ? '' : ','
