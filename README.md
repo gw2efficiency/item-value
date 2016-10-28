@@ -70,4 +70,3 @@ npm test
 ## Licence
 
 MIT
-I
