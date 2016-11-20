@@ -1,6 +1,6 @@
 const content = `copy & paste from excel into here`
 
-console.log('module.exports = {')
+console.log('export default {')
 const rows = content.split('\n').slice(1)
 rows.map((row, i) => {
   row = row.split('\t')
