@@ -697,5 +697,11 @@ export default {
   79374: {gems: 100, flags: []}, // Pirate Corsair Hat Skin (Unlocks all weights)
   79631: {gems: 500, flags: []}, // Spectral Glider
   79380: {gems: 700, flags: []}, // Taimi's Outfit
-  79619: {gems: 133, flags: []} // Furrocious Cat Ears (Unlocks all weights)
+  79619: {gems: 133, flags: []}, // Furrocious Cat Ears (Unlocks all weights)
+  79666: {gems: 250, flags: []}, // Hovering Mad Mirror
+  79671: {gems: 700, flags: []}, // Ghostly Outfit
+  79663: {gems: 500, flags: []}, // Bloodstone Glider
+  79651: {gems: 350, flags: []}, // Mini Feline Familiar
+  79361: {gems: 350, flags: []}, // Mini Jungle Lord Faren
+  79693: {gems: 350, flags: []} // Mini Bloodstone Rock
 }
