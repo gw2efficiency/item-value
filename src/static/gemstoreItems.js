@@ -703,5 +703,8 @@ export default {
   79663: {gems: 500, flags: []}, // Bloodstone Glider
   79651: {gems: 350, flags: []}, // Mini Feline Familiar
   79361: {gems: 350, flags: []}, // Mini Jungle Lord Faren
-  79693: {gems: 350, flags: []} // Mini Bloodstone Rock
+  79693: {gems: 350, flags: []}, // Mini Bloodstone Rock
+  79703: {gems: 700, flags: []}, // Braham's Wolfblood Outfit
+  79704: {gems: 350, flags: []}, // Crystalline Dragon Wings Glider (Inside a container)
+  79707: {gems: 350, flags: []} // Crystalline Dragon Wings Backpack (Inside a container)
 }
