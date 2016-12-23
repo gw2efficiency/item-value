@@ -706,5 +706,9 @@ export default {
   79693: {gems: 350, flags: []}, // Mini Bloodstone Rock
   79703: {gems: 700, flags: []}, // Braham's Wolfblood Outfit
   79704: {gems: 350, flags: []}, // Crystalline Dragon Wings Glider (Inside a container)
-  79707: {gems: 350, flags: []} // Crystalline Dragon Wings Backpack (Inside a container)
+  79707: {gems: 350, flags: []}, // Crystalline Dragon Wings Backpack (Inside a container)
+  79721: {gems: 1000, flags: []}, // Cosmic Harvesting Tool
+  79853: {gems: 600, flags: []}, // Eir's Legacy Longbow
+  79771: {gems: 400, flags: []}, // Fire Quiver Backpack
+  80049: {gems: 700, flags: []} // Ice Encasement Outfit
 }
