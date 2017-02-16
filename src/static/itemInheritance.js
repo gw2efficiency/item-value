@@ -530,5 +530,60 @@ export default {
   31118: [{gold: 55200}], // Priory's Historical Rifle
   31109: [{gold: 36000}], // Priory's Historical Axe
   31114: [{gold: 55200}], // Priory's Historical Greatsword
-  31168: [{gold: 36000}] // Vigil's Honor Dagger
+  31168: [{gold: 36000}], // Vigil's Honor Dagger
+
+  // Living World Season 1 Rewards
+  66214: [{gold: 150000}], // Endless Dolyak Calf Tonic
+  42424: [{gold: 150000}], // Fervid Censer
+  66205: [{gold: 150000}], // Fervid Censer
+  48893: [{gold: 50000}], // Gas Mask Skin
+  43339: [{gold: 50000}], // Light Horns of the Dragon Skin
+  43340: [{gold: 50000}], // Medium Horns of the Dragon Skin
+  43335: [{gold: 50000}], // Heavy Horns of the Dragon Skin
+  44638: [{gold: 150000}], // Hot Air Balloon Souvenir
+  44720: [{gold: 150000}], // Infinite Watchknight Tonic
+  44738: [{gold: 50000}], // Mask of the Night Skin
+  48742: [{gold: 150000}], // Mini Candy-Corn Elemental
+  43991: [{gold: 150000}], // Mini Ellen Kiel
+  43990: [{gold: 150000}], // Mini Evon Gnashblade
+  66216: [{gold: 150000}], // Mini Panda
+  49521: [{gold: 150000}], // Antitoxin Injector Skin
+  48879: [{gold: 150000}], // Mini Toxic Nimross
+  44639: [{gold: 150000}], // Mini Watchknight
+  50019: [{gold: 150000}], // Recipe: Maintenance Oil Station
+  50021: [{gold: 150000}], // Recipe: Sharpening Stone Station
+  50023: [{gold: 150000}], // Recipe: Tuning Crystal Station
+  42426: [{gold: 150000}], // Sclerite Karka Shell
+  66206: [{gold: 150000}], // Sclerite Karka Shell
+  42425: [{gold: 150000}], // Sclerite Karka Shell
+  48721: [{gold: 150000}], // Slickpack
+  48720: [{gold: 150000}], // Slickpack
+  48719: [{gold: 150000}], // Slickpack
+  45033: [{gold: 50000}], // Twisted Watchwork Shoulders
+  45034: [{gold: 50000}], // Twisted Watchwork Shoulders
+  45038: [{gold: 50000}], // Twisted Watchwork Shoulders
+  45035: [{gold: 50000}], // Twisted Watchwork Shoulders
+  45037: [{gold: 50000}], // Twisted Watchwork Shoulders
+  45032: [{gold: 50000}], // Twisted Watchwork Shoulders
+  43519: [{gold: 150000}], // Light Zephyrite Lightning Helm Skin
+  43510: [{gold: 150000}], // Light Zephyrite Sun Helm Skin
+  43501: [{gold: 150000}], // Light Zephyrite Wind Helm Skin
+  43521: [{gold: 150000}], // Medium Zephyrite Lightning Helm Skin
+  43512: [{gold: 150000}], // Medium Zephyrite Sun Helm Skin
+  43503: [{gold: 150000}], // Medium Zephyrite Wind Helm Skin
+  43517: [{gold: 150000}], // Heavy Zephyrite Lightning Helm Skin
+  43508: [{gold: 150000}], // Heavy Zephyrite Sun Helm Skin
+  43499: [{gold: 150000}], // Heavy Zephyrite Wind Helm Skin
+  43901: [{gold: 150000}], // Zephyr Sanctum Model
+  48804: [{gold: 150000}], // Gift of Candy Corn
+  43902: [{gold: 150000}], // Gift of Quartz
+  49825: [{gold: 150000}], // Gift of Sprockets
+  48875: [{gold: 150000}], // Krait Obelisk Shard
+  42418: [{gold: 50000}], // Heavy Fused Gauntlets
+  42421: [{gold: 50000}], // Heavy Fused Gauntlets
+  42419: [{gold: 50000}], // Medium Fused Gauntlets
+  42423: [{gold: 50000}], // Medium Fused Gauntlets
+  42415: [{gold: 50000}], // Light Fused Gauntlets
+  42420: [{gold: 50000}], // Light Fused Gauntlets
+  42422: [{gold: 50000}] // Light Fused Gauntlets
 }
