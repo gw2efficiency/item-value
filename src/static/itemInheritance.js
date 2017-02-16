@@ -22,6 +22,12 @@ export default {
   68361: [{id: 68362, count: 1}], // Magnanimous Choir Bell
   67374: [{id: 47909, count: 3}], // Hexed Outfit
 
+  // Eternity gets a hardcoded value of 1g, because Sunrise's and Twilight's combined value
+  // is higher than Eternity's. Therefore the value calculation uses Sunrise and Twilight
+  // instead of Eternity, so the user does not loose value from crafting Eternity,
+  // but also doesn't get double value from having Eternity.
+  30689: [{gold: 10000}],
+
   // Ectoplasm gambling containers
   69981: [{id: 19721, count: 50}], // Massive Glob of Ectoplasm (exotic)
   49503: [{id: 19721, count: 500}], // Massive Glob of Ectoplasm (ascended)
