@@ -710,5 +710,19 @@ export default {
   79721: {gems: 1000, flags: []}, // Cosmic Harvesting Tool
   79853: {gems: 600, flags: []}, // Eir's Legacy Longbow
   79771: {gems: 400, flags: []}, // Fire Quiver Backpack
-  80049: {gems: 700, flags: []} // Ice Encasement Outfit
+  80049: {gems: 700, flags: []}, // Ice Encasement Outfit
+  80044: {gems: 400, flags: []}, // Mini Festive Aurene
+  80026: {gems: 133, flags: []}, // Ice Crown (Unlocks all weights)
+  80019: {gems: 400, flags: []}, // Scruffy Backpack
+  80018: {gems: 125, flags: []}, // Infinirarium Glider (Random BLC drop)
+  79680: {gems: 125, flags: []}, // Candelabra Staff (Random BLC drop)
+  80029: {gems: 125, flags: []}, // Candelabra Staff (Random BLC drop)
+  80072: {gems: 125, flags: []}, // Mini Celestial Rooster (Random BLC drop)
+  80067: {gems: 1000, flags: []}, // Celestial Rooster Harvesting Tool
+  80069: {gems: 125, flags: []}, // Solar and Lunar Dye Kit
+  80484: {gems: 500, flags: []}, // Necrotic Glider
+  80077: {gems: 700, flags: []}, // Rox's Pathfinder Outfit
+  80066: {gems: 500, flags: []}, // Celestial Rooster Glider
+  79794: {gems: 125, flags: []}, // Bitterfrost Vantage Point (Random BLC drop)
+  79660: {gems: 125, flags: []} // Grasping Phantom Glider (Random BLC drop)
 }
