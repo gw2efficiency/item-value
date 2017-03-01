@@ -724,5 +724,7 @@ export default {
   80077: {gems: 700, flags: []}, // Rox's Pathfinder Outfit
   80066: {gems: 500, flags: []}, // Celestial Rooster Glider
   79794: {gems: 125, flags: []}, // Bitterfrost Vantage Point (Random BLC drop)
-  79660: {gems: 125, flags: []} // Grasping Phantom Glider (Random BLC drop)
+  79660: {gems: 125, flags: []}, // Grasping Phantom Glider (Random BLC drop)
+  80854: {gems: 250, flags: []}, // Bloodstone Ascender
+  80795: {gems: 400, flags: []} // Shattered Bloodstone Glider
 }
