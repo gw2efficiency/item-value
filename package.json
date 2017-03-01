@@ -1,6 +1,6 @@
 {
   "name": "gw2e-item-value",
-  "version": "3.0.14",
+  "version": "3.0.15",
   "description": "Calculate the value of guildwars2 items",
   "main": "./build/index.js",
   "scripts": {
