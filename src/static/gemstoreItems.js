@@ -83,7 +83,8 @@ export default {
   70292: {gems: 500, flags: []}, // Butterfly Wings Backpack (Inside a container)
   39542: {gems: 200, flags: []}, // Casual Hoodie
   20004: {gems: 600, flags: []}, // Caithe's Bloom Dagger
-  67406: {gems: 300, flags: []}, // Candy Corn Gobbler Pack
+  67406: {gems: 300, flags: []}, // Candy Corn Gobbler Pack (Container)
+  67393: {gems: 300, flags: []}, // Candy Corn Gobbler (Inside a container)
   50104: {gems: 1000, flags: []}, // Captain's Airship Pass
   42968: {gems: 150, flags: []}, // Captain's Airship Pass (2 weeks)
   50093: {gems: 150, flags: []}, // Captain's Airship Pass (2 weeks)
@@ -352,7 +353,9 @@ export default {
   70300: {gems: 350, flags: []}, // Mini Bonebreaker
   68572: {gems: 350, flags: []}, // Mini Braham Eirsson
   66164: {gems: 500, flags: []}, // Mini Chickenado
-  67281: {gems: 700, flags: []}, // Mini Chieftain Utahein and Mini Svanir
+  67281: {gems: 700, flags: []}, // Mini Chieftain Utahein and Mini Svanir (Container)
+  67025: {gems: 350, flags: []}, // Mini Chieftain Utahein (Inside a container)
+  67022: {gems: 350, flags: []}, // Mini Svanir (Inside a container)
   67840: {gems: 350, flags: []}, // Mini Drooburt's Ghost
   68432: {gems: 500, flags: []}, // Mini Festive Lord Faren
   69656: {gems: 400, flags: []}, // Mini Fox Kit
@@ -726,5 +729,7 @@ export default {
   79794: {gems: 125, flags: []}, // Bitterfrost Vantage Point (Random BLC drop)
   79660: {gems: 125, flags: []}, // Grasping Phantom Glider (Random BLC drop)
   80854: {gems: 250, flags: []}, // Bloodstone Ascender
-  80795: {gems: 400, flags: []} // Shattered Bloodstone Glider
+  80795: {gems: 400, flags: []}, // Shattered Bloodstone Glider
+  80725: {gems: 500, flags: []}, // Raven's Spirit Glider
+  80371: {gems: 400, flags: []} // Mini Demmi Beetlestone
 }
