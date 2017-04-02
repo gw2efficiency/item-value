@@ -49,13 +49,13 @@ export default {
   8466: {gems: 600, flags: []}, // Belinda's Greatsword Skin
   68685: {gems: 500, flags: []}, // Black Feather Wings Backpack Set (Container)
   68686: {gems: 500, flags: []}, // Black Feather Wings Backpack (Inside a container)
+  70048: {gems: 350, flags: []}, // Black Feather Wings Glider (Inside a container)
   36708: {gems: 125, flags: []}, // Black Lion Chest Key
   19980: {gems: 125, flags: []}, // Black Lion Chest Key
   43077: {gems: 1600, flags: []}, // Black Lion Introductory Package
   19986: {gems: 300, flags: ['daily']}, // Black Lion Salvage Kit
   64195: {gems: 300, flags: ['daily']}, // Black Lion Salvage Kit
   67283: {gems: 300, flags: ['daily']}, // Black Lion Salvage Kit
-  70048: {gems: 350, flags: []}, // Black Feather Wings Glider (Inside a container)
   79354: {gems: 125, flags: []}, // Bloodstone Dye Kit
   43091: {gems: 700, flags: []}, // Bloody Prince's Outfit (Container)
   65195: {gems: 350, flags: []}, // Bloody Prince's Outfit (Inside a container)
@@ -303,9 +303,9 @@ export default {
   78727: {gems: 350, flags: []}, // Macaw Wings Glider (Inside a container)
   78732: {gems: 350, flags: []}, // Macaw Wings Backpack (Inside a container)
   70367: {gems: 125, flags: []}, // Mad King Dye Kit
-  36366: {gems: 700, flags: []}, // Mad King's Outfit
-  65196: {gems: 350, flags: []}, // Mad King's Outfit
-  49943: {gems: 350, flags: []}, // Scepter of Thorn
+  36366: {gems: 700, flags: []}, // Mad King's Outfit (Container)
+  65196: {gems: 350, flags: []}, // Mad King's Outfit (Inside a container)
+  49943: {gems: 350, flags: []}, // Scepter of Thorn (Inside a container)
   69753: {gems: 700, flags: []}, // Mad Scientist Outfit
   69478: {gems: 1000, flags: []}, // Mad Scientist's Harvesting Tool
   68799: {gems: 1000, flags: []}, // Mad Scientist's Logging Tool
@@ -731,5 +731,12 @@ export default {
   80854: {gems: 250, flags: []}, // Bloodstone Ascender
   80795: {gems: 400, flags: []}, // Shattered Bloodstone Glider
   80725: {gems: 500, flags: []}, // Raven's Spirit Glider
-  80371: {gems: 400, flags: []} // Mini Demmi Beetlestone
+  80371: {gems: 400, flags: []}, // Mini Demmi Beetlestone
+  80860: {gems: 350, flags: []}, // Mini Krytan Floppy Fish
+  80861: {gems: 600, flags: []}, // Shield of the Goddess
+  80082: {gems: 300, flags: []}, // Braham's Wolfblood Pauldrons
+  80906: {gems: 700, flags: []}, // Spring Promenade Outfit
+  79366: {gems: 125, flags: []}, // Elemental Sword (Random BLC drop)
+  80918: {gems: 125, flags: []}, // Elemental Sword (Random BLC drop)
+  80328: {gems: 125, flags: []} // Noran's Safe Room Pass (Random BLC drop)
 }
