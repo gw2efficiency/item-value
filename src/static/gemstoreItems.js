@@ -110,7 +110,7 @@ export default {
   44602: {gems: 800, flags: []}, // Copper-Fed Salvage-o-Matic
   78731: {gems: 1000, flags: []}, // Cosmic Mining Tool
   44779: {gems: 500, flags: []}, // Costumed Mini 3-Pack (Container)
-  48741: {gems: 500, flags: []}, // Mini Ghost Carlotta (Inside a container)
+  48741: {gems: 500, flags: []}, // Mini Ghost Carlotta (Combined in Mystic Forge)
   48753: {gems: 167, flags: []}, // Mini Quaggan Ghost Trick-or-Treater (Inside a container)
   48754: {gems: 167, flags: []}, // Mini Assassin Trick-or-Treater (Inside a container)
   48755: {gems: 167, flags: []}, // Mini Aviator Trick-or-Treater (Inside a container)
@@ -133,7 +133,7 @@ export default {
   39543: {gems: 400, flags: []}, // Designer Hoodie
   65197: {gems: 67, flags: []}, // Devil Horns (Unlocks all weights)
   42897: {gems: 500, flags: []}, // Dragon Bash Mini Pack (Container)
-  43428: {gems: 500, flags: []}, // Mini Holographic Colossus (Inside a container)
+  43428: {gems: 500, flags: []}, // Mini Holographic Colossus (Combined in Mystic Forge)
   43425: {gems: 167, flags: []}, // Mini Holographic Branded Minotaur (Inside a container)
   43426: {gems: 167, flags: []}, // Mini Holographic Axe-Wielding Destroyer (Inside a container)
   43427: {gems: 167, flags: []}, // Mini Holographic Corrupted Wolf (Inside a container)
@@ -388,19 +388,19 @@ export default {
   69621: {gems: 350, flags: []}, // Miniature Moose
   68610: {gems: 350, flags: []}, // Miniature Ram
   36320: {gems: 500, flags: []}, // Miniature Spooky Trio (Container)
-  36323: {gems: 500, flags: []}, // Chainsaw the Skeleton (Inside a container)
+  36323: {gems: 500, flags: []}, // Chainsaw the Skeleton (Combined in Mystic Forge)
   36317: {gems: 167, flags: []}, // Mini Spooky Ghost (Inside a container)
   36319: {gems: 167, flags: []}, // Mini Spooky Spider (Inside a container)
-  36321: {gems: 167, flags: []}, // Mini Spooky Skeleton (Container)
+  36321: {gems: 167, flags: []}, // Mini Spooky Skeleton (Inside a container)
   41907: {gems: 500, flags: []}, // Miniature Super Trio (Container)
   41909: {gems: 167, flags: []}, // Mini Super Bee Dog (Inside a container)
   41910: {gems: 167, flags: []}, // Mini Super Monkey (Inside a container)
   41908: {gems: 167, flags: []}, // Mini Super Spider (Inside a container)
   46498: {gems: 500, flags: []}, // Miniature Super Trio—World 2 (Container)
-  46497: {gems: 500, flags: []}, // Mini Super Assassin (Inside a container)
+  46497: {gems: 500, flags: []}, // Mini Super Assassin (Combined in Mystic Forge)
   46494: {gems: 167, flags: []}, // Mini Super Banana (Inside a container)
   46496: {gems: 167, flags: []}, // Mini Super Yeti (Inside a container)
-  46495: {gems: 167, flags: []}, // Mini Super Raccoon (Container)
+  46495: {gems: 167, flags: []}, // Mini Super Raccoon (Inside a container)
   44886: {gems: 500, flags: []}, // Mist Herald Back Item Skin Set (Container)
   44888: {gems: 500, flags: []}, // Mist Herald Back Item Skin (Inside a container)
   41807: {gems: 1000, flags: []}, // Molten Alliance Mining Pick
@@ -537,7 +537,7 @@ export default {
   49149: {gems: 1000, flags: []}, // Royal Terrace Pass
   64749: {gems: 67, flags: []}, // Sailor's Beanie (Unlocks all weights)
   47907: {gems: 500, flags: []}, // Scarlet's Champions Mini 3-Pack (Container)
-  42956: {gems: 500, flags: []}, // Mini Armored Scarlet Briar (Inside a container)
+  42956: {gems: 500, flags: []}, // Mini Armored Scarlet Briar (Combined in Mystic Forge)
   42954: {gems: 167, flags: []}, // Mini Toxic Warlock (Inside a container)
   42955: {gems: 167, flags: []}, // Mini Molten Berserker (Inside a container)
   42953: {gems: 167, flags: []}, // Mini Aetherblade Admiral (Inside a container)
@@ -590,7 +590,7 @@ export default {
   68682: {gems: 350, flags: []}, // Sylvari Seed Pod Mail Carrier
   67291: {gems: 125, flags: []}, // Taimi's Dye Kit
   43933: {gems: 500, flags: []}, // Tequatl Rising Mini Pack (Container)
-  47844: {gems: 500, flags: []}, // Mini Risen Abomination (Inside a container)
+  47844: {gems: 500, flags: []}, // Mini Risen Abomination (Combined in Mystic Forge)
   47842: {gems: 167, flags: []}, // Mini Risen Brute (Inside a container)
   47841: {gems: 167, flags: []}, // Mini Risen Thrall (Inside a container)
   47843: {gems: 167, flags: []}, // Mini Risen Plague Carrier (Inside a container)
@@ -738,5 +738,26 @@ export default {
   80906: {gems: 700, flags: []}, // Spring Promenade Outfit
   79366: {gems: 125, flags: []}, // Elemental Sword (Random BLC drop)
   80918: {gems: 125, flags: []}, // Elemental Sword (Random BLC drop)
-  80328: {gems: 125, flags: []} // Noran's Safe Room Pass (Random BLC drop)
+  80328: {gems: 125, flags: []}, // Noran's Safe Room Pass (Random BLC drop)
+  80878: {gems: 500, flags: []}, // Mini Super Storm Wizard (Combined in Mystic Forge)
+  80974: {gems: 125, flags: []}, // Primordus Dye Kit
+  79702: {gems: 400, flags: []}, // Plush Baby Aurene Backpack (Inside Container)
+  79705: {gems: 700, flags: []}, // Marjory's Shrouded Outfit
+  80966: {gems: 1000, flags: []}, // Super Adventure Logging Bear
+  79612: {gems: 150, flags: []}, // Lava Lounge Pass (2 weeks)
+  79695: {gems: 125, flags: []}, // Vibrant Dye Kit
+  80939: {gems: 600, flags: []}, // Miniature Super Trio—Series 3 (Container)
+  80884: {gems: 200, flags: []}, // Mini Super Snake (Inside Container)
+  80903: {gems: 200, flags: []}, // Mini Super Frog (Inside Container)
+  80883: {gems: 200, flags: []}, // Mini Super Goat (Inside Container)
+  80915: {gems: 600, flags: []}, // Mini Super Queen Bee Dog (Combined in Mystic Forge)
+  80919: {gems: 500, flags: []}, // Super Cloud Glider
+  80958: {gems: 350, flags: []}, // Super Adventure Holo-Copter (Inside Container)
+  80887: {gems: 350, flags: []}, // Super Adventure Holo-Copter Backpack (Inside Container)
+  80981: {gems: 600, flags: []}, // Hourglass Staff
+  80973: {gems: 700, flags: []}, // Kasmeer's Regal Outfit
+  80984: {gems: 350, flags: []}, // Vine-Touched Destroyer Wings (Inside Container)
+  80985: {gems: 350, flags: []}, // Vine-Touched Destroyer Glider (Inside Container)
+  81001: {gems: 600, flags: []}, // Replica Mirror of Lyssa
+  81263: {gems: 400, flags: []} // Mercenary Backpack
 }
