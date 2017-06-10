@@ -759,5 +759,15 @@ export default {
   80984: {gems: 350, flags: []}, // Vine-Touched Destroyer Wings (Inside Container)
   80985: {gems: 350, flags: []}, // Vine-Touched Destroyer Glider (Inside Container)
   81001: {gems: 600, flags: []}, // Replica Mirror of Lyssa
-  81263: {gems: 400, flags: []} // Mercenary Backpack
+  81263: {gems: 400, flags: []}, // Mercenary Backpack
+  81242: {gems: 400, flags: []}, // Mini Outlaw Puppy
+  81240: {gems: 600, flags: []}, // Menzies's Agony
+  80979: {gems: 900, flags: []}, // Unbound Magic Logging Pulse (Inside Container)
+  80977: {gems: 900, flags: []}, // Unbound Magic Mining Beam (Inside Container)
+  80987: {gems: 900, flags: []}, // Unbound Magic Harvesting Blast (Inside Container)
+  81223: {gems: 700, flags: []}, // Outlaw Outfit
+  81212: {gems: 42, flags: []}, // Sworn Zaishen Helm Skin (Random BLC Drop)
+  81218: {gems: 42, flags: []}, // Sworn Zaishen Helm Skin (Random BLC Drop)
+  81215: {gems: 125, flags: []}, // Hounds of Balthazar Mail Carrier (Random BLC Drop)
+  81291: {gems: 400, flags: []} // Magic Carpet Glider
 }
