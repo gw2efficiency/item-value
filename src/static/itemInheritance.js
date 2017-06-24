@@ -585,5 +585,13 @@ export default {
   42423: [{gold: 50000}], // Medium Fused Gauntlets
   42415: [{gold: 50000}], // Light Fused Gauntlets
   42420: [{gold: 50000}], // Light Fused Gauntlets
-  42422: [{gold: 50000}] // Light Fused Gauntlets
+  42422: [{gold: 50000}], // Light Fused Gauntlets
+
+  // Home Instance Nodes
+  79217: [{gold: 500000}], // Bloodstone Crystal Node
+  81115: [{gold: 500000}], // Fire Orchid Node
+  79646: [{id: 47909, count: 5}], // Greater Gift of Candy Corn
+  80450: [{gold: 500000}], // Jade Fragment Node
+  79898: [{gold: 500000}], // Petrified Wood Node
+  79903: [{gold: 500000}] // Winterberry Bush Node
 }
