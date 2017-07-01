@@ -769,5 +769,10 @@ export default {
   81212: {gems: 42, flags: []}, // Sworn Zaishen Helm Skin (Random BLC Drop)
   81218: {gems: 42, flags: []}, // Sworn Zaishen Helm Skin (Random BLC Drop)
   81215: {gems: 125, flags: []}, // Hounds of Balthazar Mail Carrier (Random BLC Drop)
-  81291: {gems: 400, flags: []} // Magic Carpet Glider
+  81291: {gems: 400, flags: []}, // Magic Carpet Glider
+  81545: {gems: 125, flags: []}, // Jormag Dye Kit
+  81293: {gems: 500, flags: []}, // Foefire Wraps (Unlocks all weights)
+  81412: {gems: 500, flags: []}, // Foefire Mantle (Unlocks all weights)
+  81567: {gems: 350, flags: []}, // God-Slayer Longbow (Inside Container)
+  81560: {gems: 350, flags: []} // God-Slayer Short Bow (Inside Container)
 }
