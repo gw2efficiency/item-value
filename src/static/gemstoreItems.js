@@ -741,7 +741,7 @@ export default {
   80328: {gems: 125, flags: []}, // Noran's Safe Room Pass (Random BLC drop)
   80878: {gems: 500, flags: []}, // Mini Super Storm Wizard (Combined in Mystic Forge)
   80974: {gems: 125, flags: []}, // Primordus Dye Kit
-  79702: {gems: 400, flags: []}, // Plush Baby Aurene Backpack (Inside Container)
+  79702: {gems: 400, flags: []}, // Fuzzy Aurene  (Inside Container)
   79705: {gems: 700, flags: []}, // Marjory's Shrouded Outfit
   80966: {gems: 1000, flags: []}, // Super Adventure Logging Bear
   79612: {gems: 150, flags: []}, // Lava Lounge Pass (2 weeks)
@@ -774,5 +774,17 @@ export default {
   81293: {gems: 500, flags: []}, // Foefire Wraps (Unlocks all weights)
   81412: {gems: 500, flags: []}, // Foefire Mantle (Unlocks all weights)
   81567: {gems: 350, flags: []}, // God-Slayer Longbow (Inside Container)
-  81560: {gems: 350, flags: []} // God-Slayer Short Bow (Inside Container)
+  81560: {gems: 350, flags: []}, // God-Slayer Short Bow (Inside Container)
+  81594: {gems: 1200, flags: []}, // Black Lion Hunters Contract
+  81547: {gems: 350, flags: []}, // Dynamics Glider Module (Inside Container)
+  81557: {gems: 350, flags: []}, // Dynamics Projector Module (Inside Container)
+  81548: {gems: 700, flags: []}, // Dynamics Exo-Suit Outfit
+  81583: {gems: 400, flags: []}, // Fuzzy Aurene Hat (Unlocks all weights)
+  81565: {gems: 400, flags: []}, // Mini Plush Aurene
+  81664: {gems: 1000, flags: []}, // Mistlock Sanctuary Passkey
+  81832: {gems: 150, flags: []}, // Mistlock Sanctuary Passkey (2 Weeks)
+  81901: {gems: 125, flags: []}, // Mini Dwayna's Messenger (Random BLC Drop)
+  81888: {gems: 625, flags: []}, // Feathers of the Zephyr (Random BLC Drop / Inside Container)
+  81854: {gems: 625, flags: []}, // Golden Zephyr Backpiece (Random BLC Drop / Inside Container)
+  82011: {gems: 400, flags: []} // Abaddon's Glider
 }
