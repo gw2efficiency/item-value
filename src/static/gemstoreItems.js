@@ -690,8 +690,8 @@ export default {
   43048: {gems: 133, flags: []}, // Zodiac Medium Armguard Skin (Inside a container)
   43052: {gems: 133, flags: []}, // Zodiac Medium Legging Skin (Inside a container)
   43044: {gems: 133, flags: []}, // Zodiac Medium Boot Skin (Inside a container)
-  76905: {gems: 1000, flags: []}, // Crystal Arbiter Outfit (Inside a container)
-  72252: {gems: 1000, flags: []}, // Crystal Arbiter Glider (Inside a container)
+  76905: {gems: 700, flags: []}, // Crystal Arbiter Outfit (Inside a container)
+  72252: {gems: 500, flags: []}, // Crystal Arbiter Glider (Inside a container)
   79531: {gems: 700, flags: []}, // Mursaat Robes
   79523: {gems: 350, flags: []}, // Mursaat Wings Backpack (Inside a container)
   79595: {gems: 350, flags: []}, // Mursaat Wings Glider (Inside a container)
@@ -784,7 +784,11 @@ export default {
   81664: {gems: 1000, flags: []}, // Mistlock Sanctuary Passkey
   81832: {gems: 150, flags: []}, // Mistlock Sanctuary Passkey (2 Weeks)
   81901: {gems: 125, flags: []}, // Mini Dwayna's Messenger (Random BLC Drop)
-  81888: {gems: 625, flags: []}, // Feathers of the Zephyr (Random BLC Drop / Inside Container)
-  81854: {gems: 625, flags: []}, // Golden Zephyr Backpiece (Random BLC Drop / Inside Container)
-  82011: {gems: 400, flags: []} // Abaddon's Glider
+  81888: {gems: 63, flags: []}, // Feathers of the Zephyr (Random BLC Drop / Inside Container)
+  81854: {gems: 63, flags: []}, // Golden Zephyr Backpiece (Random BLC Drop / Inside Container)
+  82011: {gems: 400, flags: []}, // Abaddon's Glider
+  82152: {gems: 2000, flags: []}, // Black Lion Instant Level 80 Ticket
+  84064: {gems: 500, flags: []}, // Fiery Blade Axe (Inside Container)
+  84112: {gems: 500, flags: []}, // Icy Blade Axe (Inside Container)
+  81776: {gems: 500, flags: []} // Abaddon's Mask
 }
