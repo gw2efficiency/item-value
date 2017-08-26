@@ -771,15 +771,15 @@ export default {
   81215: {gems: 125, flags: []}, // Hounds of Balthazar Mail Carrier (Random BLC Drop)
   81291: {gems: 400, flags: []}, // Magic Carpet Glider
   81545: {gems: 125, flags: []}, // Jormag Dye Kit
-  81293: {gems: 500, flags: []}, // Foefire Wraps (Unlocks all weights)
-  81412: {gems: 500, flags: []}, // Foefire Mantle (Unlocks all weights)
+  81293: {gems: 167, flags: []}, // Foefire Wraps (Unlocks all weights)
+  81412: {gems: 167, flags: []}, // Foefire Mantle (Unlocks all weights)
   81567: {gems: 350, flags: []}, // God-Slayer Longbow (Inside Container)
   81560: {gems: 350, flags: []}, // God-Slayer Short Bow (Inside Container)
   81594: {gems: 1200, flags: []}, // Black Lion Hunters Contract
   81547: {gems: 350, flags: []}, // Dynamics Glider Module (Inside Container)
   81557: {gems: 350, flags: []}, // Dynamics Projector Module (Inside Container)
   81548: {gems: 700, flags: []}, // Dynamics Exo-Suit Outfit
-  81583: {gems: 400, flags: []}, // Fuzzy Aurene Hat (Unlocks all weights)
+  81583: {gems: 134, flags: []}, // Fuzzy Aurene Hat (Unlocks all weights)
   81565: {gems: 400, flags: []}, // Mini Plush Aurene
   81664: {gems: 1000, flags: []}, // Mistlock Sanctuary Passkey
   81832: {gems: 150, flags: []}, // Mistlock Sanctuary Passkey (2 Weeks)
@@ -790,5 +790,8 @@ export default {
   82152: {gems: 2000, flags: []}, // Black Lion Instant Level 80 Ticket
   84064: {gems: 500, flags: []}, // Fiery Blade Axe (Inside Container)
   84112: {gems: 500, flags: []}, // Icy Blade Axe (Inside Container)
-  81776: {gems: 500, flags: []} // Abaddon's Mask
+  81776: {gems: 167, flags: []}, // Abaddon's Mask (Unlocks all weights)
+  83865: {gems: 700, flags: []}, // Champion of Tyria Outfit
+  84782: {gems: 400, flags: []}, // Mini Squire Aurene
+  83341: {gems: 400, flags: []} // Sheet Music Glider
 }
