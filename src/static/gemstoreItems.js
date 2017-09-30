@@ -717,28 +717,19 @@ export default {
   80044: {gems: 400, flags: []}, // Mini Festive Aurene
   80026: {gems: 133, flags: []}, // Ice Crown (Unlocks all weights)
   80019: {gems: 400, flags: []}, // Scruffy Backpack
-  80018: {gems: 125, flags: []}, // Infinirarium Glider (Random BLC drop)
-  79680: {gems: 125, flags: []}, // Candelabra Staff (Random BLC drop)
-  80029: {gems: 125, flags: []}, // Candelabra Staff (Random BLC drop)
-  80072: {gems: 125, flags: []}, // Mini Celestial Rooster (Random BLC drop)
   80067: {gems: 1000, flags: []}, // Celestial Rooster Harvesting Tool
   80069: {gems: 125, flags: []}, // Solar and Lunar Dye Kit
   80484: {gems: 500, flags: []}, // Necrotic Glider
   80077: {gems: 700, flags: []}, // Rox's Pathfinder Outfit
   80066: {gems: 500, flags: []}, // Celestial Rooster Glider
-  79794: {gems: 125, flags: []}, // Bitterfrost Vantage Point (Random BLC drop)
-  79660: {gems: 125, flags: []}, // Grasping Phantom Glider (Random BLC drop)
   80854: {gems: 250, flags: []}, // Bloodstone Ascender
   80795: {gems: 400, flags: []}, // Shattered Bloodstone Glider
   80725: {gems: 500, flags: []}, // Raven's Spirit Glider
   80371: {gems: 400, flags: []}, // Mini Demmi Beetlestone
   80860: {gems: 350, flags: []}, // Mini Krytan Floppy Fish
   80861: {gems: 600, flags: []}, // Shield of the Goddess
-  80082: {gems: 300, flags: []}, // Braham's Wolfblood Pauldrons
+  80082: {gems: 100, flags: []}, // Braham's Wolfblood Pauldrons (Unlocks all weights)
   80906: {gems: 700, flags: []}, // Spring Promenade Outfit
-  79366: {gems: 125, flags: []}, // Elemental Sword (Random BLC drop)
-  80918: {gems: 125, flags: []}, // Elemental Sword (Random BLC drop)
-  80328: {gems: 125, flags: []}, // Noran's Safe Room Pass (Random BLC drop)
   80878: {gems: 500, flags: []}, // Mini Super Storm Wizard (Combined in Mystic Forge)
   80974: {gems: 125, flags: []}, // Primordus Dye Kit
   79702: {gems: 400, flags: []}, // Fuzzy Aurene  (Inside Container)
@@ -766,9 +757,6 @@ export default {
   80977: {gems: 900, flags: []}, // Unbound Magic Mining Beam (Inside Container)
   80987: {gems: 900, flags: []}, // Unbound Magic Harvesting Blast (Inside Container)
   81223: {gems: 700, flags: []}, // Outlaw Outfit
-  81212: {gems: 42, flags: []}, // Sworn Zaishen Helm Skin (Random BLC Drop)
-  81218: {gems: 42, flags: []}, // Sworn Zaishen Helm Skin (Random BLC Drop)
-  81215: {gems: 125, flags: []}, // Hounds of Balthazar Mail Carrier (Random BLC Drop)
   81291: {gems: 400, flags: []}, // Magic Carpet Glider
   81545: {gems: 125, flags: []}, // Jormag Dye Kit
   81293: {gems: 167, flags: []}, // Foefire Wraps (Unlocks all weights)
@@ -793,5 +781,15 @@ export default {
   81776: {gems: 167, flags: []}, // Abaddon's Mask (Unlocks all weights)
   83865: {gems: 700, flags: []}, // Champion of Tyria Outfit
   84782: {gems: 400, flags: []}, // Mini Squire Aurene
-  83341: {gems: 400, flags: []} // Sheet Music Glider
+  83341: {gems: 400, flags: []}, // Sheet Music Glider
+  84014: {gems: 134, flags: []}, // Swaggering Hat (Unlocks all weights)
+  82666: {gems: 500, flags: []}, // Geomancer Glider
+  82391: {gems: 700, flags: []}, // Grenth's Regalia Outfit
+  82671: {gems: 350, flags: []}, // Largos Fin Glider
+  84241: {gems: 250, flags: []}, // Largos Fin Backpack
+  85034: {gems: 700, flags: []}, // Forged Outfit
+  84998: {gems: 400, flags: []}, // Mini Maraca Choya Pinata
+  85192: {gems: 600, flags: []}, // Trained Choya Hammer Skin
+  82081: {gems: 1000, flags: []}, // Invitation to "Lily of the Elon"
+  82075: {gems: 700, flags: []} // Sunspear Outfit
 }
