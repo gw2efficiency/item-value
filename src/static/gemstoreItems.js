@@ -791,5 +791,9 @@ export default {
   84998: {gems: 400, flags: []}, // Mini Maraca Choya Pinata
   85192: {gems: 600, flags: []}, // Trained Choya Hammer Skin
   82081: {gems: 1000, flags: []}, // Invitation to "Lily of the Elon"
-  82075: {gems: 700, flags: []} // Sunspear Outfit
+  82075: {gems: 700, flags: []}, // Sunspear Outfit
+  85282: {gems: 167, flags: []}, // Foefire Greaves (Unlocks all weights)
+  84873: {gems: 400, flags: []}, // Mini Zaishen Puppy
+  85220: {gems: 350, flags: []}, // Branded Wing Glider
+  85332: {gems: 350, flags: []} // Branded Wing Backpack
 }
