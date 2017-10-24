@@ -602,6 +602,36 @@ export default {
   42420: [{gold: 50000}], // Light Fused Gauntlets
   42422: [{gold: 50000}], // Light Fused Gauntlets
 
+  // Recipes from Miyani
+  9616: [{gold: 100000}], // Recipe: Gift of Ice
+  9615: [{gold: 100000}], // Recipe: Gift of Metal
+  9617: [{gold: 100000}], // Recipe: Gift of Wood
+  9618: [{gold: 100000}], // Recipe: Gift of Energy
+  9621: [{gold: 100000}], // Recipe: Gift of Nature
+  9622: [{gold: 100000}], // Recipe: Unicorn Statue
+  9623: [{gold: 100000}], // Recipe: Gift of History
+  9624: [{gold: 100000}], // Recipe: Gift of Music
+  9625: [{gold: 100000}], // Recipe: Gift of Darkness
+  9626: [{gold: 100000}], // Recipe: Gift of Light
+  9627: [{gold: 100000}], // Recipe: Vial of Quicksilver
+  9628: [{gold: 100000}], // Recipe: Gift of Entertainment
+  9629: [{gold: 100000}], // Recipe: Gift of Stealth
+  9630: [{gold: 100000}], // Recipe: Gift of Weather
+  9631: [{gold: 100000}], // Recipe: Liquid Flame
+  9632: [{gold: 100000}], // Recipe: Gift of Color
+  9633: [{gold: 100000}], // Recipe: Gift of Lightning
+  9634: [{gold: 100000}], // Recipe: Wolf Statue
+  9635: [{gold: 100000}], // Recipe: Shark Statue
+  9636: [{gold: 100000}], // Recipe: Eel Statue
+  75645: [{gold: 100000}], // Recipe: Gift of Blood
+  75337: [{gold: 100000}], // Recipe: Gift of Totems
+  76121: [{gold: 100000}], // Recipe: Gift of Scales
+  70646: [{gold: 100000}], // Recipe: Gift of Dust
+  73366: [{gold: 100000}], // Recipe: Gift of Bones
+  73389: [{gold: 100000}], // Recipe: Gift of Venom
+  74882: [{gold: 100000}], // Recipe: Gift of Fangs
+  75071: [{gold: 100000}], // Recipe: Gift of Claws
+
   // Home Instance Nodes
   79217: [{gold: 500000}], // Bloodstone Crystal Node
   81115: [{gold: 500000}], // Fire Orchid Node
