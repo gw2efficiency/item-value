@@ -27,6 +27,20 @@ export default {
   69981: [{id: 19721, count: 50}], // Massive Glob of Ectoplasm (exotic)
   49503: [{id: 19721, count: 500}], // Massive Glob of Ectoplasm (ascended)
 
+  // Black Lion Exclusives Chest
+  79660: [{id: 82450, count: 1}], // Grasping Phantom Glider
+  80072: [{id: 82450, count: 1}], // Mini Celestial Rooster
+  80018: [{id: 82450, count: 1}], // Infinirarium Glider
+  79680: [{id: 82450, count: 1}], // Candelabra Staff
+  80029: [{id: 82450, count: 1}], // Candelabra Staff
+  79794: [{id: 82450, count: 1}], // Bitterfrost Vantage Point
+  80202: [{id: 82450, count: 1}], // Noran's Safe Room Pass and Key
+  79366: [{id: 82450, count: 1}], // Elemental Sword
+  80918: [{id: 82450, count: 1}], // Elemental Sword
+  81212: [{id: 82450, count: 1}], // Sworn Zaishen Helm Skin
+  81218: [{id: 82450, count: 1}], // Sworn Zaishen Helm Skin
+  81215: [{id: 82450, count: 1}], // Hounds of Balthazar Mail Carrier
+
   // Kaiser Snake Weapons
   78029: [{id: 78105, count: 1}], // Kaiser Snake Axe
   78068: [{id: 78105, count: 1}], // Kaiser Snake Axe
