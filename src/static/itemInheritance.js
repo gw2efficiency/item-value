@@ -37,8 +37,8 @@ export default {
   80202: [{id: 82450, count: 1}], // Noran's Safe Room Pass and Key
   79366: [{id: 82450, count: 1}], // Elemental Sword
   80918: [{id: 82450, count: 1}], // Elemental Sword
-  81212: [{id: 82450, count: 1}], // Sworn Zaishen Helm Skin
-  81218: [{id: 82450, count: 1}], // Sworn Zaishen Helm Skin
+  81212: [{id: 82450, count: 0.33}], // Sworn Zaishen Helm Skin
+  81218: [{id: 82450, count: 0.33}], // Sworn Zaishen Helm Skin
   81215: [{id: 82450, count: 1}], // Hounds of Balthazar Mail Carrier
 
   // Kaiser Snake Weapons
