@@ -795,5 +795,22 @@ export default {
   85282: {gems: 167, flags: []}, // Foefire Greaves (Unlocks all weights)
   84873: {gems: 400, flags: []}, // Mini Zaishen Puppy
   85220: {gems: 350, flags: []}, // Branded Wing Glider
-  85332: {gems: 350, flags: []} // Branded Wing Backpack
+  85332: {gems: 350, flags: []}, // Branded Wing Backpack
+  85484: {gems: 400, flags: []}, // Spooky Raptor Mount
+  85472: {gems: 400, flags: []}, // Spooky Springer Mount
+  85444: {gems: 400, flags: []}, // Spooky Skimmer Mount
+  85483: {gems: 400, flags: []}, // Spooky Jackal Mount
+  85423: {gems: 400, flags: []}, // Spooky Griffon Mount
+  85435: {gems: 25, flags: []}, // Mini Spooky Raptor (Random BLC Drop)
+  85458: {gems: 25, flags: []}, // Mini Spooky Springer (Random BLC Drop)
+  85467: {gems: 25, flags: []}, // Mini Spooky Skimmer (Random BLC Drop)
+  85401: {gems: 25, flags: []}, // Mini Spooky Jackal (Random BLC Drop)
+  85461: {gems: 25, flags: []}, // Mini Spooky Griffon (Random BLC Drop)
+  85396: {gems: 32, flags: []}, // Fallen Balthazar Helm (Unlocks all weights/ Random BLC Drop)
+  85326: {gems: 125, flags: []}, // Jackal Pup Backpack (Random BLC Drop)
+  85256: {gems: 125, flags: []}, // Hydra Staff (Random BLC Drop)
+  85506: {gems: 400, flags: []}, // Mini Elonian Familiar
+  85496: {gems: 500, flags: []}, // Riding Broom Glider
+  85481: {gems: 400, flags: []}, // Mini Choya Pumpkin Gang
+  85448: {gems: 700, flags: []} // Awakened Zealot Outfit
 }
