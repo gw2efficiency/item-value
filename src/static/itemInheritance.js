@@ -153,6 +153,8 @@ export default {
   67364: [{id: 47909, count: 110}], // Mini Gwynefyrdd
   79654: [{id: 47909, count: 120}], // Mini Oxidecimus the Shadow Raven
   48740: [{id: 47909, count: 6}], // Mini Bloody Prince Thorn
+  85399: [{id: 47909, count: 20}], // Mini Halloween Gourdon
+  85469: [{id: 47909, count: 100}], // Mini Lord Humphrey Faren
   73476: [{gold: 100000}], // Mini Brine
   73749: [{gold: 300000}], // Mini Bristleback
   70703: [{gold: 200000}], // Mini Castor
