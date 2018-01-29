@@ -812,5 +812,30 @@ export default {
   85506: {gems: 400, flags: []}, // Mini Elonian Familiar
   85496: {gems: 500, flags: []}, // Riding Broom Glider
   85481: {gems: 400, flags: []}, // Mini Choya Pumpkin Gang
-  85448: {gems: 700, flags: []} // Awakened Zealot Outfit
+  85448: {gems: 700, flags: []}, // Awakened Zealot Outfit
+  85615: {gems: 134, flags: []}, // Salvaged Forged Gloves (Unlocks all weights)
+  85528: {gems: 134, flags: []}, // Salvaged Forged Helm (Unlocks all weights)
+  81564: {gems: 500, flags: []}, // Black Lion Weapon Arsenal (Inside a container)
+  85353: {gems: 500, flags: []}, // Makeover Pack (Inside a container)
+  85078: {gems: 500, flags: []}, // Black Lion Key Set (Inside a container)
+  85582: {gems: 500, flags: []}, // Black Lion Universal Outfit Ticket (Inside a container)
+  85517: {gems: 350, flags: []}, // Mini Kormeerkat
+  86163: {gems: 125, flags: []}, // Elonian Landscape Dye Kit
+  85491: {gems: 2000, flags: []}, // Resplendent Avialan Raptor Skin
+  85740: {gems: 700, flags: []}, // First Follower Desmina Outfit
+  85757: {gems: 700, flags: []}, // Permanent Choya Finisher
+  85524: {gems: 400, flags: []}, // Cozy Wintersday Raptor (Inside a container)
+  85564: {gems: 400, flags: []}, // Cozy Wintersday Skimmer (Inside a container)
+  85567: {gems: 400, flags: []}, // Cozy Wintersday Springer (Inside a container)
+  85600: {gems: 400, flags: []}, // Cozy Wintersday Jackal (Inside a container)
+  85541: {gems: 400, flags: []}, // Cozy Wintersday Griffon (Inside a container)
+  86715: {gems: 500, flags: []}, // Glacial Glider
+  86637: {gems: 700, flags: []}, // Winter Monarch Outfit
+  86690: {gems: 1600, flags: []}, // Umbral Demon Skimmer Skin
+  86516: {gems: 350, flags: []}, // Freezie Crown
+  86507: {gems: 400, flags: []}, // Mini Frozen Tik'Teek
+  86777: {gems: 63, flags: []}, // Griffon Hatchling Backpiece (Inside a container)
+  86813: {gems: 61, flags: []}, // Griffon Hatchling Glider (Inside a container)
+  86766: {gems: 2000, flags: []}, // Summit Wildhorn Springer Skin
+  86834: {gems: 600, flags: []}, // Permanent Sandshark Finisher
 }
