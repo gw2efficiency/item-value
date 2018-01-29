@@ -837,5 +837,5 @@ export default {
   86777: {gems: 63, flags: []}, // Griffon Hatchling Backpiece (Inside a container)
   86813: {gems: 61, flags: []}, // Griffon Hatchling Glider (Inside a container)
   86766: {gems: 2000, flags: []}, // Summit Wildhorn Springer Skin
-  86834: {gems: 600, flags: []}, // Permanent Sandshark Finisher
+  86834: {gems: 600, flags: []} // Permanent Sandshark Finisher
 }
