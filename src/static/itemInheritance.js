@@ -638,6 +638,22 @@ export default {
   50067: [{gold: 50000}], // Recipe: Gift of Blade
   50068: [{gold: 50000}], // Recipe: Gift of Blade
 
+  // Clothing Tonics -> Outfits conversion
+  85619: [{id: 36187, count: 1}], // Endless Casual Clothing Tonic
+  85552: [{id: 36200, count: 1}], // Endless Casual Hoodie Clothing Tonic
+  85521: [{id: 36189, count: 1}], // Endless Cherry Blossom Clothing Tonic
+  85590: [{id: 36179, count: 1}], // Endless Common Clothing Tonic
+  85530: [{id: 36190, count: 1}], // Endless Country Lace Clothing Tonic
+  85543: [{id: 36183, count: 1}], // Endless Designer Hoodie Clothing Tonic
+  86417: [{id: 36192, count: 1}], // Endless Dragon Emblem Clothing Tonic
+  85542: [{id: 36180, count: 1}], // Endless Khaki Clothing Tonic
+  85532: [{id: 36186, count: 1}], // Endless Layered Vest Clothing Tonic
+  85596: [{id: 36184, count: 1}], // Endless Leather Hoodie Clothing Tonic
+  85616: [{id: 36191, count: 1}], // Endless Ornate Clothing Tonic
+  85570: [{id: 36176, count: 1}], // Endless Riding Clothes Tonic
+  85547: [{id: 36185, count: 1}], // Endless Silk Brocade Clothing Tonic
+  85591: [{id: 36188, count: 1}], // Endless Striped Silk Clothing Tonic
+
   // Home Instance Nodes
   79217: [{gold: 500000}], // Bloodstone Crystal Node
   81115: [{gold: 500000}], // Fire Orchid Node
