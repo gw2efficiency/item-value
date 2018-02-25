@@ -22,6 +22,7 @@ export default {
   66900: [{id: 66896, count: 1}], // Ventari Follower Kite
   68361: [{id: 68362, count: 1}], // Magnanimous Choir Bell
   67374: [{id: 47909, count: 3}], // Hexed Outfit
+  86093: [{id: 68063, count: 1}, {id: 19721, count: 1}], // Funerary Incense
 
   // Ectoplasm gambling containers
   69981: [{id: 19721, count: 50}], // Massive Glob of Ectoplasm (exotic)
