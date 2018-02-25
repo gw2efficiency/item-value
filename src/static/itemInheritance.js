@@ -634,6 +634,9 @@ export default {
   73389: [{gold: 100000}], // Recipe: Gift of Venom
   74882: [{gold: 100000}], // Recipe: Gift of Fangs
   75071: [{gold: 100000}], // Recipe: Gift of Claws
+  50066: [{gold: 50000}], // Recipe: Gift of Blade
+  50067: [{gold: 50000}], // Recipe: Gift of Blade
+  50068: [{gold: 50000}], // Recipe: Gift of Blade
 
   // Home Instance Nodes
   79217: [{gold: 500000}], // Bloodstone Crystal Node
