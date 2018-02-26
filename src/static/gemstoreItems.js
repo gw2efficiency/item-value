@@ -837,5 +837,15 @@ export default {
   86777: {gems: 63, flags: []}, // Griffon Hatchling Backpiece (Inside a container)
   86813: {gems: 61, flags: []}, // Griffon Hatchling Glider (Inside a container)
   86766: {gems: 2000, flags: []}, // Summit Wildhorn Springer Skin
-  86834: {gems: 600, flags: []} // Permanent Sandshark Finisher
+  86834: {gems: 600, flags: []}, // Permanent Sandshark Finisher
+  86897: {gems: 500, flags: []}, // Jackal Rune Greaves
+  86904: {gems: 500, flags: []}, // Jackal Rune Gauntlets
+  86898: {gems: 125, flags: []}, // Zhaitan Dye Kit
+  86899: {gems: 2000, flags: []}, // Grand Lion Griffon Skin
+  86739: {gems: 600, flags: []}, // Arcane Marksman Rifle
+  86943: {gems: 1000, flags: []}, // Lucky Dog Harvesting Tool
+  86928: {gems: 63, flags: []}, // Fire-Breathing Longbow (Inside a container)
+  86961: {gems: 61, flags: []}, // Fire-Breathing Quiver (Inside a container)
+  82360: {gems: 700, flags: []}, // Imperial Guard Outfit
+  86958: {gems: 400, flags: []} // Mini Lucky Lantern Puppy
 }
