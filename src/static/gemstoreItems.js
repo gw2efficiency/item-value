@@ -847,5 +847,19 @@ export default {
   86928: {gems: 63, flags: []}, // Fire-Breathing Longbow (Inside a container)
   86961: {gems: 61, flags: []}, // Fire-Breathing Quiver (Inside a container)
   82360: {gems: 700, flags: []}, // Imperial Guard Outfit
-  86958: {gems: 400, flags: []} // Mini Lucky Lantern Puppy
+  86958: {gems: 400, flags: []}, // Mini Lucky Lantern Puppy
+  87088: {gems: 400, flags: []}, // Branded Raptor Skin (Inside a container)
+  87296: {gems: 400, flags: []}, // Branded Skimmer Skin (Inside a container)
+  87246: {gems: 400, flags: []}, // Branded Springer Skin (Inside a container)
+  87041: {gems: 400, flags: []}, // Branded Jackal Skin (Inside a container)
+  87273: {gems: 400, flags: []}, // Branded Griffon Skin (Inside a container)
+  87182: {gems: 700, flags: []}, // Inquest Exo-Suit Outfit
+  87021: {gems: 350, flags: []}, // Forged Wing Backpack (Inside a container)
+  87070: {gems: 350, flags: []}, // Forged Glider (Inside a container)
+  87366: {gems: 200, flags: []}, // Mini Super Piranha (Inside a container)
+  87343: {gems: 200, flags: []}, // Mini Super Bunny (Inside a container)
+  87309: {gems: 200, flags: []}, // Mini Super Turtle (Inside a container)
+  87311: {gems: 400, flags: []}, // Winged Headpiece
+  87425: {gems: 1000, flags: []}, // Shifting Sand Mining Pick
+  87399: {gems: 125, flags: []} // Celestial Compass Skin (Random BLC Drop)
 }
