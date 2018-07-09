@@ -861,5 +861,26 @@ export default {
   87309: {gems: 200, flags: []}, // Mini Super Turtle (Inside a container)
   87311: {gems: 400, flags: []}, // Winged Headpiece
   87425: {gems: 1000, flags: []}, // Shifting Sand Mining Pick
-  87399: {gems: 125, flags: []} // Celestial Compass Skin (Random BLC Drop)
+  87399: {gems: 125, flags: []}, // Celestial Compass Skin (Random BLC Drop)
+  87429: {gems: 400, flags: []}, // Beastslayer Glider
+  87478: {gems: 600, flags: []}, // Suntouched Scythe Staff Skin
+  87477: {gems: 700, flags: []}, // Primeval Dervish Outfit
+  87482: {gems: 400, flags: []}, // Exo-Suit Raptor Skin (Inside a container)
+  87488: {gems: 400, flags: []}, // Exo-Suit Skimmer Skin (Inside a container)
+  87483: {gems: 400, flags: []}, // Exo-Suit Springer Skin (Inside a container)
+  87481: {gems: 400, flags: []}, // Exo-Suit Jackal Skin (Inside a container)
+  87480: {gems: 400, flags: []}, // Exo-Suit Griffon Skin (Inside a container)
+  87539: {gems: 2000, flags: []}, // Shrine Guardian Jackal Skin
+  87530: {gems: 1000, flags: []}, // Choya Logging Tool
+  87548: {gems: 700, flags: []}, // Elonian Elementalist Outfit
+  87554: {gems: 1000, flags: []}, // Choya Harvesting Tool
+  87549: {gems: 400, flags: []}, // Sunspear Glider
+  87564: {gems: 600, flags: []}, // Venom Warblade
+  87567: {gems: 400, flags: []}, // Awakened Raptor Skin (Inside a container)
+  87573: {gems: 400, flags: []}, // Awakened Skimmer Skin (Inside a container)
+  87570: {gems: 400, flags: []}, // Awakened Springer Skin (Inside a container)
+  87572: {gems: 400, flags: []}, // Awakened Jackal Skin (Inside a container)
+  87566: {gems: 400, flags: []}, // Awakened Griffon Skin (Inside a container)
+  87952: {gems: 63, flags: []}, // Jeweled Scarab Backpiece (Random BLC Drop / Inside Container)
+  87750: {gems: 63, flags: []} // Jeweled Scarab Glider (Random BLC Drop / Inside Container)
 }
