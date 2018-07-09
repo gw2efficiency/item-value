@@ -632,6 +632,7 @@ export default {
   39520: {gems: 300, flags: []}, // Warrior Quaggan Backpack Set (Container)
   39519: {gems: 300, flags: []}, // Warrior Quaggan Backpack Cover (Inside a container)
   47897: {gems: 1000, flags: []}, // Watchwork Mining Pick
+  87422: {gems: 1000, flags: []}, // Watchwork Mining Pick
   66342: {gems: 500, flags: []}, // Water Fight Balloon Bucket
   70253: {gems: 1000, flags: []}, // Wedding Attire Outfit
   69882: {gems: 500, flags: []}, // White Feather Wings Backpack (Inside a container)
@@ -756,6 +757,9 @@ export default {
   80979: {gems: 900, flags: []}, // Unbound Magic Logging Pulse (Inside Container)
   80977: {gems: 900, flags: []}, // Unbound Magic Mining Beam (Inside Container)
   80987: {gems: 900, flags: []}, // Unbound Magic Harvesting Blast (Inside Container)
+  87396: {gems: 900, flags: []}, // Unbound Magic Harvesting Blast (Inside Container)
+  87420: {gems: 900, flags: []}, // Unbound Magic Logging Pulse (Inside Container)
+  87443: {gems: 900, flags: []}, // Unbound Magic Mining Beam (Inside Container)
   81223: {gems: 700, flags: []}, // Outlaw Outfit
   81291: {gems: 400, flags: []}, // Magic Carpet Glider
   81545: {gems: 125, flags: []}, // Jormag Dye Kit
@@ -844,6 +848,7 @@ export default {
   86899: {gems: 2000, flags: []}, // Grand Lion Griffon Skin
   86739: {gems: 600, flags: []}, // Arcane Marksman Rifle
   86943: {gems: 1000, flags: []}, // Lucky Dog Harvesting Tool
+  87397: {gems: 1000, flags: []}, // Lucky Dog Harvesting Tool
   86928: {gems: 63, flags: []}, // Fire-Breathing Longbow (Inside a container)
   86961: {gems: 61, flags: []}, // Fire-Breathing Quiver (Inside a container)
   82360: {gems: 700, flags: []}, // Imperial Guard Outfit
@@ -882,5 +887,8 @@ export default {
   87572: {gems: 400, flags: []}, // Awakened Jackal Skin (Inside a container)
   87566: {gems: 400, flags: []}, // Awakened Griffon Skin (Inside a container)
   87952: {gems: 63, flags: []}, // Jeweled Scarab Backpiece (Random BLC Drop / Inside Container)
-  87750: {gems: 63, flags: []} // Jeweled Scarab Glider (Random BLC Drop / Inside Container)
+  87750: {gems: 63, flags: []}, // Jeweled Scarab Glider (Random BLC Drop / Inside Container)
+  87701: {gems: 900, flags: []}, // Volatile Magic Harvesting Tool (Inside a container)
+  87954: {gems: 900, flags: []}, // Volatile Magic Logging Tool (Inside a container)
+  87841: {gems: 900, flags: []} // Volatile Magic Mining Tool (Inside a container)
 }
