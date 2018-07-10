@@ -663,5 +663,7 @@ export default {
   79646: [{id: 47909, count: 5}], // Greater Gift of Candy Corn
   80450: [{gold: 500000}], // Jade Fragment Node
   79898: [{gold: 500000}], // Petrified Wood Node
-  79903: [{gold: 500000}] // Winterberry Bush Node
+  79903: [{gold: 500000}], // Winterberry Bush Node
+  81696: [{gold: 500000}], // Orrian Oyster Node
+  87132: [{gold: 500000}] // Difluorite Crystal Cluster Node
 }
