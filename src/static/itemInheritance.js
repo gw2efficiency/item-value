@@ -641,6 +641,26 @@ export default {
   50067: [{gold: 50000}], // Recipe: Gift of Blade
   50068: [{gold: 50000}], // Recipe: Gift of Blade
 
+  // Recipes from master armorsmith
+  80124: [{gold: 50000}], // Recipe: Refined Envoy Jerkin
+  80153: [{gold: 50000}], // Recipe: Refined Envoy Gloves
+  80183: [{gold: 50000}], // Recipe: Refined Envoy Pants
+  80187: [{gold: 50000}], // Recipe: Refined Envoy Helmet
+  80255: [{gold: 50000}], // Recipe: Refined Envoy Leggings
+  80291: [{gold: 50000}], // Recipe: Refined Envoy Tassets
+  80344: [{gold: 50000}], // Recipe: Refined Envoy Gauntlets
+  80287: [{gold: 50000}], // Recipe: Refined Envoy Boots
+  80446: [{gold: 50000}], // Recipe: Refined Envoy Greaves
+  80431: [{gold: 50000}], // Recipe: Refined Envoy Vestments
+  80533: [{gold: 50000}], // Recipe: Refined Envoy Breastplate
+  80556: [{gold: 50000}], // Recipe: Refined Envoy Shoulderpads
+  80551: [{gold: 50000}], // Recipe: Refined Envoy Shoes
+  80597: [{gold: 50000}], // Recipe: Refined Envoy Mantle
+  80596: [{gold: 50000}], // Recipe: Refined Envoy Cowl
+  80636: [{gold: 50000}], // Recipe: Refined Envoy Vambraces
+  80667: [{gold: 50000}], // Recipe: Refined Envoy Pauldrons
+  80676: [{gold: 50000}], // Recipe: Refined Envoy Mask
+
   // Clothing Tonics -> Outfits conversion
   85619: [{id: 36187, count: 1}], // Endless Casual Clothing Tonic
   85552: [{id: 36200, count: 1}], // Endless Casual Hoodie Clothing Tonic
