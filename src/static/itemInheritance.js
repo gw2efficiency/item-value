@@ -685,5 +685,6 @@ export default {
   79898: [{gold: 500000}], // Petrified Wood Node
   79903: [{gold: 500000}], // Winterberry Bush Node
   81696: [{gold: 500000}], // Orrian Oyster Node
-  87132: [{gold: 500000}] // Difluorite Crystal Cluster Node
+  87132: [{gold: 500000}], // Difluorite Crystal Cluster Node
+  86297: [{gold: 500000}] // Brandstone Cluster Node
 }
