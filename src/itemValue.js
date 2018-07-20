@@ -16,11 +16,13 @@ export default function itemValue (item) {
   // the option for market manipulation, since someone can list an item that is generally
   // much lower value for an unreasonable price, thus increasing the "value" artificially.
   // To prevent that kind of abuse, we just use the buy price for these ~1300 items.
+  const sellDecisionPrice = sellPrice || lastKnownSellPrice
+  const buyDecisionPrice = buyPrice || lastKnownBuyPrice
   const useSellPrice =
-    buyPrice > 500 * GOLD ||
+    buyDecisionPrice > 500 * GOLD ||
     supply > 1000 ||
-    sellPrice < buyPrice * 2 ||
-    sellPrice - buyPrice < GOLD ||
+    sellDecisionPrice < buyDecisionPrice * 2 ||
+    sellDecisionPrice - buyDecisionPrice < GOLD ||
     whitelistedLowSupplyItems(item.name)
 
   // 1. The item is currently sold in the tradingpost
