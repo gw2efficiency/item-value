@@ -25,29 +25,37 @@ export default function itemValue (item) {
     sellDecisionPrice - buyDecisionPrice < GOLD ||
     whitelistedLowSupplyItems(item.name)
 
-  // 1. The item is currently sold in the tradingpost
+  // 1. The item is currently sold in the tradingpost, use the sell price
   if (useSellPrice && sellPrice) {
     return sellPrice
   }
 
-  // 2. If the item is currently not listed on the tradingpost, use the greater of last
-  // known sell tradingpost price and the crafting price of the item (if it has one)
-  const lastKnownTpPrice = useSellPrice ? lastKnownSellPrice : 0
-  if (lastKnownTpPrice || craftingPrice) {
-    return Math.max(lastKnownTpPrice, craftingPrice)
+  // 2. If the item is currently not sold on the tradingpost, use the last known sell price
+  if (useSellPrice && lastKnownSellPrice) {
+    return lastKnownSellPrice
   }
 
-  // 3. Try to fall back to the buy price in case the sell price was used at 1 or the item
-  // has never been sold, and the item is not craftable
-  if (buyPrice || lastKnownBuyPrice) {
-    return buyPrice || lastKnownBuyPrice
+  // 3. Fall back to the buy price in case the sell price can not be used due to artificial
+  // inflation or the item has never been sold on the tradingpost
+  if (buyPrice) {
+    return buyPrice
   }
 
-  // 4. Fall back to the vendor price to at least give it a number
+  // 4. The item was never sold on the tradingpost and is not listed, use the crafting price if it exists
+  if (craftingPrice) {
+    return craftingPrice
+  }
+
+  // 5. Try to use the last known buy price as a best-effort deal
+  if (lastKnownBuyPrice) {
+    return lastKnownBuyPrice
+  }
+
+  // 6. Fall back to the vendor price to at least give it a number
   if (item.vendor_price) {
     return item.vendor_price
   }
 
-  // 5. Give up :(
+  // 7. Give up, this item has no value :(
   return false
 }

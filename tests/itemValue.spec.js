@@ -4,38 +4,69 @@ import itemValue from '../src/itemValue.js'
 
 describe('itemValue', () => {
   it('uses the item sell price', () => {
-    let item = {sell: {price: 10}}
-    expect(itemValue(item)).to.equal(10)
-  })
+    const item = {
+      buy: {price: 10, last_known: 10},
+      sell: {price: 20, last_known: 10},
+      crafting: {buy: 10},
+      vendor_price: 10
+    }
 
-  it('uses the last known item sell price', () => {
-    let item = {sell: {price: 0, last_known: 10}}
-    expect(itemValue(item)).to.equal(10)
-  })
-
-  it('uses the crafting price', () => {
-    let item = {sell: {price: 0, last_known: false}, crafting: {buy: 10}}
-    expect(itemValue(item)).to.equal(10)
-  })
-
-  it('uses the bigger of last known item sell price and crafting price', () => {
-    let item = {sell: {price: 0, last_known: 10}, crafting: {buy: 20}}
     expect(itemValue(item)).to.equal(20)
   })
 
-  it('uses the item buy price', () => {
-    let item = {buy: {price: 10}}
-    expect(itemValue(item)).to.equal(10)
+  it('uses the last known item sell price', () => {
+    let item = {
+      buy: {price: 10, last_known: 10},
+      sell: {price: 0, last_known: 20},
+      crafting: {buy: 10},
+      vendor_price: 10
+    }
+
+    expect(itemValue(item)).to.equal(20)
   })
 
-  it('uses the last known item buy price', () => {
-    let item = {buy: {last_known: 10}}
-    expect(itemValue(item)).to.equal(10)
+  it('uses the buy price', () => {
+    let item = {
+      buy: {price: 20, last_known: 10},
+      sell: {price: 0, last_known: 0},
+      crafting: {buy: 10},
+      vendor_price: 10
+    }
+
+    expect(itemValue(item)).to.equal(20)
+  })
+
+  it('uses the crafting price', () => {
+    let item = {
+      buy: {price: 0, last_known: 10},
+      sell: {price: 0, last_known: 0},
+      crafting: {buy: 20},
+      vendor_price: 10
+    }
+
+    expect(itemValue(item)).to.equal(20)
+  })
+
+  it('uses the last known buy price', () => {
+    let item = {
+      buy: {price: 0, last_known: 20},
+      sell: {price: 0, last_known: 0},
+      crafting: {buy: 0},
+      vendor_price: 10
+    }
+
+    expect(itemValue(item)).to.equal(20)
   })
 
   it('uses the vendor price', () => {
-    let item = {vendor_price: 11}
-    expect(itemValue(item)).to.equal(11)
+    let item = {
+      buy: {price: 0, last_known: 0},
+      sell: {price: 0, last_known: 0},
+      crafting: {buy: 0},
+      vendor_price: 20
+    }
+
+    expect(itemValue(item)).to.equal(20)
   })
 
   it('fails gracefully', () => {
