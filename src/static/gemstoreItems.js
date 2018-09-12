@@ -890,5 +890,6 @@ export default {
   87750: {gems: 63, flags: []}, // Jeweled Scarab Glider (Random BLC Drop / Inside Container)
   87701: {gems: 900, flags: []}, // Volatile Magic Harvesting Tool (Inside a container)
   87954: {gems: 900, flags: []}, // Volatile Magic Logging Tool (Inside a container)
-  87841: {gems: 900, flags: []} // Volatile Magic Mining Tool (Inside a container)
+  87841: {gems: 900, flags: []}, // Volatile Magic Mining Tool (Inside a container)
+  88321: {gems: 700, flags: []} // Timekeeper Outfit
 }
