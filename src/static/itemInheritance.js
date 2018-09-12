@@ -16,6 +16,7 @@ export default {
   20319: [{id: 49145, count: 1}], // Endless Mystery Tonic
   20321: [{id: 49147, count: 1}], // Endless Mystery Tonic
   20320: [{id: 49146, count: 1}], // Endless Mystery Tonic
+  71680: [{id: 75214, count: 1}, {id: 72072, count: 1}, {id: 73677, count: 1}], // Endless Mushroom Emperor Tonic
 
   // Miscellaneous
   66897: [{id: 66893, count: 1}], // Prosperity Mine Kite
