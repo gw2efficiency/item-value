@@ -891,5 +891,22 @@ export default {
   87701: {gems: 900, flags: []}, // Volatile Magic Harvesting Tool (Inside a container)
   87954: {gems: 900, flags: []}, // Volatile Magic Logging Tool (Inside a container)
   87841: {gems: 900, flags: []}, // Volatile Magic Mining Tool (Inside a container)
-  88321: {gems: 700, flags: []} // Timekeeper Outfit
+  88111: {gems: 2000, flags: []}, // Tremor Armadillo Roller Beetle Skin
+  87308: {gems: 600, flags: []}, // Mini Super Angry Cloud (Combined in Mystic Forge)
+  88114: {gems: 350, flags: []}, // Desert King Reliquary Backpiece (Inside a container)
+  85470: {gems: 350, flags: []}, // Desert King Glider (Inside a container)
+  88108: {gems: 500, flags: []}, // Storm Gloves
+  88161: {gems: 166, flags: []}, // Sun Aspect Eye (Inside a container)
+  88170: {gems: 166, flags: []}, // Wind Aspect Eye (Inside a container)
+  88190: {gems: 166, flags: []}, // Lightning Aspect Eye (Inside a container)
+  88171: {gems: 125, flags: []}, // Storm Dagger Skin (Random BLC Drop)
+  88340: {gems: 500, flags: []}, // Timekeeper Glider
+  88321: {gems: 700, flags: []}, // Timekeeper Outfit
+  88258: {gems: 125, flags: []}, // Mordremoth Dye Kit
+  88355: {gems: 1000, flags: []}, // Choya Mining Tool
+  88409: {gems: 600, flags: []}, // Emblazoned Dragon Throne
+  88431: {gems: 400, flags: []}, // Shattered Cathedral Glider
+  88333: {gems: 166, flags: []}, // Enchanted Dragon Crown
+  88244: {gems: 166, flags: []}, // Dragon's Eye Circlet
+  88226: {gems: 166, flags: []} // Dragon Horns
 }
