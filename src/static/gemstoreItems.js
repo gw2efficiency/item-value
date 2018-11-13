@@ -908,5 +908,9 @@ export default {
   88431: {gems: 400, flags: []}, // Shattered Cathedral Glider
   88333: {gems: 166, flags: []}, // Enchanted Dragon Crown
   88244: {gems: 166, flags: []}, // Dragon's Eye Circlet
-  88226: {gems: 166, flags: []} // Dragon Horns
+  88226: {gems: 166, flags: []}, // Dragon Horns
+  85580: {gems: 400, flags: []}, // Mount Adoption License
+  85538: {gems: 2000, flags: []}, // Reforged Warhound Jackal Skin
+  87368: {gems: 400, flags: []}, // Istani Isles Mount Adoption License
+  88200: {gems: 400, flags: []} // Desert Racer Mount Adoption License
 }
