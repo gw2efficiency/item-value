@@ -630,6 +630,7 @@ export default {
   9634: [{gold: 100000}], // Recipe: Wolf Statue
   9635: [{gold: 100000}], // Recipe: Shark Statue
   9636: [{gold: 100000}], // Recipe: Eel Statue
+  9637: [{gold: 100000}], // Recipe: Gift of Water
   75645: [{gold: 100000}], // Recipe: Gift of Blood
   75337: [{gold: 100000}], // Recipe: Gift of Totems
   76121: [{gold: 100000}], // Recipe: Gift of Scales
