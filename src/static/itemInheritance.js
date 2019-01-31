@@ -171,6 +171,10 @@ export default {
   76663: [{gold: 100000}], // Mini Rekka
   71848: [{gold: 200000}], // Mini Sophia
   74762: [{gold: 300000}], // Mini Tengu
+  86925: [{gold: 88800}], // Mini Lunar "Horse"
+  86438: [{id: 86627, count: 20}], // Mini Tixx
+  89385: [{id: 86627, count: 20}], // Mini Angry Snowman
+  89083: [{id: 47909, count: 40}], // Mini Svelicht the Fog Raven
 
   // Faction & race skins at vendors
   3590: [{gold: 4000}], // Adept Helm
