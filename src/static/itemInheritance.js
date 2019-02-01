@@ -45,6 +45,26 @@ export default {
   81212: [{id: 82450, count: 0.33}], // Sworn Zaishen Helm Skin
   81218: [{id: 82450, count: 0.33}], // Sworn Zaishen Helm Skin
   81215: [{id: 82450, count: 1}], // Hounds of Balthazar Mail Carrier
+  5803: [{id: 82450, count: 1}], // Exalted Gloves
+  11228: [{id: 82450, count: 1}], // Exalted Gloves
+  87524: [{id: 82450, count: 1}], // Exalted Gloves
+  86777: [{id: 82450, count: 1}], // Griffon Hatchling Backpiece
+  85326: [{id: 82450, count: 1}], // Jackal Pup Backpack
+  86683: [{id: 82450, count: 1}], // Svanir Gauntlets
+  87399: [{id: 82450, count: 1}], // Celestial Compass Skin
+  85256: [{id: 82450, count: 1}], // Hydra Staff
+  85383: [{id: 82450, count: 1}], // Fallen Balthazar Package
+  86966: [{id: 82450, count: 1}], // Fire-Breathing Package
+  81724: [{id: 82450, count: 1}], // Feathers of the Zephyr Package
+  81738: [{id: 82450, count: 1}], // Feathers of the Zephyr Package
+  87659: [{id: 82450, count: 1}], // Jeweled Scarab Package
+  85593: [{id: 82450, count: 1}], // Wild Magic Backpack Glider Combo
+  87136: [{id: 82450, count: 1}], // Wild Magic Backpack Glider Combo
+  87830: [{id: 82450, count: 1}], // Mini Awakened Mounts Pack
+  87202: [{id: 82450, count: 1}], // Mini Branded Mounts Pack
+  86595: [{id: 82450, count: 1}], // Mini Cozy Wintersday Mounts Pack
+  81901: [{id: 82450, count: 1}], // Mini Dwayna's Messenger
+  85437: [{id: 82450, count: 1}], // Mini Spooky Mounts Pack
 
   // Kaiser Snake Weapons
   78029: [{id: 78105, count: 1}], // Kaiser Snake Axe
