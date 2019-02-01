@@ -1,4 +1,6 @@
-const content = `copy & paste from excel into here`
+const itemInheritance = require('./src/static/itemInheritance')
+
+const content = ``
 
 console.log('export default {')
 const rows = content.split('\n').slice(1)
@@ -9,6 +11,7 @@ rows.map((row, i) => {
   let comma = i === rows.length - 1 ? '' : ','
 
   if (!row[0]) return
+  if (Object.keys(itemInheritance).includes(row[0])) return
 
   console.log(`  ${row[0]}: {gems: ${gems}, flags: [${flags}]}${comma} // ${row[1]}${row[4] ? ' (' + row[4] + ')' : ''}`)
 })

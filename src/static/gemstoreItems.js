@@ -620,7 +620,7 @@ export default {
   78806: {gems: 800, flags: []}, // Unbreakable Logging Axe (Inside a container)
   78996: {gems: 800, flags: []}, // Unbreakable Harvesting Sickle (Inside a container)
   78812: {gems: 800, flags: []}, // Unbreakable Mining Pick (Inside a container)
-  20349: {gems: 250, flags: []}, // Upgrade Extractor
+  20349: {gems: 84, flags: []}, // Upgrade Extractor
   79220: {gems: 700, flags: []}, // Verdant Executor Outfit
   43101: {gems: 800, flags: []}, // Viper's Medium-Armor Skin (Container)
   43134: {gems: 133, flags: []}, // Viper's Medium Monocle Skin (Inside a container)
@@ -775,7 +775,6 @@ export default {
   81565: {gems: 400, flags: []}, // Mini Plush Aurene
   81664: {gems: 1000, flags: []}, // Mistlock Sanctuary Passkey
   81832: {gems: 150, flags: []}, // Mistlock Sanctuary Passkey (2 Weeks)
-  81901: {gems: 125, flags: []}, // Mini Dwayna's Messenger (Random BLC Drop)
   81888: {gems: 63, flags: []}, // Feathers of the Zephyr (Random BLC Drop / Inside Container)
   81854: {gems: 63, flags: []}, // Golden Zephyr Backpiece (Random BLC Drop / Inside Container)
   82011: {gems: 400, flags: []}, // Abaddon's Glider
@@ -810,9 +809,8 @@ export default {
   85467: {gems: 25, flags: []}, // Mini Spooky Skimmer (Random BLC Drop)
   85401: {gems: 25, flags: []}, // Mini Spooky Jackal (Random BLC Drop)
   85461: {gems: 25, flags: []}, // Mini Spooky Griffon (Random BLC Drop)
+  85507: {gems: 32, flags: []}, // Fallen Balthazar Outfit (Random BLC Drop)
   85396: {gems: 32, flags: []}, // Fallen Balthazar Helm (Unlocks all weights/ Random BLC Drop)
-  85326: {gems: 125, flags: []}, // Jackal Pup Backpack (Random BLC Drop)
-  85256: {gems: 125, flags: []}, // Hydra Staff (Random BLC Drop)
   85506: {gems: 400, flags: []}, // Mini Elonian Familiar
   85496: {gems: 500, flags: []}, // Riding Broom Glider
   85481: {gems: 400, flags: []}, // Mini Choya Pumpkin Gang
@@ -838,7 +836,6 @@ export default {
   86690: {gems: 1600, flags: []}, // Umbral Demon Skimmer Skin
   86516: {gems: 350, flags: []}, // Freezie Crown
   86507: {gems: 400, flags: []}, // Mini Frozen Tik'Teek
-  86777: {gems: 63, flags: []}, // Griffon Hatchling Backpiece (Inside a container)
   86813: {gems: 61, flags: []}, // Griffon Hatchling Glider (Inside a container)
   86766: {gems: 2000, flags: []}, // Summit Wildhorn Springer Skin
   86834: {gems: 600, flags: []}, // Permanent Sandshark Finisher
@@ -866,7 +863,6 @@ export default {
   87309: {gems: 200, flags: []}, // Mini Super Turtle (Inside a container)
   87311: {gems: 400, flags: []}, // Winged Headpiece
   87425: {gems: 1000, flags: []}, // Shifting Sand Mining Pick
-  87399: {gems: 125, flags: []}, // Celestial Compass Skin (Random BLC Drop)
   87429: {gems: 400, flags: []}, // Beastslayer Glider
   87478: {gems: 600, flags: []}, // Suntouched Scythe Staff Skin
   87477: {gems: 700, flags: []}, // Primeval Dervish Outfit
@@ -912,5 +908,22 @@ export default {
   85580: {gems: 400, flags: []}, // Mount Adoption License
   85538: {gems: 2000, flags: []}, // Reforged Warhound Jackal Skin
   87368: {gems: 400, flags: []}, // Istani Isles Mount Adoption License
-  88200: {gems: 400, flags: []} // Desert Racer Mount Adoption License
+  88200: {gems: 400, flags: []}, // Desert Racer Mount Adoption License
+  88759: {gems: 600, flags: []}, // Zafirah's Rifle Skin
+  88808: {gems: 700, flags: []}, // Zafirah's Tactical Outfit
+  88451: {gems: 400, flags: []}, // Night Watch Stool
+  88983: {gems: 350, flags: []}, // Scaled Dragon Wings Glider (Inside a container)
+  88992: {gems: 350, flags: []}, // Scaled Dragon Wings Backpack (Inside a container)
+  89003: {gems: 2000, flags: []}, // Nightfang Griffon Skin
+  89068: {gems: 400, flags: []}, // Mad Realm Raptor Skin (Inside a container)
+  89069: {gems: 400, flags: []}, // Mad Realm Skimmer Skin (Inside a container)
+  89004: {gems: 400, flags: []}, // Mad Realm Springer Skin (Inside a container)
+  89022: {gems: 400, flags: []}, // Mad Realm Jackal Skin (Inside a container)
+  89001: {gems: 400, flags: []}, // Mad Realm Griffon Skin (Inside a container)
+  89030: {gems: 400, flags: []}, // Arachnid Glider
+  89079: {gems: 700, flags: []}, // Haunted Armor Outfit
+  89086: {gems: 1000, flags: []}, // Firestorm Logging Tool
+  89104: {gems: 400, flags: []}, // Raven Helm
+  89207: {gems: 400, flags: []}, // Raven Mantle
+  89256: {gems: 125, flags: []} // Desert King Throne (Random BLC Drop)
 }
