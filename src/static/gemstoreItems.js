@@ -834,13 +834,13 @@ export default {
   86715: {gems: 500, flags: []}, // Glacial Glider
   86637: {gems: 700, flags: []}, // Winter Monarch Outfit
   86690: {gems: 1600, flags: []}, // Umbral Demon Skimmer Skin
-  86516: {gems: 350, flags: []}, // Freezie Crown
+  86516: {gems: 117, flags: []}, // Freezie Crown (Unlocks all weights)
   86507: {gems: 400, flags: []}, // Mini Frozen Tik'Teek
   86813: {gems: 61, flags: []}, // Griffon Hatchling Glider (Inside a container)
   86766: {gems: 2000, flags: []}, // Summit Wildhorn Springer Skin
   86834: {gems: 600, flags: []}, // Permanent Sandshark Finisher
-  86897: {gems: 500, flags: []}, // Jackal Rune Greaves
-  86904: {gems: 500, flags: []}, // Jackal Rune Gauntlets
+  86897: {gems: 167, flags: []}, // Jackal Rune Greaves (Unlocks all weights)
+  86904: {gems: 167, flags: []}, // Jackal Rune Gauntlets (Unlocks all weights)
   86898: {gems: 125, flags: []}, // Zhaitan Dye Kit
   86899: {gems: 2000, flags: []}, // Grand Lion Griffon Skin
   86739: {gems: 600, flags: []}, // Arcane Marksman Rifle
@@ -861,7 +861,7 @@ export default {
   87366: {gems: 200, flags: []}, // Mini Super Piranha (Inside a container)
   87343: {gems: 200, flags: []}, // Mini Super Bunny (Inside a container)
   87309: {gems: 200, flags: []}, // Mini Super Turtle (Inside a container)
-  87311: {gems: 400, flags: []}, // Winged Headpiece
+  87311: {gems: 134, flags: []}, // Winged Headpiece (Unlocks all weights)
   87425: {gems: 1000, flags: []}, // Shifting Sand Mining Pick
   87429: {gems: 400, flags: []}, // Beastslayer Glider
   87478: {gems: 600, flags: []}, // Suntouched Scythe Staff Skin
@@ -891,7 +891,7 @@ export default {
   87308: {gems: 600, flags: []}, // Mini Super Angry Cloud (Combined in Mystic Forge)
   88114: {gems: 350, flags: []}, // Desert King Reliquary Backpiece (Inside a container)
   85470: {gems: 350, flags: []}, // Desert King Glider (Inside a container)
-  88108: {gems: 500, flags: []}, // Storm Gloves
+  88108: {gems: 167, flags: []}, // Storm Gloves (Unlocks all weights)
   88161: {gems: 166, flags: []}, // Sun Aspect Eye (Inside a container)
   88170: {gems: 166, flags: []}, // Wind Aspect Eye (Inside a container)
   88190: {gems: 166, flags: []}, // Lightning Aspect Eye (Inside a container)
@@ -923,7 +923,26 @@ export default {
   89030: {gems: 400, flags: []}, // Arachnid Glider
   89079: {gems: 700, flags: []}, // Haunted Armor Outfit
   89086: {gems: 1000, flags: []}, // Firestorm Logging Tool
-  89104: {gems: 400, flags: []}, // Raven Helm
-  89207: {gems: 400, flags: []}, // Raven Mantle
-  89256: {gems: 125, flags: []} // Desert King Throne (Random BLC Drop)
+  89104: {gems: 134, flags: []}, // Raven Helm (Unlocks all weights)
+  89207: {gems: 134, flags: []}, // Raven Mantle (Unlocks all weights)
+  89256: {gems: 125, flags: []}, // Desert King Throne (Random BLC Drop)
+  87612: {gems: 500, flags: []}, // Pet Dog Whistle: Basenji
+  89325: {gems: 400, flags: []}, // Distant Lands Mount Adoption License
+  89370: {gems: 1000, flags: []}, // Thunderstrike Harvesting Tool
+  89425: {gems: 2000, flags: []}, // Sun Temple Gecko Springer Skin
+  89433: {gems: 500, flags: []}, // Cryomancer Glider
+  89428: {gems: 700, flags: []}, // Gem Aura Outfit
+  89400: {gems: 400, flags: []}, // Candy Cane Chair
+  89861: {gems: 400, flags: []}, // Shiverpeaks Raptor Skin (Inside a container)
+  89494: {gems: 400, flags: []}, // Shiverpeaks Skimmer Skin (Inside a container)
+  89680: {gems: 400, flags: []}, // Shiverpeaks Springer Skin (Inside a container)
+  89668: {gems: 400, flags: []}, // Shiverpeaks Jackal Skin (Inside a container)
+  89844: {gems: 400, flags: []}, // Shiverpeaks Griffon Skin (Inside a container)
+  89676: {gems: 125, flags: []}, // Roaring Dragon Glider (Random BLC Drop)
+  89966: {gems: 600, flags: []}, // Caithe's Crystal Bloom Sword
+  89971: {gems: 700, flags: []}, // Logan's Pact Marshal Outfit
+  90003: {gems: 600, flags: []}, // Staff of Fortune Skin
+  90010: {gems: 42, flags: []}, // Exalted Shoulders Skin (Random BLC Drop / Unlocks all weights)
+  89998: {gems: 700, flags: []}, // Shrine Guardian Outfit
+  90009: {gems: 400, flags: []} // Mini Shrine Guardian
 }
