@@ -195,6 +195,7 @@ export default {
   86438: [{id: 86627, count: 20}], // Mini Tixx
   89385: [{id: 86627, count: 20}], // Mini Angry Snowman
   89083: [{id: 47909, count: 40}], // Mini Svelicht the Fog Raven
+  72115: [{id: 86627, count: 4}], // Mini Husk-o-Lantern
 
   // Faction & race skins at vendors
   3590: [{gold: 4000}], // Adept Helm
