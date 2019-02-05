@@ -45,12 +45,12 @@ export default {
   81212: [{id: 82450, count: 0.33}], // Sworn Zaishen Helm Skin
   81218: [{id: 82450, count: 0.33}], // Sworn Zaishen Helm Skin
   81215: [{id: 82450, count: 1}], // Hounds of Balthazar Mail Carrier
-  5803: [{id: 82450, count: 1}], // Exalted Gloves
-  11228: [{id: 82450, count: 1}], // Exalted Gloves
-  87524: [{id: 82450, count: 1}], // Exalted Gloves
+  5803: [{id: 82450, count: 0.33}], // Exalted Gloves
+  11228: [{id: 82450, count: 0.33}], // Exalted Gloves
+  87524: [{id: 82450, count: 0.33}], // Exalted Gloves
   86777: [{id: 82450, count: 1}], // Griffon Hatchling Backpiece
   85326: [{id: 82450, count: 1}], // Jackal Pup Backpack
-  86683: [{id: 82450, count: 1}], // Svanir Gauntlets
+  86683: [{id: 82450, count: 0.33}], // Svanir Gauntlets
   87399: [{id: 82450, count: 1}], // Celestial Compass Skin
   85256: [{id: 82450, count: 1}], // Hydra Staff
   85383: [{id: 82450, count: 1}], // Fallen Balthazar Package
