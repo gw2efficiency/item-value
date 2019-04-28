@@ -775,6 +775,7 @@ export default {
   81565: {gems: 400, flags: []}, // Mini Plush Aurene
   81664: {gems: 1000, flags: []}, // Mistlock Sanctuary Passkey
   81832: {gems: 150, flags: []}, // Mistlock Sanctuary Passkey (2 Weeks)
+  81901: {gems: 125, flags: []}, // Mini Dwayna's Messenger (Random BLC Drop)
   81888: {gems: 63, flags: []}, // Feathers of the Zephyr (Random BLC Drop / Inside Container)
   81854: {gems: 63, flags: []}, // Golden Zephyr Backpiece (Random BLC Drop / Inside Container)
   82011: {gems: 400, flags: []}, // Abaddon's Glider
@@ -811,6 +812,8 @@ export default {
   85461: {gems: 25, flags: []}, // Mini Spooky Griffon (Random BLC Drop)
   85507: {gems: 32, flags: []}, // Fallen Balthazar Outfit (Random BLC Drop)
   85396: {gems: 32, flags: []}, // Fallen Balthazar Helm (Unlocks all weights/ Random BLC Drop)
+  85326: {gems: 125, flags: []}, // Jackal Pup Backpack (Random BLC Drop)
+  85256: {gems: 125, flags: []}, // Hydra Staff (Random BLC Drop)
   85506: {gems: 400, flags: []}, // Mini Elonian Familiar
   85496: {gems: 500, flags: []}, // Riding Broom Glider
   85481: {gems: 400, flags: []}, // Mini Choya Pumpkin Gang
@@ -836,6 +839,7 @@ export default {
   86690: {gems: 1600, flags: []}, // Umbral Demon Skimmer Skin
   86516: {gems: 117, flags: []}, // Freezie Crown (Unlocks all weights)
   86507: {gems: 400, flags: []}, // Mini Frozen Tik'Teek
+  86777: {gems: 63, flags: []}, // Griffon Hatchling Backpiece (Inside a container)
   86813: {gems: 61, flags: []}, // Griffon Hatchling Glider (Inside a container)
   86766: {gems: 2000, flags: []}, // Summit Wildhorn Springer Skin
   86834: {gems: 600, flags: []}, // Permanent Sandshark Finisher
@@ -863,6 +867,7 @@ export default {
   87309: {gems: 200, flags: []}, // Mini Super Turtle (Inside a container)
   87311: {gems: 134, flags: []}, // Winged Headpiece (Unlocks all weights)
   87425: {gems: 1000, flags: []}, // Shifting Sand Mining Pick
+  87399: {gems: 125, flags: []}, // Celestial Compass Skin (Random BLC Drop)
   87429: {gems: 400, flags: []}, // Beastslayer Glider
   87478: {gems: 600, flags: []}, // Suntouched Scythe Staff Skin
   87477: {gems: 700, flags: []}, // Primeval Dervish Outfit
@@ -944,5 +949,25 @@ export default {
   90003: {gems: 600, flags: []}, // Staff of Fortune Skin
   90010: {gems: 42, flags: []}, // Exalted Shoulders Skin (Random BLC Drop / Unlocks all weights)
   89998: {gems: 700, flags: []}, // Shrine Guardian Outfit
-  90009: {gems: 400, flags: []} // Mini Shrine Guardian
+  90009: {gems: 400, flags: []}, // Mini Shrine Guardian
+  90020: {gems: 500, flags: []}, // Flying Boar Glider
+  89084: {gems: 1000, flags: []}, // Earthshaker Mining Tool
+  90025: {gems: 1000, flags: []}, // Armistice Bastion Pass
+  90044: {gems: 63, flags: []}, // Etherbound Backpiece (Random BLC Drop / Inside Container)
+  90062: {gems: 63, flags: []}, // Etherbound Glider (Random BLC Drop / Inside Container)
+  90029: {gems: 400, flags: []}, // Assault Warclaw Skin (Inside a container)
+  90063: {gems: 400, flags: []}, // Branded Warclaw Skin (Inside a container)
+  90076: {gems: 400, flags: []}, // Embermane Warclaw Skin (Inside a container)
+  90040: {gems: 400, flags: []}, // Outrider Warclaw Skin (Inside a container)
+  90065: {gems: 400, flags: []}, // Vanguard Warclaw Skin (Inside a container)
+  90072: {gems: 600, flags: []}, // Wyvern Roost Scepter Skin
+  90098: {gems: 700, flags: []}, // Defiant Glass Outfit
+  90084: {gems: 400, flags: []}, // Defiant Glass Backpack Skin
+  90036: {gems: 150, flags: []}, // Armistice Bastion Pass (2 weeks)
+  90067: {gems: 150, flags: []}, // Armistice Bastion Pass (2 weeks)
+  90085: {gems: 350, flags: []}, // Legion Jetpack (Inside a container)
+  90093: {gems: 350, flags: []}, // Legion Jetpack Glider (Inside a container)
+  87578: {gems: 125, flags: []}, // Magnificent Hummingbird Skimmer Skin
+  86786: {gems: 1000, flags: []}, // Black Lion Garden Plot Deed
+  88979: {gems: 1000, flags: []} // Black Lion Expedition Contract
 }
