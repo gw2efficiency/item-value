@@ -715,5 +715,7 @@ export default {
   87132: [{gold: 500000}], // Difluorite Crystal Cluster Node
   86297: [{gold: 500000}], // Brandstone Cluster Node
   88828: [{gold: 500000}], // Mistonium Node
-  87889: [{gold: 500000}] // Supply Cache
+  87889: [{gold: 500000}], // Supply Cache
+  89786: [{gold: 500000}], // Dragon Crystal
+  90773: [{gold: 500000}] // Mistborn Node
 }
