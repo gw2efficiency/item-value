@@ -962,10 +962,30 @@ export default {
   90067: {gems: 150, flags: []}, // Armistice Bastion Pass (2 weeks)
   90085: {gems: 350, flags: []}, // Legion Jetpack (Inside a container)
   90093: {gems: 350, flags: []}, // Legion Jetpack Glider (Inside a container)
-  87578: {gems: 125, flags: []}, // Magnificent Hummingbird Skimmer Skin
+  87578: {gems: 2000, flags: []}, // Magnificent Hummingbird Skimmer Skin
   86786: {gems: 1000, flags: []}, // Black Lion Garden Plot Deed
   88979: {gems: 1000, flags: []}, // Black Lion Expedition Contract
   88775: {gems: 2000, flags: []}, // Dreadnought Raptor Skin
   90165: {gems: 400, flags: []}, // Exotic Breeds Mount Adoption License
-  90335: {gems: 800, flags: []} // Recharging Teleport to Friend
+  90335: {gems: 800, flags: []}, // Recharging Teleport to Friend
+  90127: {gems: 600, flags: []}, // Ritualist Staff Skin
+  90113: {gems: 700, flags: []}, // Ritualist Outfit
+  87360: {gems: 1200, flags: []}, // Istani Isles Mount Select License
+  90460: {gems: 63, flags: []}, // Branded Relic Backpiece (Random BLC Drop / Inside Container)
+  90598: {gems: 63, flags: []}, // Branded Relic Glider (Random BLC Drop / Inside Container)
+  90163: {gems: 1200, flags: []}, // Exotic Breeds Mount Select License
+  89336: {gems: 1200, flags: []}, // Distant Lands Mount Select License
+  88154: {gems: 1200, flags: []}, // Desert Racer Mount Select License
+  90173: {gems: 500, flags: []}, // Etherbound Gauntlets
+  91227: {gems: 2000, flags: []}, // Shimmerwing Skyscale Skin
+  91145: {gems: 1000, flags: []}, // Skyscale Hatchling Mining Tool
+  90448: {gems: 250, flags: []}, // Shrine Guardian Ears (Inside a container)
+  90473: {gems: 250, flags: []}, // Revered Shrine Guardian Ears (Inside a container)
+  91101: {gems: 500, flags: []}, // Skyscale Squadron Glider
+  91006: {gems: 600, flags: []}, // Skyscale Chair
+  90169: {gems: 500, flags: []}, // Etherbound Greaves
+  90288: {gems: 1000, flags: []}, // Skyscale Hatchling Harvesting Tool
+  91176: {gems: 567, flags: []}, // Mist Stranger Shield Skin
+  91153: {gems: 567, flags: []}, // Mist Stranger Axe Skin
+  91207: {gems: 567, flags: []} // Mist Stranger Outfit
 }
