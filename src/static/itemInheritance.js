@@ -28,6 +28,14 @@ export default {
   86153: [{id: 85653, count: 1}], // Bench of the Final Judge
   86694: [{gold: 10000}], // Black Lion Statuette
 
+  // Discontinued Snowflakes
+  38130: [{id: 86601, count: 1}], // Tiny Snowflake
+  38131: [{id: 86601, count: 1}], // Delicate Snowflake
+  38132: [{id: 86601, count: 3}], // Glittering Snowflake
+  38133: [{id: 86601, count: 5}], // Unique Snowflake
+  38134: [{id: 86601, count: 7}], // Pristine Snowflake
+  38135: [{id: 86601, count: 10}], // Flawless Snowflake
+
   // Ectoplasm gambling containers
   69981: [{id: 19721, count: 50}], // Massive Glob of Ectoplasm (exotic)
   49503: [{id: 19721, count: 500}], // Massive Glob of Ectoplasm (ascended)
