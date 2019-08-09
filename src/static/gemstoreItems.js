@@ -987,5 +987,21 @@ export default {
   90288: {gems: 1000, flags: []}, // Skyscale Hatchling Harvesting Tool
   91176: {gems: 567, flags: []}, // Mist Stranger Shield Skin
   91153: {gems: 567, flags: []}, // Mist Stranger Axe Skin
-  91207: {gems: 567, flags: []} // Mist Stranger Outfit
+  91207: {gems: 567, flags: []}, // Mist Stranger Outfit
+  91278: {gems: 63, flags: []}, // Dragon Fireworks Glider (Random BLC Drop / Inside Container)
+  91286: {gems: 63, flags: []}, // Dragon Fireworks Backpiece (Random BLC Drop / Inside Container)
+  91342: {gems: 400, flags: []}, // Bioluminescent Skyscale Skin (Inside a container)
+  91354: {gems: 400, flags: []}, // Axejaw Skyscale Skin (Inside a container)
+  91363: {gems: 400, flags: []}, // Caldera Skyscale Skin (Inside a container)
+  91369: {gems: 400, flags: []}, // Branded Skyscale Skin (Inside a container)
+  91314: {gems: 400, flags: []}, // Flare-Marked Skyscale Skin (Inside a container)
+  88987: {gems: 600, flags: []}, // Inquest Overseer Chair
+  91276: {gems: 500, flags: []}, // Inquest Overseer Glider
+  91379: {gems: 1000, flags: []}, // Skyscale Hatchling Logging Tool
+  91374: {gems: 400, flags: []}, // Bough of the Grove Chair
+  91562: {gems: 2000, flags: []}, // Gallant Lightbearer Raptor Skin
+  91469: {gems: 125, flags: []}, // Starborn Outfit (Random BLC Drop)
+  91394: {gems: 400, flags: []}, // Zephyrite Paraglider Glider
+  91454: {gems: 600, flags: []}, // Aspect Master's Greatsword
+  91487: {gems: 500, flags: []} // Pyre Gloves
 }
