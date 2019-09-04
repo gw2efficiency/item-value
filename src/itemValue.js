@@ -1,5 +1,4 @@
 import _get from 'fast-get'
-import whitelistedLowSupplyItems from './static/whitelistedLowSupplyItems'
 
 const GOLD = 10000
 
@@ -21,9 +20,8 @@ export default function itemValue (item) {
   const useSellPrice =
     buyDecisionPrice > 500 * GOLD ||
     supply > 1000 ||
-    sellDecisionPrice < buyDecisionPrice * 2 ||
-    sellDecisionPrice - buyDecisionPrice < GOLD ||
-    whitelistedLowSupplyItems(item.name)
+    sellDecisionPrice < buyDecisionPrice * 5 ||
+    sellDecisionPrice - buyDecisionPrice < 2 * GOLD
 
   // 1. The item is currently sold in the tradingpost, use the sell price
   if (useSellPrice && sellPrice) {
