@@ -40,6 +40,9 @@ export default function itemValue (item) {
   }
 
   // 4. The item was never sold on the tradingpost and is not listed, use the crafting price if it exists
+  // Note on why we do we not pick `Math.max(buyPrice, craftingPrice)`: This heavily impacts some
+  // types of items that are cheaper dropped than crafted (Precursors) and some items where crafting
+  // actually reduces the value to the buy price because of side benefits (Eternity).
   if (craftingPrice) {
     return craftingPrice
   }
