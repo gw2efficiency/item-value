@@ -1036,5 +1036,9 @@ export default {
   92153: {gems: 400, flags: []}, // Mad King Skimmer Skin (Inside a container)
   92160: {gems: 400, flags: []}, // Mad King Springer Skin (Inside a container)
   92185: {gems: 400, flags: []}, // Mad King Jackal Skin (Inside a container)
-  92156: {gems: 400, flags: []} // Mad King Griffon Skin (Inside a container)
+  92156: {gems: 400, flags: []}, // Mad King Griffon Skin (Inside a container)
+  49933: {gems: 250, flags: []}, // Bouquet of Roses
+  88995: {gems: 600, flags: []}, // Festive Harvest Chair
+  90016: {gems: 400, flags: []}, // Club Chair
+  90091: {gems: 600, flags: []} // Super Adventure Box Chair
 }
