@@ -71,7 +71,6 @@ export default {
   36126: [{id: 43320, count: 4}], // Recipe: Candy Corn Tonic
   36125: [{id: 43320, count: 4}], // Recipe: Plastic Spider Tonic
   36127: [{id: 43320, count: 4}], // Recipe: Mummy Tonic
-  36125: [{id: 43320, count: 4}], // Recipe: Plastic Spider Tonic
   36124: [{id: 43320, count: 3}], // Recipe: Spicy Pumpkin Cookie
   92010: [{id: 91910, count: 1}], // The Chilly Chaise
   88385: [{id: 38129, count: 1}], // Unbreakable Choir Bell
@@ -127,7 +126,7 @@ export default {
   88364: [{id: 82450, count: 1}], // Springer Kit Backpack
   89066: [{id: 82450, count: 1}], // Envoy Scythe Staff Skin
   89256: [{id: 82450, count: 1}], // Desert King Throne
-  89423: [{id: 82450, count: 1}], // Iron Beast Greatsword 
+  89423: [{id: 82450, count: 1}], // Iron Beast Greatsword
   89676: [{id: 82450, count: 1}], // Roaring Dragon Glider
   90010: [{id: 82450, count: 0.33}], // Exalted Shoulders Skin
   90037: [{id: 82450, count: 1}], // Etherbound Package
@@ -240,7 +239,7 @@ export default {
   76974: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Torch
   77196: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Trident
   70638: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Warhorn
-  
+
   // Royal Flame Weapons
   92118: [{id: 92128, count: 1}], // Royal Flame Axe
   92105: [{id: 92128, count: 1}], // Royal Flame Dagger
@@ -792,7 +791,7 @@ export default {
   80636: [{gold: 50000}], // Recipe: Refined Envoy Vambraces
   80667: [{gold: 50000}], // Recipe: Refined Envoy Pauldrons
   80676: [{gold: 50000}], // Recipe: Refined Envoy Mask
-  
+
   // Recipes for Halloween Armour
   85432: [{id: 47909, count: 1}], // Recipe: Lunatic Acolyte Boots
   85386: [{id: 47909, count: 2}], // Recipe: Lunatic Acolyte Coat
