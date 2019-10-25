@@ -1032,9 +1032,9 @@ export default {
   91788: {gems: 500, flags: []}, // Cube Matrix Glider
   91982: {gems: 2000, flags: []}, // Primal Spirit Jackal Skin
   92102: {gems: 400, flags: []}, // Legionnaire's Chair
-  92189: {gems: 400, flags: []}, // Mad King Raptor Skin
-  92153: {gems: 400, flags: []}, // Mad King Skimmer Skin
-  92160: {gems: 400, flags: []}, // Mad King Springer Skin
-  92185: {gems: 400, flags: []}, // Mad King Jackal Skin
-  92156: {gems: 400, flags: []} // Mad King Griffon Skin
+  92189: {gems: 400, flags: []}, // Mad King Raptor Skin (Inside a container)
+  92153: {gems: 400, flags: []}, // Mad King Skimmer Skin (Inside a container)
+  92160: {gems: 400, flags: []}, // Mad King Springer Skin (Inside a container)
+  92185: {gems: 400, flags: []}, // Mad King Jackal Skin (Inside a container)
+  92156: {gems: 400, flags: []} // Mad King Griffon Skin (Inside a container)
 }
