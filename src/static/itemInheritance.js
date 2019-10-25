@@ -27,6 +27,13 @@ export default {
   86093: [{id: 68063, count: 1}, {id: 19721, count: 1}], // Funerary Incense
   86153: [{id: 85653, count: 1}], // Bench of the Final Judge
   86694: [{gold: 10000}], // Black Lion Statuette
+  43348: [{id: 43320, count: 25}], // Holographic Shattered Dragon Wing Cover
+  43350: [{id: 43320, count: 25}], // Holographic Shattered Dragon Wing Cover
+  91303: [{id: 43320, count: 5}], // Recipe: Powerful Potion of Branded Slaying
+  91277: [{id: 43320, count: 5}], // Recipe: Powerful Potion of Mordrem Slaying
+  91341: [{id: 43320, count: 5}], // Recipe: Powerful Potion of Slaying Scarlet's Armies
+  43346: [{id: 43320, count: 100}], // Holographic Dragon Wing Cover
+  
 
   // Discontinued Snowflakes
   38130: [{id: 86601, count: 1}], // Tiny Snowflake
@@ -204,6 +211,9 @@ export default {
   89385: [{id: 86627, count: 20}], // Mini Angry Snowman
   89083: [{id: 47909, count: 40}], // Mini Svelicht the Fog Raven
   72115: [{id: 86627, count: 4}], // Mini Husk-o-Lantern
+  91281: [{id: 43320, count: 10}], // Mini Dragon Gourdon
+  43430: [{id: 43320, count: 25}], // Mini Helmed Moa Racer
+  82122: [{id: 43320, count: 25}], // Mini Helmed Moa Racer
 
   // Faction & race skins at vendors
   3590: [{gold: 4000}], // Adept Helm
