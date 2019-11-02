@@ -17,6 +17,32 @@ export default {
   20321: [{id: 49147, count: 1}], // Endless Mystery Tonic
   20320: [{id: 49146, count: 1}], // Endless Mystery Tonic
   71680: [{id: 75214, count: 1}, {id: 72072, count: 1}, {id: 73677, count: 1}], // Endless Mushroom Emperor Tonic
+  68058: [{gold: 10000}], // Endless Mordrem Husk Tonic
+  73577: [{gold: 50000}], // Endless Beetle Tonic
+  76174: [{gold: 50000}], // Endless Exalted Caster Tonic
+  67784: [{gold: 10000}], // Endless Dust Mite Tonic
+  39711: [{gold: 200000}], // Endless Guild Banner Tonic
+  74186: [{gold: 10000}], // Endless Spotted Beetle Tonic
+  77101: [{gold: 50000}], // Endless Nuhoch Tonic
+  68520: [{gold: 10000}], // Endless Mordrem Troll Tonic
+  92033: [{id: 91971, count: 1}], // Endless Smoke Shaman Tonic
+  89424: [{id: 86627, count: 20}], // Endless Angry Snowman Tonic
+  75636: [{id: 75214, count: 1}], // Endless Mushroom Tonic
+  71683: [{id: 75615, count: 1}], // Endless Chak Slinger Tonic
+  70619: [{id: 73150, count: 1}], // Endless Exalted Bastion Tonic
+  72894: [{id: 73663, count: 1}], // Endless Chak Drone Tonic
+  68064: [{id: 68065, count: 1}], // Endless Mordrem Thrasher Tonic
+  77167: [{id: 73194, count: 1}], // Endless Nuhoch Crusher Tonic
+  73310: [{id: 72072, count: 1}], // Endless Mushroom Queen Tonic
+  86551: [{id: 86723, count: 1}], // Enchanted Smiling Snowball
+  67805: [{id: 67783, count: 1}], // Endless Arid Devourer Tonic
+  82000: [{id: 81823, count: 1}], // Endless Fury Combat Tonic
+  87279: [{id: 87126, count: 1}], // Endless Branded Mystery Tonic
+  74594: [{id: 72203, count: 1}], // Endless Chak Zapper Tonic
+  71739: [{id: 73677, count: 1}], // Endless Mushroom King Tonic
+  77568: [{id: 77637, count: 1}], // Enchanted Snowball
+  68530: [{id: 68512, count: 1}], // Endless Mordrem Teragriff Tonic
+  86477: [{id: 86645, count: 1}], // Enchanted Snow Diamond Tonic
 
   // Miscellaneous
   66897: [{id: 66893, count: 1}], // Prosperity Mine Kite
@@ -27,6 +53,31 @@ export default {
   86093: [{id: 68063, count: 1}, {id: 19721, count: 1}], // Funerary Incense
   86153: [{id: 85653, count: 1}], // Bench of the Final Judge
   86694: [{gold: 10000}], // Black Lion Statuette
+  43348: [{id: 43320, count: 25}], // Holographic Shattered Dragon Wing Cover
+  43350: [{id: 43320, count: 25}], // Holographic Shattered Dragon Wing Cover
+  91303: [{id: 43320, count: 5}], // Recipe: Powerful Potion of Branded Slaying
+  91277: [{id: 43320, count: 5}], // Recipe: Powerful Potion of Mordrem Slaying
+  91341: [{id: 43320, count: 5}], // Recipe: Powerful Potion of Slaying Scarlet's Armies
+  43346: [{id: 43320, count: 100}], // Holographic Dragon Wing Cover
+  42401: [{gold: 50000}], // Elegant Guild Back Banner Skin
+  42398: [{gold: 50000}], // Savage Guild Back Banner Skin
+  43930: [{gold: 150000}], // Guild Kite
+  64741: [{id: 43320, count: 20}], // Witch's Hat
+  92172: [{id: 43320, count: 30}], // Ghostly Racing Scarf
+  70425: [{id: 43320, count: 6}], // Shackles of Madness Skin
+  36128: [{id: 43320, count: 5}], // Recipe: Concentrated Halloween Tonic
+  36123: [{id: 43320, count: 1}], // Recipe: Glazed Peach Tart
+  36122: [{id: 43320, count: 1}], // Recipe: Glazed Pear Tart
+  36126: [{id: 43320, count: 4}], // Recipe: Candy Corn Tonic
+  36125: [{id: 43320, count: 4}], // Recipe: Plastic Spider Tonic
+  36127: [{id: 43320, count: 4}], // Recipe: Mummy Tonic
+  36124: [{id: 43320, count: 3}], // Recipe: Spicy Pumpkin Cookie
+  92010: [{id: 91910, count: 1}], // The Chilly Chaise
+  88385: [{id: 38129, count: 1}], // Unbreakable Choir Bell
+  43881: [{gold: 1000000}], // Bottomless Belcher's Bluff Kit
+  91921: [{id: 91924, count: 1}], // Glance of the Khan-Ur
+  92074: [{id: 91924, count: 1}], // Glower of the Khan-Ur
+  91937: [{id: 91924, count: 1}], // Gaze of the Khan-Ur
 
   // Discontinued Snowflakes
   38130: [{id: 86601, count: 1}], // Tiny Snowflake
@@ -73,6 +124,16 @@ export default {
   86595: [{id: 82450, count: 1}], // Mini Cozy Wintersday Mounts Pack
   81901: [{id: 82450, count: 1}], // Mini Dwayna's Messenger
   85437: [{id: 82450, count: 1}], // Mini Spooky Mounts Pack
+  88171: [{id: 82450, count: 1}], // Storm Dagger Skin
+  88426: [{id: 82450, count: 1}], // Mini Exo-Suit Mounts Pack
+  88364: [{id: 82450, count: 1}], // Springer Kit Backpack
+  89066: [{id: 82450, count: 1}], // Envoy Scythe Staff Skin
+  89256: [{id: 82450, count: 1}], // Desert King Throne
+  89423: [{id: 82450, count: 1}], // Iron Beast Greatsword
+  89676: [{id: 82450, count: 1}], // Roaring Dragon Glider
+  90010: [{id: 82450, count: 0.33}], // Exalted Shoulders Skin
+  90037: [{id: 82450, count: 1}], // Etherbound Package
+  90613: [{id: 82450, count: 1}], // Branded Relic Package
 
   // Kaiser Snake Weapons
   78029: [{id: 78105, count: 1}], // Kaiser Snake Axe
@@ -182,10 +243,28 @@ export default {
   77196: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Trident
   70638: [{id: 19721, count: 100}, {id: 73248, count: 50}, {id: 72936, count: 10}], // Gold Fractal Warhorn
 
+  // Royal Flame Weapons
+  92118: [{id: 92128, count: 1}], // Royal Flame Axe
+  92105: [{id: 92128, count: 1}], // Royal Flame Dagger
+  92158: [{id: 92128, count: 1}], // Royal Flame Focus
+  92162: [{id: 92128, count: 1}], // Royal Flame Greatsword
+  92132: [{id: 92128, count: 1}], // Royal Flame Hammer
+  92147: [{id: 92128, count: 1}], // Royal Flame Longbow
+  92164: [{id: 92128, count: 1}], // Royal Flame Mace
+  92187: [{id: 92128, count: 1}], // Royal Flame Pistol
+  92116: [{id: 92128, count: 1}], // Royal Flame Rifle
+  92104: [{id: 92128, count: 1}], // Royal Flame Scepter
+  92125: [{id: 92128, count: 1}], // Royal Flame Shield
+  92109: [{id: 92128, count: 1}], // Royal Flame Short Bow
+  92191: [{id: 92128, count: 1}], // Royal Flame Staff
+  92192: [{id: 92128, count: 1}], // Royal Flame Sword
+  92194: [{id: 92128, count: 1}], // Royal Flame Torch
+  92131: [{id: 92128, count: 1}], // Royal Flame Warhorn
+
   // Miniatures
   67364: [{id: 47909, count: 110}], // Mini Gwynefyrdd
   79654: [{id: 47909, count: 120}], // Mini Oxidecimus the Shadow Raven
-  48740: [{id: 47909, count: 6}], // Mini Bloody Prince Thorn
+  48740: [{id: 47909, count: 10}], // Mini Bloody Prince Thorn
   85399: [{id: 47909, count: 20}], // Mini Halloween Gourdon
   85469: [{id: 47909, count: 100}], // Mini Lord Humphrey Faren
   73476: [{gold: 100000}], // Mini Brine
@@ -203,7 +282,27 @@ export default {
   86438: [{id: 86627, count: 20}], // Mini Tixx
   89385: [{id: 86627, count: 20}], // Mini Angry Snowman
   89083: [{id: 47909, count: 40}], // Mini Svelicht the Fog Raven
-  72115: [{id: 86627, count: 4}], // Mini Husk-o-Lantern
+  72115: [{id: 47909, count: 4}], // Mini Husk-o-Lantern
+  91281: [{id: 43320, count: 10}], // Mini Dragon Gourdon
+  43430: [{id: 43320, count: 25}], // Mini Helmed Moa Racer
+  82122: [{id: 43320, count: 25}], // Mini Helmed Moa Racer
+  92110: [{id: 47909, count: 40}], // Mini Altosius the Flame Raven
+  48741: [{id: 47909, count: 10}], // Mini Ghost Carlotta
+  92146: [{id: 47909, count: 5}], // Mini Mad Memories: Complete Ignition
+  92111: [{id: 47909, count: 5}], // Mini Mad Memories: Complete Edition
+  92150: [{id: 47909, count: 5}], // Mini Mad Memoires
+  89023: [{id: 47909, count: 20}], // Mini Haunted Candle
+  79139: [{gold: 10000}], // Mini Bloodstone Elemental
+  79229: [{gold: 15000}], // Mini Jade Construct
+  74055: [{gold: 50000}], // Mini Nuhoch
+  74444: [{gold: 50000}], // Mini Exalted Sage
+  71258: [{gold: 10000}], // Mini Blademaster Diarmid
+  68498: [{gold: 5000}], // Mini Mordrem Troll
+  67778: [{gold: 5000}], // Mini Mordrem Husk
+  39713: [{gold: 100000}], // Mini Green Siege Golem
+  39712: [{gold: 100000}], // Mini Red Siege Golem
+  39714: [{gold: 100000}], // Mini Blue Siege Golem
+  48761: [{id: 71581, count: 250}], // Mini Dolyak
 
   // Faction & race skins at vendors
   3590: [{gold: 4000}], // Adept Helm
@@ -695,6 +794,27 @@ export default {
   80636: [{gold: 50000}], // Recipe: Refined Envoy Vambraces
   80667: [{gold: 50000}], // Recipe: Refined Envoy Pauldrons
   80676: [{gold: 50000}], // Recipe: Refined Envoy Mask
+
+  // Recipes for Halloween Armour
+  85432: [{id: 47909, count: 1}], // Recipe: Lunatic Acolyte Boots
+  85386: [{id: 47909, count: 2}], // Recipe: Lunatic Acolyte Coat
+  85515: [{id: 47909, count: 1}], // Recipe: Lunatic Acolyte Gloves
+  85439: [{id: 47909, count: 1}], // Recipe: Lunatic Acolyte Mantle
+  85520: [{id: 47909, count: 1}], // Recipe: Lunatic Acolyte Mask
+  85474: [{id: 47909, count: 1}], // Recipe: Lunatic Acolyte Pants
+  85443: [{id: 47909, count: 1}], // Recipe: Lunatic Gossamer Insignia
+  85513: [{id: 47909, count: 1}], // Recipe: Lunatic Noble Boots
+  85412: [{id: 47909, count: 2}], // Recipe: Lunatic Noble Coat
+  85389: [{id: 47909, count: 1}], // Recipe: Lunatic Noble Gloves
+  85390: [{id: 47909, count: 1}], // Recipe: Lunatic Noble Mask
+  85487: [{id: 47909, count: 1}], // Recipe: Lunatic Noble Pants
+  85382: [{id: 47909, count: 1}], // Recipe: Lunatic Noble Shoulders
+  85489: [{id: 47909, count: 2}], // Recipe: Lunatic Templar Breastplate
+  85427: [{id: 47909, count: 1}], // Recipe: Lunatic Templar Gauntlets
+  85410: [{id: 47909, count: 1}], // Recipe: Lunatic Templar Greaves
+  85500: [{id: 47909, count: 1}], // Recipe: Lunatic Templar Helm
+  85395: [{id: 47909, count: 1}], // Recipe: Lunatic Templar Pauldrons
+  85486: [{id: 47909, count: 1}], // Recipe: Lunatic Templar Tassets
 
   // Clothing Tonics -> Outfits conversion
   85619: [{id: 36187, count: 1}], // Endless Casual Clothing Tonic
