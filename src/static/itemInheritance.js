@@ -75,6 +75,9 @@ export default {
   92010: [{id: 91910, count: 1}], // The Chilly Chaise
   88385: [{id: 38129, count: 1}], // Unbreakable Choir Bell
   43881: [{gold: 1000000}], // Bottomless Belcher's Bluff Kit
+  91921: [{id: 91924, count: 1}], // Glance of the Khan-Ur
+  92074: [{id: 91924, count: 1}], // Glower of the Khan-Ur
+  91937: [{id: 91924, count: 1}], // Gaze of the Khan-Ur
 
   // Discontinued Snowflakes
   38130: [{id: 86601, count: 1}], // Tiny Snowflake
