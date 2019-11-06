@@ -1036,5 +1036,8 @@ export default {
   90016: {gems: 400, flags: []}, // Club Chair
   90091: {gems: 600, flags: []}, // Super Adventure Box Chair
   91318: {gems: 84, flags: []}, // Luminous Skyscale Horns (Inside a container / Unlocks all weights)
-  91327: {gems: 84, flags: []} // Skyscale Horns (Inside a container / Unlocks all weights)
+  91327: {gems: 84, flags: []}, // Skyscale Horns (Inside a container / Unlocks all weights)
+  92207: {gems: 400, flags: []}, // Great Lodge Chair
+  92200: {gems: 700, flags: []}, // Primal Warden Outfit
+  92201: {gems: 125, flags: []} // Norn Dye Kit
 }
