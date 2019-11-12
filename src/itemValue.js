@@ -33,30 +33,36 @@ export default function itemValue (item) {
     return lastKnownSellPrice
   }
 
-  // 3. Fall back to the buy price in case the sell price can not be used due to artificial
-  // inflation or the item has never been sold on the tradingpost
+  // 3. If item sell price can not be used, crafting price exist, and sell or last known sell price
+  // is above crafting price, pick maximum of craft and buy price. This sets item value to crafting
+  // price only if item sell is detected as inflated and crafting price is between buy and sell.
+  if (!useSellPrice && craftingPrice && (sellDecisionPrice > craftingPrice)) {
+    return Math.max(craftingPrice, buyPrice)
+  }
+
+  // 4. Fall back to the buy price in case item has never been sold on the trading post or sell
+  // price can not be used due to being marked as inflated and either there is no crafting price
+  // or the crafting price is not below the sell price.
   if (buyPrice) {
     return buyPrice
   }
 
-  // 4. The item was never sold on the tradingpost and is not listed, use the crafting price if it exists
-  // Note on why we do we not pick `Math.max(buyPrice, craftingPrice)`: This heavily impacts some
-  // types of items that are cheaper dropped than crafted (Precursors) and some items where crafting
-  // actually reduces the value to the buy price because of side benefits (Eternity).
+  // 5. If the item was never sold on the tradingpost and is not listed or sell price can not be used,
+  // there are no buy orders, and craft price is above sell price, use the crafting price if it exists
   if (craftingPrice) {
     return craftingPrice
   }
 
-  // 5. Try to use the last known buy price as a best-effort deal
+  // 6. Try to use the last known buy price as a best-effort deal
   if (lastKnownBuyPrice) {
     return lastKnownBuyPrice
   }
 
-  // 6. Fall back to the vendor price to at least give it a number
+  // 7. Fall back to the vendor price to at least give it a number
   if (item.vendor_price) {
     return item.vendor_price
   }
 
-  // 7. Give up, this item has no value :(
+  // 8. Give up, this item has no value :(
   return false
 }
