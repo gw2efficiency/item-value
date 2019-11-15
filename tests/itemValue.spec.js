@@ -101,4 +101,37 @@ describe('itemValue', () => {
     let item7 = {name: 'Warhorn', sell: {price: 10000, last_known: 10, quantity: 10}, buy: {price: 1}}
     expect(itemValue(item7)).to.equal(10000)
   })
+
+  it('uses craft price on inflated and bigger sell and lower-than-craft buy', () => {
+    let item = {
+      buy: {price: 10, last_known: 10},
+      sell: {price: 100000, last_known: 100000},
+      crafting: {buy: 11},
+      vendor_price: 10
+    }
+
+    expect(itemValue(item)).to.equal(11)
+  })
+
+  it('uses buy price on inflated and smaller-than-craft sell', () => {
+    let item = {
+      buy: {price: 10, last_known: 10},
+      sell: {price: 100000, last_known: 100000},
+      crafting: {buy: 200000},
+      vendor_price: 10
+    }
+
+    expect(itemValue(item)).to.equal(10)
+  })
+
+  it('uses buy price on inflated sell and lower-than-buy craft', () => {
+    let item = {
+      buy: {price: 10, last_known: 10},
+      sell: {price: 100000, last_known: 100000},
+      crafting: {buy: 9},
+      vendor_price: 10
+    }
+
+    expect(itemValue(item)).to.equal(10)
+  })
 })
