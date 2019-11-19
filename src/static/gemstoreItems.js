@@ -1039,5 +1039,6 @@ export default {
   91327: {gems: 84, flags: []}, // Skyscale Horns (Inside a container / Unlocks all weights)
   92207: {gems: 400, flags: []}, // Great Lodge Chair
   92200: {gems: 700, flags: []}, // Primal Warden Outfit
-  92201: {gems: 125, flags: []} // Norn Dye Kit
+  92201: {gems: 125, flags: []}, // Norn Dye Kit
+  92396: {gems: 2000, flags: []} // Infernal Horror Springer Skin
 }
