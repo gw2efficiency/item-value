@@ -43,6 +43,7 @@ export default {
   77568: [{id: 77637, count: 1}], // Enchanted Snowball
   68530: [{id: 68512, count: 1}], // Endless Mordrem Teragriff Tonic
   86477: [{id: 86645, count: 1}], // Enchanted Snow Diamond Tonic
+  85473: [{id: 90008, count: 1}], // Endless Desert Mystery Tonic
 
   // Miscellaneous
   66897: [{id: 66893, count: 1}], // Prosperity Mine Kite
@@ -845,5 +846,6 @@ export default {
   88828: [{gold: 500000}], // Mistonium Node
   87889: [{gold: 500000}], // Supply Cache
   89786: [{gold: 500000}], // Dragon Crystal
-  90773: [{gold: 500000}] // Mistborn Node
+  90773: [{gold: 500000}], // Mistborn Node
+  92361: [{gold: 500000}] // Eternal Ice Node
 }
