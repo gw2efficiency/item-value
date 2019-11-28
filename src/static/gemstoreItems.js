@@ -1040,5 +1040,7 @@ export default {
   92207: {gems: 400, flags: []}, // Great Lodge Chair
   92200: {gems: 700, flags: []}, // Primal Warden Outfit
   92201: {gems: 125, flags: []}, // Norn Dye Kit
-  92396: {gems: 2000, flags: []} // Infernal Horror Springer Skin
+  92396: {gems: 2000, flags: []}, // Infernal Horror Springer Skin
+  92264: {gems: 350, flags: []}, // Shiverpeaks Hunter Glider (Inside a container)
+  92398: {gems: 350, flags: []} // Shiverpeaks Hunter Backpack (Inside a container)
 }
