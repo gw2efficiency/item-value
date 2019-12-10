@@ -1044,5 +1044,6 @@ export default {
   92264: {gems: 350, flags: []}, // Shiverpeaks Hunter Glider (Inside a container)
   92398: {gems: 350, flags: []}, // Shiverpeaks Hunter Backpack (Inside a container)
   92526: {gems: 500, flags: []}, // Emblazoned Cape
-  92472: {gems: 600, flags: []} // Dreamwalker Dagger Skin
+  92472: {gems: 600, flags: []}, // Dreamwalker Dagger Skin
+  92427: {gems: 1000, flags: []} // Black Lion Industry Contract
 }
