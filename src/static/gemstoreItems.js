@@ -1043,7 +1043,13 @@ export default {
   92396: {gems: 2000, flags: []}, // Infernal Horror Springer Skin
   92264: {gems: 350, flags: []}, // Shiverpeaks Hunter Glider (Inside a container)
   92398: {gems: 350, flags: []}, // Shiverpeaks Hunter Backpack (Inside a container)
-  92526: {gems: 500, flags: []}, // Emblazoned Cape
+  92526: {gems: 500, flags: []}, // Emblazoned Cape (Inside a container)
   92472: {gems: 600, flags: []}, // Dreamwalker Dagger Skin
-  92427: {gems: 1000, flags: []} // Black Lion Industry Contract
+  92427: {gems: 1000, flags: []}, // Black Lion Industry Contract
+  92401: {gems: 125, flags: []}, // Celestial Axe Skin (Random BLC Drop)
+  92599: {gems: 62, flags: []}, // Starlight Wings Backpack (Random BLC Drop / Inside a container)
+  92564: {gems: 62, flags: []}, // Starlight Wings Glider (Random BLC Drop / Inside a container)
+  92558: {gems: 400, flags: []}, // Snowflake Gobbler Pack (Container)
+  92585: {gems: 400, flags: []}, // Snowflake Gobbler (Inside a container)
+  92542: {gems: 500, flags: []} // Winter Monarch Cape (Inside a container)
 }
