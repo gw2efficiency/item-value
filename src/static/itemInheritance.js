@@ -262,6 +262,24 @@ export default {
   92194: [{id: 92128, count: 1}], // Royal Flame Torch
   92131: [{id: 92128, count: 1}], // Royal Flame Warhorn
 
+  // Rimed Verdant Weapons
+  92584: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Axe
+  92603: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Blade of Ice
+  92601: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Dagger
+  92621: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Focus
+  92620: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Greatsword
+  92616: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Hammer
+  92596: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Longbow
+  92600: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Mace
+  92590: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Pistol
+  92565: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Rifle
+  92587: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Scepter
+  92552: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Shield
+  92594: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Short Bow
+  92562: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Staff
+  92606: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Torch
+  92602: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Warhorn
+
   // Miniatures
   67364: [{id: 47909, count: 110}], // Mini Gwynefyrdd
   79654: [{id: 47909, count: 120}], // Mini Oxidecimus the Shadow Raven
