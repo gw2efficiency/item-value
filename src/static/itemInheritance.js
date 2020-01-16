@@ -322,6 +322,7 @@ export default {
   39712: [{gold: 100000}], // Mini Red Siege Golem
   39714: [{gold: 100000}], // Mini Blue Siege Golem
   48761: [{id: 71581, count: 250}], // Mini Dolyak
+  92672: [{gold: 88800}], //Mini Lunar Rat
 
   // Faction & race skins at vendors
   3590: [{gold: 4000}], // Adept Helm
@@ -865,5 +866,6 @@ export default {
   87889: [{gold: 500000}], // Supply Cache
   89786: [{gold: 500000}], // Dragon Crystal
   90773: [{gold: 500000}], // Mistborn Node
+  92035: [{gold: 600000}], // Bound Hatched Chili Pepper Home Instance Node
   92361: [{gold: 500000}] // Eternal Ice Node
 }
