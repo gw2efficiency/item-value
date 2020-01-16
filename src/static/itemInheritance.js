@@ -322,7 +322,7 @@ export default {
   39712: [{gold: 100000}], // Mini Red Siege Golem
   39714: [{gold: 100000}], // Mini Blue Siege Golem
   48761: [{id: 71581, count: 250}], // Mini Dolyak
-  92672: [{gold: 88800}], //Mini Lunar Rat
+  92672: [{gold: 88800}], // Mini Lunar Rat
 
   // Faction & race skins at vendors
   3590: [{gold: 4000}], // Adept Helm
