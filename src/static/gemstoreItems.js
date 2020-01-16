@@ -1051,5 +1051,11 @@ export default {
   92564: {gems: 62, flags: []}, // Starlight Wings Glider (Random BLC Drop / Inside a container)
   92558: {gems: 400, flags: []}, // Snowflake Gobbler Pack (Container)
   92585: {gems: 400, flags: []}, // Snowflake Gobbler (Inside a container)
-  92542: {gems: 500, flags: []} // Winter Monarch Cape (Inside a container)
+  92542: {gems: 500, flags: []}, // Winter Monarch Cape (Inside a container)
+  92551: {gems: 400, flags: []}, // Mistborn Mount Adoption License
+  92561: {gems: 1200, flags: []}, // Mistborn Mount Select License
+  92605: {gems: 700, flags: []}, // Frostfire Outfit
+  92613: {gems: 500, flags: []}, // Frostfire Glider
+  92582: {gems: 800, flags: []}, // Pet Skyscale Whistle
+  92652: {gems: 500, flags: []} // Celestial Rat Cape (Inside a container)
 }
