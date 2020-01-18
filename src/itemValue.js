@@ -18,7 +18,6 @@ export default function itemValue (item) {
   const sellDecisionPrice = sellPrice || lastKnownSellPrice
   const buyDecisionPrice = buyPrice || lastKnownBuyPrice
   const useSellPrice =
-    buyDecisionPrice > 500 * GOLD ||
     supply > 1000 ||
     sellDecisionPrice < buyDecisionPrice * 5 ||
     sellDecisionPrice - buyDecisionPrice < 2 * GOLD
