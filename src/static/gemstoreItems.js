@@ -1057,5 +1057,13 @@ export default {
   92605: {gems: 700, flags: []}, // Frostfire Outfit
   92613: {gems: 500, flags: []}, // Frostfire Glider
   92582: {gems: 800, flags: []}, // Pet Skyscale Whistle
-  92652: {gems: 500, flags: []} // Celestial Rat Cape (Inside a container)
+  92652: {gems: 500, flags: []}, // Celestial Rat Cape (Inside a container)
+  91060: {gems: 1000, flags: []}, // Season 4 Expedition Contract
+  92726: {gems: 2000, flags: []}, // Sacred Pegasus Griffon Skin
+  92689: {gems: 125, flags: []}, // Whale Spirit Glider (Random BLC Drop)
+  92783: {gems: 700, flags: []}, // Jora's Outfit
+  92757: {gems: 500, flags: []}, // Jora's Cape (Inside a container)
+  92816: {gems: 600, flags: []}, // Stoneshard Scepter Skin
+  92830: {gems: 350, flags: []}, // Alchemist Glider (Inside a container)
+  92825: {gems: 350, flags: []} // Alchemist Backpack (Inside a container)
 }

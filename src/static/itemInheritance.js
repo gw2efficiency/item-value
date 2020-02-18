@@ -44,6 +44,7 @@ export default {
   68530: [{id: 68512, count: 1}], // Endless Mordrem Teragriff Tonic
   86477: [{id: 86645, count: 1}], // Enchanted Snow Diamond Tonic
   85473: [{id: 90008, count: 1}], // Endless Desert Mystery Tonic
+  92725: [{id: 92773, count: 1}], // Endless Cloudseeker Tonic
 
   // Miscellaneous
   66897: [{id: 66893, count: 1}], // Prosperity Mine Kite
@@ -79,6 +80,24 @@ export default {
   91921: [{id: 91924, count: 0.33}], // Glance of the Khan-Ur
   92074: [{id: 91924, count: 0.33}], // Glower of the Khan-Ur
   91937: [{id: 91924, count: 0.33}], // Gaze of the Khan-Ur
+  92703: [{id: 92785, count: 0.33}], // Ice Golem's Cowl
+  92705: [{id: 92785, count: 0.33}], // Ice Golem's Mask
+  92779: [{id: 92785, count: 0.33}], // Ice Golem's Helmet
+  92693: [{id: 92739, count: 0.33}], // Raven Ceremonial Sandals (heavy)
+  92701: [{id: 92739, count: 0.33}], // Raven Ceremonial Sandals (medium)
+  92749: [{id: 92739, count: 0.33}], // Raven Ceremonial Sandals (light)
+  92768: [{id: 92786, count: 0.33}], // Raven Ceremonial Gown (heavy)
+  92752: [{id: 92786, count: 0.33}], // Raven Ceremonial Gown (medium)
+  92788: [{id: 92786, count: 0.33}], // Raven Ceremonial Gown (light)
+  92793: [{id: 92743, count: 0.33}], // Raven Ceremonial Bracers (heavy)
+  92719: [{id: 92743, count: 0.33}], // Raven Ceremonial Bracers (medium)
+  92696: [{id: 92743, count: 0.33}], // Raven Ceremonial Bracers (light)
+  92735: [{id: 92790, count: 0.33}], // Raven Ceremonial Garb (heavy)
+  92688: [{id: 92790, count: 0.33}], // Raven Ceremonial Garb (medium)
+  92724: [{id: 92790, count: 0.33}], // Raven Ceremonial Garb (light)
+  92780: [{id: 92766, count: 0.33}], // Raven Ceremonial Hood (heavy)
+  92716: [{id: 92766, count: 0.33}], // Raven Ceremonial Hood (medium)
+  92774: [{id: 92766, count: 0.33}], // Raven Ceremonial Hood (light)
 
   // Discontinued Snowflakes
   38130: [{id: 86601, count: 1}], // Tiny Snowflake
@@ -323,6 +342,8 @@ export default {
   39714: [{gold: 100000}], // Mini Blue Siege Golem
   48761: [{id: 71581, count: 250}], // Mini Dolyak
   92672: [{gold: 88800}], // Mini Lunar Rat
+  79227: [{gold: 10000}], // Mini Ghostly Justiciar Hablion
+  92777: [{gold: 40000}], // Mini Whisper of Jormag
 
   // Faction & race skins at vendors
   3590: [{gold: 4000}], // Adept Helm
