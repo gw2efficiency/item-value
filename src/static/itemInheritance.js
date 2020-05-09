@@ -227,22 +227,22 @@ export default {
   44703: [{gold: 100000}], // Sovereign Pillar Skin
 
   // Divine Sovereign Weapons
-  91554: [{gold: 70000}], // Divine Sovereign Eviscerator 
-  91383: [{gold: 70000}], // Divine Sovereign Cinquedea 
-  91569: [{gold: 70000}], // Divine Sovereign Punisher 
-  88220: [{gold: 70000}], // Divine Sovereign Firearm 
-  91555: [{gold: 70000}], // Divine Sovereign Scepter 
-  91466: [{gold: 70000}], // Divine Sovereign Spatha 
-  91597: [{gold: 50000}], // Divine Sovereign Artifact 
-  91386: [{gold: 50000}], // Divine Sovereign Protector 
-  91610: [{gold: 50000}], // Divine Sovereign Beacon 
-  91421: [{gold: 50000}], // Divine Sovereign Herald 
-  88129: [{gold: 100000}], // Divine Sovereign Crusader 
-  88179: [{gold: 100000}], // Divine Sovereign Warhammer 
-  91481: [{gold: 100000}], // Divine Sovereign Greatbow 
-  88196: [{gold: 100000}], // Divine Sovereign Arquebus 
-  91586: [{gold: 100000}], // Divine Sovereign Crescent 
-  88183: [{gold: 100000}], // Divine Sovereign Pillar 
+  91554: [{gold: 70000}], // Divine Sovereign Eviscerator
+  91383: [{gold: 70000}], // Divine Sovereign Cinquedea
+  91569: [{gold: 70000}], // Divine Sovereign Punisher
+  88220: [{gold: 70000}], // Divine Sovereign Firearm
+  91555: [{gold: 70000}], // Divine Sovereign Scepter
+  91466: [{gold: 70000}], // Divine Sovereign Spatha
+  91597: [{gold: 50000}], // Divine Sovereign Artifact
+  91386: [{gold: 50000}], // Divine Sovereign Protector
+  91610: [{gold: 50000}], // Divine Sovereign Beacon
+  91421: [{gold: 50000}], // Divine Sovereign Herald
+  88129: [{gold: 100000}], // Divine Sovereign Crusader
+  88179: [{gold: 100000}], // Divine Sovereign Warhammer
+  91481: [{gold: 100000}], // Divine Sovereign Greatbow
+  88196: [{gold: 100000}], // Divine Sovereign Arquebus
+  91586: [{gold: 100000}], // Divine Sovereign Crescent
+  88183: [{gold: 100000}], // Divine Sovereign Pillar
 
   // Carnival Weapons
   79603: [{gold: 1000000}], // Carnival Axe
@@ -344,24 +344,24 @@ export default {
   83386: [{gold: 57600}], // Funerary Rifle
   82577: [{gold: 57600}], // Funerary Staff
 
-  82202: [{id: 83216, count: 1}],//Funerary Gauntlets
-  83574: [{id: 83216, count: 1}],//Funerary Vambraces
-  84613: [{id: 83216, count: 1}],//Funerary Gloves
-  82520: [{id: 84013, count: 1}],//Funerary Helmet
-  84375: [{id: 84013, count: 1}],//Funerary Mask
-  83004: [{id: 84013, count: 1}],//Funerary Cowl
-  82406: [{id: 82241, count: 1}],//Funerary Greaves
-  84595: [{id: 82241, count: 1}],//Funerary Boots
-  83431: [{id: 82241, count: 1}],//Funerary Shoes
-  84065: [{id: 82972, count: 1}],//Funerary Pauldrons
-  82726: [{id: 82972, count: 1}],//Funerary Shoulderpads
-  83581: [{id: 82972, count: 1}],//Funerary Mantle
-  82101: [{id: 84451, count: 1}],//Funerary Tassets
-  82233: [{id: 84451, count: 1}],//Funerary Leggings
-  83590: [{id: 84451, count: 1}],//Funerary Pants
-  84462: [{id: 82396, count: 1}],//Funerary Breastplate
-  83247: [{id: 82396, count: 1}],//Funerary Vestments
-  84669: [{id: 82396, count: 1}],//Funerary Jerkin
+  82202: [{id: 83216, count: 1}], // Funerary Gauntlets
+  83574: [{id: 83216, count: 1}], // Funerary Vambraces
+  84613: [{id: 83216, count: 1}], // Funerary Gloves
+  82520: [{id: 84013, count: 1}], // Funerary Helmet
+  84375: [{id: 84013, count: 1}], // Funerary Mask
+  83004: [{id: 84013, count: 1}], // Funerary Cowl
+  82406: [{id: 82241, count: 1}], // Funerary Greaves
+  84595: [{id: 82241, count: 1}], // Funerary Boots
+  83431: [{id: 82241, count: 1}], // Funerary Shoes
+  84065: [{id: 82972, count: 1}], // Funerary Pauldrons
+  82726: [{id: 82972, count: 1}], // Funerary Shoulderpads
+  83581: [{id: 82972, count: 1}], // Funerary Mantle
+  82101: [{id: 84451, count: 1}], // Funerary Tassets
+  82233: [{id: 84451, count: 1}], // Funerary Leggings
+  83590: [{id: 84451, count: 1}], // Funerary Pants
+  84462: [{id: 82396, count: 1}], // Funerary Breastplate
+  83247: [{id: 82396, count: 1}], // Funerary Vestments
+  84669: [{id: 82396, count: 1}], // Funerary Jerkin
   // Miniatures
   67364: [{id: 47909, count: 110}], // Mini Gwynefyrdd
   79654: [{id: 47909, count: 120}], // Mini Oxidecimus the Shadow Raven
