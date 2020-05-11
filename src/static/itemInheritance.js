@@ -80,6 +80,9 @@ export default {
   91921: [{id: 91924, count: 0.33}], // Glance of the Khan-Ur
   92074: [{id: 91924, count: 0.33}], // Glower of the Khan-Ur
   91937: [{id: 91924, count: 0.33}], // Gaze of the Khan-Ur
+  91914: [{id: 91945, count: 1}], // Ebon Shoulders
+  91896: [{id: 91945, count: 1}], // Ebon Epaulets
+  92022: [{id: 91945, count: 1}], // Ebon Pauldrons
   92703: [{id: 92785, count: 0.33}], // Ice Golem's Cowl
   92705: [{id: 92785, count: 0.33}], // Ice Golem's Mask
   92779: [{id: 92785, count: 0.33}], // Ice Golem's Helmet
@@ -223,6 +226,24 @@ export default {
   44700: [{gold: 100000}], // Sovereign Crescent Skin
   44703: [{gold: 100000}], // Sovereign Pillar Skin
 
+  // Divine Sovereign Weapons
+  91554: [{gold: 70000}], // Divine Sovereign Eviscerator
+  91383: [{gold: 70000}], // Divine Sovereign Cinquedea
+  91569: [{gold: 70000}], // Divine Sovereign Punisher
+  88220: [{gold: 70000}], // Divine Sovereign Firearm
+  91555: [{gold: 70000}], // Divine Sovereign Scepter
+  91466: [{gold: 70000}], // Divine Sovereign Spatha
+  91597: [{gold: 50000}], // Divine Sovereign Artifact
+  91386: [{gold: 50000}], // Divine Sovereign Protector
+  91610: [{gold: 50000}], // Divine Sovereign Beacon
+  91421: [{gold: 50000}], // Divine Sovereign Herald
+  88129: [{gold: 100000}], // Divine Sovereign Crusader
+  88179: [{gold: 100000}], // Divine Sovereign Warhammer
+  91481: [{gold: 100000}], // Divine Sovereign Greatbow
+  88196: [{gold: 100000}], // Divine Sovereign Arquebus
+  91586: [{gold: 100000}], // Divine Sovereign Crescent
+  88183: [{gold: 100000}], // Divine Sovereign Pillar
+
   // Carnival Weapons
   79603: [{gold: 1000000}], // Carnival Axe
   79474: [{gold: 1000000}], // Carnival Dagger
@@ -299,6 +320,48 @@ export default {
   92606: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Torch
   92602: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Warhorn
 
+  // Funerary Regalia
+  83216: [{gold: 12000}], // Royal Funerary Glove Box
+  84013: [{gold: 12000}], // Royal Funerary Headgear Box
+  82241: [{gold: 12000}], // Royal Funerary Boot Box
+  82972: [{gold: 12000}], // Royal Funerary Shoulder Box
+  84451: [{gold: 24000}], // Royal Funerary Legging Box
+  82396: [{gold: 48000}], // Royal Funerary Coat Box
+  84395: [{gold: 28800}], // Funerary Axe
+  82594: [{gold: 28800}], // Funerary Dagger
+  82880: [{gold: 28800}], // Funerary Focus
+  83483: [{gold: 28800}], // Funerary Mace
+  82504: [{gold: 28800}], // Funerary Pistol
+  83068: [{gold: 28800}], // Funerary Scepter
+  84716: [{gold: 28800}], // Funerary Shield
+  83725: [{gold: 28800}], // Funerary Sword
+  83981: [{gold: 28800}], // Funerary Torch
+  82999: [{gold: 28800}], // Funerary Warhorn
+  83907: [{gold: 57600}], // Funerary Longbow
+  83044: [{gold: 57600}], // Funerary Short Bow
+  84523: [{gold: 57600}], // Funerary Greatsword
+  83727: [{gold: 57600}], // Funerary Hammer
+  83386: [{gold: 57600}], // Funerary Rifle
+  82577: [{gold: 57600}], // Funerary Staff
+
+  82202: [{id: 83216, count: 1}], // Funerary Gauntlets
+  83574: [{id: 83216, count: 1}], // Funerary Vambraces
+  84613: [{id: 83216, count: 1}], // Funerary Gloves
+  82520: [{id: 84013, count: 1}], // Funerary Helmet
+  84375: [{id: 84013, count: 1}], // Funerary Mask
+  83004: [{id: 84013, count: 1}], // Funerary Cowl
+  82406: [{id: 82241, count: 1}], // Funerary Greaves
+  84595: [{id: 82241, count: 1}], // Funerary Boots
+  83431: [{id: 82241, count: 1}], // Funerary Shoes
+  84065: [{id: 82972, count: 1}], // Funerary Pauldrons
+  82726: [{id: 82972, count: 1}], // Funerary Shoulderpads
+  83581: [{id: 82972, count: 1}], // Funerary Mantle
+  82101: [{id: 84451, count: 1}], // Funerary Tassets
+  82233: [{id: 84451, count: 1}], // Funerary Leggings
+  83590: [{id: 84451, count: 1}], // Funerary Pants
+  84462: [{id: 82396, count: 1}], // Funerary Breastplate
+  83247: [{id: 82396, count: 1}], // Funerary Vestments
+  84669: [{id: 82396, count: 1}], // Funerary Jerkin
   // Miniatures
   67364: [{id: 47909, count: 110}], // Mini Gwynefyrdd
   79654: [{id: 47909, count: 120}], // Mini Oxidecimus the Shadow Raven
