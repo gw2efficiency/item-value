@@ -86,6 +86,10 @@ export default {
   92703: [{id: 92785, count: 0.33}], // Ice Golem's Cowl
   92705: [{id: 92785, count: 0.33}], // Ice Golem's Mask
   92779: [{id: 92785, count: 0.33}], // Ice Golem's Helmet
+  92715: [{gold: 20000}], // Still Waters Fishing Rod
+  92416: [{gold: 100000}], // Basic Guild Cape
+
+  // Raven Ceremonial containers
   92693: [{id: 92739, count: 0.33}], // Raven Ceremonial Sandals (heavy)
   92701: [{id: 92739, count: 0.33}], // Raven Ceremonial Sandals (medium)
   92749: [{id: 92739, count: 0.33}], // Raven Ceremonial Sandals (light)
@@ -101,6 +105,20 @@ export default {
   92780: [{id: 92766, count: 0.33}], // Raven Ceremonial Hood (heavy)
   92716: [{id: 92766, count: 0.33}], // Raven Ceremonial Hood (medium)
   92774: [{id: 92766, count: 0.33}], // Raven Ceremonial Hood (light)
+
+  // Stone Summit containers
+  93208: [{id: 93182, count: 0.33}], // Stone Summit Pauldrons (light)
+  93129: [{id: 93182, count: 0.33}], // Stone Summit Pauldrons (medium)
+  93114: [{id: 93182, count: 0.33}], // Stone Summit Pauldrons (heavy)
+  93275: [{id: 93080, count: 0.33}], // Stone Summit Helmet (light)
+  93242: [{id: 93080, count: 0.33}], // Stone Summit Helmet (medium)
+  92973: [{id: 93080, count: 0.33}], // Stone Summit Helmet (heavy)
+  93094: [{id: 93202, count: 0.33}], // Stone Summit Gauntlets (light)
+  92984: [{id: 93202, count: 0.33}], // Stone Summit Gauntlets (medium)
+  93249: [{id: 93202, count: 0.33}], // Stone Summit Gauntlets (heavy)
+  93065: [{id: 93259, count: 0.33}], // Stone Summit Boots (light)
+  93017: [{id: 93259, count: 0.33}], // Stone Summit Boots (medium)
+  93228: [{id: 93259, count: 0.33}], // Stone Summit Boots (heavy)
 
   // Discontinued Snowflakes
   38130: [{id: 86601, count: 1}], // Tiny Snowflake
@@ -321,12 +339,14 @@ export default {
   92602: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Warhorn
 
   // Funerary Regalia
+  // Armor containers
   83216: [{gold: 12000}], // Royal Funerary Glove Box
   84013: [{gold: 12000}], // Royal Funerary Headgear Box
   82241: [{gold: 12000}], // Royal Funerary Boot Box
   82972: [{gold: 12000}], // Royal Funerary Shoulder Box
   84451: [{gold: 24000}], // Royal Funerary Legging Box
   82396: [{gold: 48000}], // Royal Funerary Coat Box
+  // Weapons
   84395: [{gold: 28800}], // Funerary Axe
   82594: [{gold: 28800}], // Funerary Dagger
   82880: [{gold: 28800}], // Funerary Focus
@@ -343,7 +363,7 @@ export default {
   83727: [{gold: 57600}], // Funerary Hammer
   83386: [{gold: 57600}], // Funerary Rifle
   82577: [{gold: 57600}], // Funerary Staff
-
+  // Armor
   82202: [{id: 83216, count: 1}], // Funerary Gauntlets
   83574: [{id: 83216, count: 1}], // Funerary Vambraces
   84613: [{id: 83216, count: 1}], // Funerary Gloves
@@ -362,6 +382,7 @@ export default {
   84462: [{id: 82396, count: 1}], // Funerary Breastplate
   83247: [{id: 82396, count: 1}], // Funerary Vestments
   84669: [{id: 82396, count: 1}], // Funerary Jerkin
+
   // Miniatures
   67364: [{id: 47909, count: 110}], // Mini Gwynefyrdd
   79654: [{id: 47909, count: 120}], // Mini Oxidecimus the Shadow Raven
