@@ -775,6 +775,7 @@ export default {
   81565: {gems: 400, flags: []}, // Mini Plush Aurene
   81664: {gems: 1000, flags: []}, // Mistlock Sanctuary Passkey
   81832: {gems: 150, flags: []}, // Mistlock Sanctuary Passkey (2 Weeks)
+  81901: {gems: 125, flags: []}, // Mini Dwayna's Messenger (Random BLC Drop)
   81888: {gems: 63, flags: []}, // Feathers of the Zephyr (Random BLC Drop / Inside Container)
   81854: {gems: 63, flags: []}, // Golden Zephyr Backpiece (Random BLC Drop / Inside Container)
   82011: {gems: 400, flags: []}, // Abaddon's Glider
@@ -811,6 +812,8 @@ export default {
   85461: {gems: 25, flags: []}, // Mini Spooky Griffon (Random BLC Drop)
   85507: {gems: 32, flags: []}, // Fallen Balthazar Outfit (Random BLC Drop)
   85396: {gems: 32, flags: []}, // Fallen Balthazar Helm (Unlocks all weights/ Random BLC Drop)
+  85326: {gems: 125, flags: []}, // Jackal Pup Backpack (Random BLC Drop)
+  85256: {gems: 125, flags: []}, // Hydra Staff (Random BLC Drop)
   85506: {gems: 400, flags: []}, // Mini Elonian Familiar
   85496: {gems: 500, flags: []}, // Riding Broom Glider
   85481: {gems: 400, flags: []}, // Mini Choya Pumpkin Gang
@@ -836,6 +839,7 @@ export default {
   86690: {gems: 1600, flags: []}, // Umbral Demon Skimmer Skin
   86516: {gems: 117, flags: []}, // Freezie Crown (Unlocks all weights)
   86507: {gems: 400, flags: []}, // Mini Frozen Tik'Teek
+  86777: {gems: 63, flags: []}, // Griffon Hatchling Backpiece (Inside a container)
   86813: {gems: 61, flags: []}, // Griffon Hatchling Glider (Inside a container)
   86766: {gems: 2000, flags: []}, // Summit Wildhorn Springer Skin
   86834: {gems: 600, flags: []}, // Permanent Sandshark Finisher
@@ -863,6 +867,7 @@ export default {
   87309: {gems: 200, flags: []}, // Mini Super Turtle (Inside a container)
   87311: {gems: 134, flags: []}, // Winged Headpiece (Unlocks all weights)
   87425: {gems: 1000, flags: []}, // Shifting Sand Mining Pick
+  87399: {gems: 125, flags: []}, // Celestial Compass Skin (Random BLC Drop)
   87429: {gems: 400, flags: []}, // Beastslayer Glider
   87478: {gems: 600, flags: []}, // Suntouched Scythe Staff Skin
   87477: {gems: 700, flags: []}, // Primeval Dervish Outfit
@@ -895,6 +900,7 @@ export default {
   88161: {gems: 56, flags: []}, // Sun Aspect Eye (Inside a container / Unlocks all weights)
   88170: {gems: 56, flags: []}, // Wind Aspect Eye (Inside a container / Unlocks all weights)
   88190: {gems: 56, flags: []}, // Lightning Aspect Eye (Inside a container / Unlocks all weights)
+  88171: {gems: 125, flags: []}, // Storm Dagger Skin (Random BLC Drop)
   88340: {gems: 500, flags: []}, // Timekeeper Glider
   88321: {gems: 700, flags: []}, // Timekeeper Outfit
   88258: {gems: 125, flags: []}, // Mordremoth Dye Kit
@@ -924,6 +930,7 @@ export default {
   89086: {gems: 1000, flags: []}, // Firestorm Logging Tool
   89104: {gems: 134, flags: []}, // Raven Helm (Unlocks all weights)
   89207: {gems: 134, flags: []}, // Raven Mantle (Unlocks all weights)
+  89256: {gems: 125, flags: []}, // Desert King Throne (Random BLC Drop)
   87612: {gems: 500, flags: []}, // Pet Dog Whistle: Basenji
   89325: {gems: 400, flags: []}, // Distant Lands Mount Adoption License
   89370: {gems: 1000, flags: []}, // Thunderstrike Harvesting Tool
@@ -936,9 +943,11 @@ export default {
   89680: {gems: 400, flags: []}, // Shiverpeaks Springer Skin (Inside a container)
   89668: {gems: 400, flags: []}, // Shiverpeaks Jackal Skin (Inside a container)
   89844: {gems: 400, flags: []}, // Shiverpeaks Griffon Skin (Inside a container)
+  89676: {gems: 125, flags: []}, // Roaring Dragon Glider (Random BLC Drop)
   89966: {gems: 600, flags: []}, // Caithe's Crystal Bloom Sword
   89971: {gems: 700, flags: []}, // Logan's Pact Marshal Outfit
   90003: {gems: 600, flags: []}, // Staff of Fortune Skin
+  90010: {gems: 42, flags: []}, // Exalted Shoulders Skin (Random BLC Drop / Unlocks all weights)
   89998: {gems: 700, flags: []}, // Shrine Guardian Outfit
   90009: {gems: 400, flags: []}, // Mini Shrine Guardian
   90020: {gems: 500, flags: []}, // Flying Boar Glider
@@ -1065,5 +1074,31 @@ export default {
   92757: {gems: 500, flags: []}, // Jora's Cape (Inside a container)
   92816: {gems: 600, flags: []}, // Stoneshard Scepter Skin
   92830: {gems: 350, flags: []}, // Alchemist Glider (Inside a container)
-  92825: {gems: 350, flags: []} // Alchemist Backpack (Inside a container)
+  92825: {gems: 350, flags: []}, // Alchemist Backpack (Inside a container)
+  92634: {gems: 1000, flags: []}, // Glacial Logging Tool
+  92822: {gems: 1000, flags: []}, // Glacial Harvesting Tool
+  92892: {gems: 1000, flags: []}, // Glacial Mining Tool
+  92903: {gems: 2000, flags: []}, // War-Torn Marauder Warclaw Skin
+  92926: {gems: 500, flags: []}, // Maguuma's Mantle Skin
+  92873: {gems: 500, flags: []}, // Maguuma's Grasp Skin
+  93251: {gems: 600, flags: []}, // Glacial Chair
+  93122: {gems: 500, flags: []}, // Abyss Stalker Cape (Inside a container)
+  93255: {gems: 700, flags: []}, // Abyss Stalker Outfit
+  93287: {gems: 600, flags: []}, // Dreamwalker Scythe Staff Skin
+  93286: {gems: 500, flags: []}, // Toxic Cape (Inside a container)
+  93290: {gems: 400, flags: []}, // Toxic Boots Skin
+  93324: {gems: 1600, flags: []}, // Super Outlaw Raptor Skin
+  93313: {gems: 500, flags: []}, // Maguuma's Treads Skin
+  93332: {gems: 700, flags: []}, // Eve's Prophecies Outfit
+  93331: {gems: 350, flags: []}, // Draconic Wings Glider (Inside a container)
+  93330: {gems: 350, flags: []}, // Draconic Wings Backpack (Inside a container)
+  93334: {gems: 600, flags: []}, // Jackal Chair
+  93335: {gems: 1200, flags: []}, // Curious Creatures Mount Select License
+  93333: {gems: 400, flags: []}, // Curious Creatures Mount Adoption License
+  93386: {gems: 500, flags: []}, // Spellweaver Glider
+  93048: {gems: 62, flags: []}, // Dreamwalker Wings Backpack (Random BLC Drop / Inside a container)
+  92964: {gems: 62, flags: []}, // Dreamwalker Wings Glider (Random BLC Drop / Inside a container)
+  92959: {gems: 125, flags: []}, // Kasmeer's Regalia Cape (Random BLC Drop)
+  93328: {gems: 125, flags: []}, // Vermilion Tail Feather Skin (Random BLC Drop)
+  93391: {gems: 125, flags: []} // Seven Reapers Grasps Skin (Random BLC Drop)
 }
