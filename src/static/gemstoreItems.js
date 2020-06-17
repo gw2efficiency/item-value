@@ -132,10 +132,10 @@ export default {
   39543: {gems: 400, flags: []}, // Designer Hoodie
   65197: {gems: 67, flags: []}, // Devil Horns (Unlocks all weights)
   42897: {gems: 500, flags: []}, // Dragon Bash Mini Pack (Container)
-  43428: {gems: 500, flags: []}, // Mini Holographic Colossus (Combined in Mystic Forge)
-  43425: {gems: 167, flags: []}, // Mini Holographic Branded Minotaur (Inside a container)
-  43426: {gems: 167, flags: []}, // Mini Holographic Axe-Wielding Destroyer (Inside a container)
-  43427: {gems: 167, flags: []}, // Mini Holographic Corrupted Wolf (Inside a container)
+  43428: {gems: 600, flags: []}, // Mini Holographic Colossus (Combined in Mystic Forge)
+  43425: {gems: 200, flags: []}, // Mini Holographic Branded Minotaur (Inside a container)
+  43426: {gems: 200, flags: []}, // Mini Holographic Axe-Wielding Destroyer (Inside a container)
+  43427: {gems: 200, flags: []}, // Mini Holographic Corrupted Wolf (Inside a container)
   79386: {gems: 600, flags: []}, // Dragon Kama Skin
   68655: {gems: 100, flags: []}, // Dragon Mask Skin (Unlocks all weights)
   42876: {gems: 200, flags: []}, // Dragon's Fortune Fireworks
@@ -536,10 +536,10 @@ export default {
   49149: {gems: 1000, flags: []}, // Royal Terrace Pass
   64749: {gems: 67, flags: []}, // Sailor's Beanie (Unlocks all weights)
   47907: {gems: 500, flags: []}, // Scarlet's Champions Mini 3-Pack (Container)
-  42956: {gems: 500, flags: []}, // Mini Armored Scarlet Briar (Combined in Mystic Forge)
-  42954: {gems: 167, flags: []}, // Mini Toxic Warlock (Inside a container)
-  42955: {gems: 167, flags: []}, // Mini Molten Berserker (Inside a container)
-  42953: {gems: 167, flags: []}, // Mini Aetherblade Admiral (Inside a container)
+  42956: {gems: 600, flags: []}, // Mini Armored Scarlet Briar (Combined in Mystic Forge)
+  42954: {gems: 200, flags: []}, // Mini Toxic Warlock (Inside a container)
+  42955: {gems: 200, flags: []}, // Mini Molten Berserker (Inside a container)
+  42953: {gems: 200, flags: []}, // Mini Aetherblade Admiral (Inside a container)
   48811: {gems: 133, flags: []}, // Scarlet's Grasp (Unlocks all weights)
   48815: {gems: 133, flags: []}, // Scarlet's Grasp (Unlocks all weights)
   48817: {gems: 133, flags: []}, // Scarlet's Grasp (Unlocks all weights)
@@ -1100,5 +1100,12 @@ export default {
   92964: {gems: 62, flags: []}, // Dreamwalker Wings Glider (Random BLC Drop / Inside a container)
   92959: {gems: 125, flags: []}, // Kasmeer's Regalia Cape (Random BLC Drop)
   93328: {gems: 125, flags: []}, // Vermilion Tail Feather Skin (Random BLC Drop)
-  93391: {gems: 125, flags: []} // Seven Reapers Grasps Skin (Random BLC Drop)
+  93391: {gems: 125, flags: []}, // Seven Reapers Grasps Skin (Random BLC Drop)
+  43431: {gems: 200, flags: []}, // Mini First Mate Horrik (Inside a container)
+  93401: {gems: 500, flags: []}, // Dragon's Watch Cape (Inside a container)
+  93502: {gems: 700, flags: []}, // Dragon's Watch Regalia
+  93666: {gems: 1600, flags: []}, // Mordrem Alpha Jackal Skin
+  93668: {gems: 350, flags: []}, // Tanglewood Wings Glider (Inside a container)
+  93664: {gems: 350, flags: []}, // Tanglewood Wings Backpack (Inside a container)
+  93663: {gems: 600, flags: []} // Dwayna's Throne
 }
