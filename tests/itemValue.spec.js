@@ -134,4 +134,15 @@ describe('itemValue', () => {
 
     expect(itemValue(item)).to.equal(10)
   })
+
+  it('uses the buy price for items with last sell price being below buy price', () => {
+    let item = {
+      buy: {price: 25, last_known: 25},
+      sell: {price: 0, last_known: 20},
+      crafting: {buy: 10},
+      vendor_price: 10
+    }
+
+    expect(itemValue(item)).to.equal(25)
+  })
 })
