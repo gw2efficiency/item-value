@@ -140,6 +140,26 @@ export default {
   93620: [{id: 93395, count: 0.33}], // Bear Ceremonial Sandals (medium)
   93464: [{id: 93395, count: 0.33}], // Bear Ceremonial Sandals (heavy)
 
+  // Runic armor
+  93188: [{gold: 750000}], // Runic Slayer Greaves
+  93096: [{gold: 750000}], // Runic Slayer Gauntlets
+  93043: [{gold: 750000}], // Runic Slayer Pauldrons
+  93130: [{gold: 1250000}], // Runic Slayer Helm
+  93260: [{gold: 1500000}], // Runic Slayer Tassets
+  93027: [{gold: 2500000}], // Runic Slayer Breastplate
+  93088: [{gold: 750000}], // Runic Hunter Boots
+  93225: [{gold: 750000}], // Runic Hunter Gloves
+  93013: [{gold: 750000}], // Runic Hunter Shoulders
+  93050: [{gold: 1250000}], // Runic Hunter Mask
+  93049: [{gold: 1500000}], // Runic Hunter Pants
+  93133: [{gold: 2500000}], // Runic Hunter Coat
+  93073: [{gold: 750000}], // Runic Shaman Boots
+  93277: [{gold: 750000}], // Runic Shaman Gloves
+  93000: [{gold: 750000}], // Runic Shaman Mantle
+  93092: [{gold: 1250000}], // Runic Shaman Mask
+  93233: [{gold: 1500000}], // Runic Shaman Pants
+  92986: [{gold: 2500000}], // Runic Shaman Coat
+
   // Discontinued Snowflakes
   38130: [{id: 86601, count: 1}], // Tiny Snowflake
   38131: [{id: 86601, count: 1}], // Delicate Snowflake
