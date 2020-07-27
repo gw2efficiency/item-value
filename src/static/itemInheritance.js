@@ -88,6 +88,12 @@ export default {
   92779: [{id: 92785, count: 0.33}], // Ice Golem's Helmet
   92715: [{gold: 20000}], // Still Waters Fishing Rod
   92416: [{gold: 100000}], // Basic Guild Cape
+  93594: [{id: 93487, count: 0.33}], // Charr War Mask (light)
+  93350: [{id: 93487, count: 0.33}], // Charr War Mask (medium)
+  93443: [{id: 93487, count: 0.33}], // Charr War Mask (heavy)
+  93382: [{id: 93653, count: 0.33}], // Blood Legion Soldier Helm (light)
+  93621: [{id: 93653, count: 0.33}], // Blood Legion Soldier Helm (medium)
+  93394: [{id: 93653, count: 0.33}], // Blood Legion Soldier Helm (heavy)
 
   // Raven Ceremonial containers
   92693: [{id: 92739, count: 0.33}], // Raven Ceremonial Sandals (heavy)
@@ -119,6 +125,40 @@ export default {
   93065: [{id: 93259, count: 0.33}], // Stone Summit Boots (light)
   93017: [{id: 93259, count: 0.33}], // Stone Summit Boots (medium)
   93228: [{id: 93259, count: 0.33}], // Stone Summit Boots (heavy)
+
+  // Bear Ceremonial containers
+  93600: [{id: 93569, count: 0.33}], // Bear Ceremonial Hood (light)
+  93590: [{id: 93569, count: 0.33}], // Bear Ceremonial Hood (medium)
+  93446: [{id: 93569, count: 0.33}], // Bear Ceremonial Hood (heavy)
+  93550: [{id: 93585, count: 0.33}], // Bear Ceremonial Garb (light)
+  93490: [{id: 93585, count: 0.33}], // Bear Ceremonial Garb (medium)
+  93575: [{id: 93585, count: 0.33}], // Bear Ceremonial Garb (heavy)
+  93338: [{id: 93506, count: 0.33}], // Bear Ceremonial Gown (light)
+  93452: [{id: 93506, count: 0.33}], // Bear Ceremonial Gown (medium)
+  93398: [{id: 93506, count: 0.33}], // Bear Ceremonial Gown (heavy)
+  93536: [{id: 93395, count: 0.33}], // Bear Ceremonial Sandals (light)
+  93620: [{id: 93395, count: 0.33}], // Bear Ceremonial Sandals (medium)
+  93464: [{id: 93395, count: 0.33}], // Bear Ceremonial Sandals (heavy)
+
+  // Runic armor
+  93188: [{gold: 750000}], // Runic Slayer Greaves
+  93096: [{gold: 750000}], // Runic Slayer Gauntlets
+  93043: [{gold: 750000}], // Runic Slayer Pauldrons
+  93130: [{gold: 1250000}], // Runic Slayer Helm
+  93260: [{gold: 1500000}], // Runic Slayer Tassets
+  93027: [{gold: 2500000}], // Runic Slayer Breastplate
+  93088: [{gold: 750000}], // Runic Hunter Boots
+  93225: [{gold: 750000}], // Runic Hunter Gloves
+  93013: [{gold: 750000}], // Runic Hunter Shoulders
+  93050: [{gold: 1250000}], // Runic Hunter Mask
+  93049: [{gold: 1500000}], // Runic Hunter Pants
+  93133: [{gold: 2500000}], // Runic Hunter Coat
+  93073: [{gold: 750000}], // Runic Shaman Boots
+  93277: [{gold: 750000}], // Runic Shaman Gloves
+  93000: [{gold: 750000}], // Runic Shaman Mantle
+  93092: [{gold: 1250000}], // Runic Shaman Mask
+  93233: [{gold: 1500000}], // Runic Shaman Pants
+  92986: [{gold: 2500000}], // Runic Shaman Coat
 
   // Discontinued Snowflakes
   38130: [{id: 86601, count: 1}], // Tiny Snowflake
@@ -225,6 +265,24 @@ export default {
   78044: [{id: 78096, count: 1}], // Kaiser Snake Warhorn
   78109: [{id: 78096, count: 1}], // Kaiser Snake Warhorn
   78026: [{id: 78096, count: 1}], // Kaiser Snake Warhorn Skin
+
+  // Imbued Holographic Weapons
+  93680: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Tooth
+  93698: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Spark
+  93708: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Bard
+  93705: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Dawn
+  93687: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Colossus
+  93710: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Leaf
+  93693: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Energizer
+  93700: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Chaos
+  93707: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Hunter
+  93701: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Storm
+  93679: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Chosen
+  93688: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Lover
+  93691: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Legend
+  93672: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Zap
+  93699: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Flame
+  93696: [{gold: 20000}, {id: 43320, count: 3}], // Imbued Holographic Howl
 
   // Sovereign Weapons
   44667: [{gold: 70000}], // Sovereign Eviscerator Skin
@@ -972,5 +1030,7 @@ export default {
   89786: [{gold: 500000}], // Dragon Crystal
   90773: [{gold: 500000}], // Mistborn Node
   92035: [{gold: 600000}], // Bound Hatched Chili Pepper Home Instance Node
-  92361: [{gold: 500000}] // Eternal Ice Node
+  92361: [{gold: 500000}], // Eternal Ice Node
+  93686: [{id: 43320, count: 10}], // Commemorative Dragon Pinata
+  93503: [{gold: 500000}] // Salvage Pile Home Instance Node
 }

@@ -27,8 +27,9 @@ export default function itemValue (item) {
     return sellPrice
   }
 
-  // 2. If the item is currently not sold on the tradingpost, use the last known sell price
-  if (useSellPrice && lastKnownSellPrice) {
+  // 2. If the item is currently not sold on the tradingpost and current buy price is below last known sell price,
+  // use the last known sell price
+  if (useSellPrice && lastKnownSellPrice && buyPrice <= lastKnownSellPrice) {
     return lastKnownSellPrice
   }
 

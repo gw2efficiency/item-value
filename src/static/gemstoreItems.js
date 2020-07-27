@@ -1107,5 +1107,16 @@ export default {
   93666: {gems: 1600, flags: []}, // Mordrem Alpha Jackal Skin
   93668: {gems: 350, flags: []}, // Tanglewood Wings Glider (Inside a container)
   93664: {gems: 350, flags: []}, // Tanglewood Wings Backpack (Inside a container)
-  93663: {gems: 600, flags: []} // Dwayna's Throne
+  93663: {gems: 600, flags: []}, // Dwayna's Throne
+  93714: {gems: 700, flags: []}, // Spellforged Outfit
+  93716: {gems: 350, flags: []}, // Spellforged Backpack (Inside a container)
+  93715: {gems: 350, flags: []}, // Spellforged Glider (Inside a container)
+  93717: {gems: 600, flags: []}, // Wolfheart Sword Skin
+  93713: {gems: 600, flags: []}, // Wolfheart Shield Skin
+  93671: {gems: 400, flags: []}, // Zhaitaffy Gobbler Pack (Container)
+  93704: {gems: 400, flags: []}, // Zhaitaffy Gobbler (Inside a container)
+  93703: {gems: 2000, flags: []}, // Dark Monarch Skyscale Skin
+  93718: {gems: 1600, flags: []}, // Synergetics Gyrocycle Roller Beetle Skin
+  93697: {gems: 166, flags: []}, // Aurene's Crystalline Diadem Skin (Unlocks all weights)
+  93692: {gems: 125, flags: []} // Wyrm's Breath Cape (Random BLC Drop)
 }
