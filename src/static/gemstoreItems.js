@@ -1118,5 +1118,8 @@ export default {
   93703: {gems: 2000, flags: []}, // Dark Monarch Skyscale Skin
   93718: {gems: 1600, flags: []}, // Synergetics Gyrocycle Roller Beetle Skin
   93697: {gems: 166, flags: []}, // Aurene's Crystalline Diadem Skin (Unlocks all weights)
-  93692: {gems: 125, flags: []} // Wyrm's Breath Cape (Random BLC Drop)
+  93692: {gems: 125, flags: []}, // Wyrm's Breath Cape (Random BLC Drop)
+  92209: {gems: 300, flags: []}, // Build Template Expansion
+  92203: {gems: 500, flags: []}, // Equipment Template Expansion
+  92206: {gems: 500, flags: []} // Build Storage Expansion
 }
