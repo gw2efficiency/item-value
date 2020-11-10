@@ -215,6 +215,26 @@ export default {
   90010: [{id: 82450, count: 0.33}], // Exalted Shoulders Skin
   90037: [{id: 82450, count: 1}], // Etherbound Package
   90613: [{id: 82450, count: 1}], // Branded Relic Package
+  93391: [{id: 82450, count: 1}], // Seven Reapers Grasps Skin
+  92155: [{id: 82450, count: 1}], // Searing Chain Gloves
+  93328: [{id: 82450, count: 1}], // Vermilion Tail Feather Skin
+  92401: [{id: 82450, count: 1}], // Celestial Axe Skin
+  92100: [{id: 82450, count: 1}], // Golden Talon Longbow
+  93250: [{id: 82450, count: 1}], // Dreamwalker Wings Backpack and Glider Combo
+  93048: [{id: 82450, count: 0.5}], // Dreamwalker Wings Backpack
+  92964: [{id: 82450, count: 0.5}], // Dreamwalker Wings Glider
+  92547: [{id: 82450, count: 1}], // Starlight Wings Backpack and Glider Combo
+  92599: [{id: 82450, count: 0.5}], // Starlight Wings Backpack
+  92564: [{id: 82450, count: 0.5}], // Starlight Wings Glider
+  91706: [{id: 82450, count: 1}], // Watchwork Wings Package
+  91830: [{id: 82450, count: 0.5}], // Watchwork Wings Backpack
+  91815: [{id: 82450, count: 0.5}], // Watchwork Wings Glider
+  91300: [{id: 82450, count: 1}], // Dragon Fireworks Package
+  91286: [{id: 82450, count: 0.5}], // Dragon Fireworks Backpiece
+  91278: [{id: 82450, count: 0.5}], // Dragon Fireworks Glider
+  92959: [{id: 82450, count: 1}], // Kasmeer's Regalia Cape
+  92689: [{id: 82450, count: 1}], // Whale Spirit Glider
+  91469: [{id: 82450, count: 1}], // Starborn Outfit
 
   // Kaiser Snake Weapons
   78029: [{id: 78105, count: 1}], // Kaiser Snake Axe
