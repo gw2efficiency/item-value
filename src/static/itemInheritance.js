@@ -1052,5 +1052,189 @@ export default {
   92035: [{gold: 600000}], // Bound Hatched Chili Pepper Home Instance Node
   92361: [{gold: 500000}], // Eternal Ice Node
   93686: [{id: 43320, count: 10}], // Commemorative Dragon Pinata
-  93503: [{gold: 500000}] // Salvage Pile Home Instance Node
+  93503: [{gold: 500000}], // Salvage Pile Home Instance Node
+
+  // Infusions get converted to the value of their Power version, so we can get more stable
+  // values on infusions with high value but no orders in the TP for their more uncommon stats
+  93720: [{id: 93829, count: 1}], // Frost Legion Infusion -- Condition Damage to Power
+  93758: [{id: 93829, count: 1}], // Frost Legion Infusion -- Healing to Power
+  93773: [{id: 93829, count: 1}], // Frost Legion Infusion -- Toughness to Power
+  93775: [{id: 93829, count: 1}], // Frost Legion Infusion -- Concentration to Power
+  93858: [{id: 93829, count: 1}], // Frost Legion Infusion -- Expertise to Power
+  93906: [{id: 93829, count: 1}], // Frost Legion Infusion -- Precision to Power
+  81638: [{id: 81663, count: 1}], // Queen Bee Infusion -- Precision to Power
+  81679: [{id: 81663, count: 1}], // Queen Bee Infusion -- Healing to Power
+  81701: [{id: 81663, count: 1}], // Queen Bee Infusion -- Condition Damage to Power
+  81818: [{id: 81663, count: 1}], // Queen Bee Infusion -- Toughness to Power
+  81897: [{id: 81663, count: 1}], // Queen Bee Infusion -- Vitality to Power
+  86055: [{id: 81663, count: 1}], // Queen Bee Infusion -- Concentration to Power
+  86303: [{id: 81663, count: 1}], // Queen Bee Infusion -- Expertise to Power
+  81875: [{id: 81715, count: 1}], // Liquid Aurillium Infusion -- Precision to Power
+  81889: [{id: 81715, count: 1}], // Liquid Aurillium Infusion -- Healing to Power
+  81918: [{id: 81715, count: 1}], // Liquid Aurillium Infusion -- Toughness to Power
+  81975: [{id: 81715, count: 1}], // Liquid Aurillium Infusion -- Vitality to Power
+  82006: [{id: 81715, count: 1}], // Liquid Aurillium Infusion -- Condition Damage to Power
+  86275: [{id: 81715, count: 1}], // Liquid Aurillium Infusion -- Concentration to Power
+  86291: [{id: 81715, count: 1}], // Liquid Aurillium Infusion -- Expertise to Power
+  81616: [{id: 81825, count: 1}], // Chak Infusion -- Precision to Power
+  81677: [{id: 81825, count: 1}], // Chak Infusion -- Healing to Power
+  81807: [{id: 81825, count: 1}], // Chak Infusion -- Condition Damage to Power
+  81840: [{id: 81825, count: 1}], // Chak Infusion -- Toughness to Power
+  82044: [{id: 81825, count: 1}], // Chak Infusion -- Vitality to Power
+  85668: [{id: 81825, count: 1}], // Chak Infusion -- Expertise to Power
+  86251: [{id: 81825, count: 1}], // Chak Infusion -- Concentration to Power
+  84871: [{id: 84882, count: 1}], // Festive Confetti Infusion -- Condition Damage to Power
+  84937: [{id: 84882, count: 1}], // Festive Confetti Infusion -- Precision to Power
+  84959: [{id: 84882, count: 1}], // Festive Confetti Infusion -- Toughness to Power
+  84970: [{id: 84882, count: 1}], // Festive Confetti Infusion -- Vitality to Power
+  85033: [{id: 84882, count: 1}], // Festive Confetti Infusion -- Healing to Power
+  85900: [{id: 84882, count: 1}], // Festive Confetti Infusion -- Expertise to Power
+  85996: [{id: 84882, count: 1}], // Festive Confetti Infusion -- Concentration to Power
+  91897: [{id: 91930, count: 1}], // Heart of the Khan-Ur -- Vitality to Power
+  91923: [{id: 91930, count: 1}], // Heart of the Khan-Ur -- Precision to Power
+  91996: [{id: 91930, count: 1}], // Heart of the Khan-Ur -- Expertise to Power
+  92018: [{id: 91930, count: 1}], // Heart of the Khan-Ur -- Healing to Power
+  92023: [{id: 91930, count: 1}], // Heart of the Khan-Ur -- Toughness to Power
+  92073: [{id: 91930, count: 1}], // Heart of the Khan-Ur -- Condition Damage to Power
+  92075: [{id: 91930, count: 1}], // Heart of the Khan-Ur -- Concentration to Power
+  81761: [{id: 81919, count: 1}], // Celestial Infusion (Blue) -- Precision to Power
+  81779: [{id: 81919, count: 1}], // Celestial Infusion (Blue) -- Toughness to Power
+  81811: [{id: 81919, count: 1}], // Celestial Infusion (Blue) -- Healing to Power
+  81878: [{id: 81919, count: 1}], // Celestial Infusion (Blue) -- Vitality to Power
+  81991: [{id: 81919, count: 1}], // Celestial Infusion (Blue) -- Condition Damage to Power
+  85989: [{id: 81919, count: 1}], // Celestial Infusion (Blue) -- Expertise to Power
+  86347: [{id: 81919, count: 1}], // Celestial Infusion (Blue) -- Concentration to Power
+  81792: [{id: 81783, count: 1}], // Celestial Infusion (Red) -- Precision to Power
+  81814: [{id: 81783, count: 1}], // Celestial Infusion (Red) -- Healing to Power
+  81927: [{id: 81783, count: 1}], // Celestial Infusion (Red) -- Condition Damage to Power
+  82062: [{id: 81783, count: 1}], // Celestial Infusion (Red) -- Vitality to Power
+  82070: [{id: 81783, count: 1}], // Celestial Infusion (Red) -- Toughness to Power
+  85646: [{id: 81783, count: 1}], // Celestial Infusion (Red) -- Expertise to Power
+  85833: [{id: 81783, count: 1}], // Celestial Infusion (Red) -- Concentration to Power
+  94010: [{id: 94078, count: 1}], // Abyssal Infusion -- Expertise to Power
+  94024: [{id: 94078, count: 1}], // Abyssal Infusion -- Concentration to Power
+  94028: [{id: 94078, count: 1}], // Abyssal Infusion -- Healing to Power
+  94039: [{id: 94078, count: 1}], // Abyssal Infusion -- Condition Damage to Power
+  94079: [{id: 94078, count: 1}], // Abyssal Infusion -- Toughness to Power
+  94090: [{id: 94078, count: 1}], // Abyssal Infusion -- Vitality to Power
+  94091: [{id: 94078, count: 1}], // Abyssal Infusion -- Precision to Power
+  79639: [{id: 79665, count: 1}], // Phospholuminescent Infusion -- Precision to Power
+  79653: [{id: 79665, count: 1}], // Phospholuminescent Infusion -- Vitality to Power
+  79661: [{id: 79665, count: 1}], // Phospholuminescent Infusion -- Toughness to Power
+  79669: [{id: 79665, count: 1}], // Phospholuminescent Infusion -- Healing to Power
+  79674: [{id: 79665, count: 1}], // Phospholuminescent Infusion -- Condition Damage to Power
+  85863: [{id: 79665, count: 1}], // Phospholuminescent Infusion -- Concentration to Power
+  85885: [{id: 79665, count: 1}], // Phospholuminescent Infusion -- Expertise to Power
+  81612: [{id: 81678, count: 1}], // Polyluminescent Undulating Infusion (Green) -- Vitality to Power
+  81727: [{id: 81678, count: 1}], // Polyluminescent Undulating Infusion (Green) -- Healing to Power
+  81948: [{id: 81678, count: 1}], // Polyluminescent Undulating Infusion (Green) -- Precision to Power
+  81988: [{id: 81678, count: 1}], // Polyluminescent Undulating Infusion (Green) -- Toughness to Power
+  82055: [{id: 81678, count: 1}], // Polyluminescent Undulating Infusion (Green) -- Condition Damage to Power
+  85682: [{id: 81678, count: 1}], // Polyluminescent Undulating Infusion (Green) -- Concentration to Power
+  86183: [{id: 81678, count: 1}], // Polyluminescent Undulating Infusion (Green) -- Expertise to Power
+  81624: [{id: 82013, count: 1}], // Polyluminescent Undulating Infusion (Black) -- Toughness to Power
+  81709: [{id: 82013, count: 1}], // Polyluminescent Undulating Infusion (Black) -- Precision to Power
+  81810: [{id: 82013, count: 1}], // Polyluminescent Undulating Infusion (Black) -- Vitality to Power
+  81877: [{id: 82013, count: 1}], // Polyluminescent Undulating Infusion (Black) -- Condition Damage to Power
+  82039: [{id: 82013, count: 1}], // Polyluminescent Undulating Infusion (Black) -- Healing to Power
+  85974: [{id: 82013, count: 1}], // Polyluminescent Undulating Infusion (Black) -- Expertise to Power
+  86248: [{id: 82013, count: 1}], // Polyluminescent Undulating Infusion (Black) -- Concentration to Power
+  81641: [{id: 81653, count: 1}], // Polyluminescent Undulating Infusion (Teal) -- Vitality to Power
+  81655: [{id: 81653, count: 1}], // Polyluminescent Undulating Infusion (Teal) -- Precision to Power
+  81777: [{id: 81653, count: 1}], // Polyluminescent Undulating Infusion (Teal) -- Condition Damage to Power
+  81858: [{id: 81653, count: 1}], // Polyluminescent Undulating Infusion (Teal) -- Toughness to Power
+  81959: [{id: 81653, count: 1}], // Polyluminescent Undulating Infusion (Teal) -- Healing to Power
+  86068: [{id: 81653, count: 1}], // Polyluminescent Undulating Infusion (Teal) -- Concentration to Power
+  86312: [{id: 81653, count: 1}], // Polyluminescent Undulating Infusion (Teal) -- Expertise to Power
+  81809: [{id: 81864, count: 1}], // Polyluminescent Undulating Infusion (Orange) -- Precision to Power
+  81847: [{id: 81864, count: 1}], // Polyluminescent Undulating Infusion (Orange) -- Condition Damage to Power
+  81881: [{id: 81864, count: 1}], // Polyluminescent Undulating Infusion (Orange) -- Toughness to Power
+  81911: [{id: 81864, count: 1}], // Polyluminescent Undulating Infusion (Orange) -- Vitality to Power
+  81930: [{id: 81864, count: 1}], // Polyluminescent Undulating Infusion (Orange) -- Healing to Power
+  85694: [{id: 81864, count: 1}], // Polyluminescent Undulating Infusion (Orange) -- Expertise to Power
+  86310: [{id: 81864, count: 1}], // Polyluminescent Undulating Infusion (Orange) -- Concentration to Power
+  89005: [{id: 89063, count: 1}], // Polysaturating Reverberating Infusion (Purple) -- Toughness to Power
+  89017: [{id: 89063, count: 1}], // Polysaturating Reverberating Infusion (Purple) -- Precision to Power
+  89037: [{id: 89063, count: 1}], // Polysaturating Reverberating Infusion (Purple) -- Vitality to Power
+  89039: [{id: 89063, count: 1}], // Polysaturating Reverberating Infusion (Purple) -- Healing to Power
+  89042: [{id: 89063, count: 1}], // Polysaturating Reverberating Infusion (Purple) -- Expertise to Power
+  89049: [{id: 89063, count: 1}], // Polysaturating Reverberating Infusion (Purple) -- Concentration to Power
+  89070: [{id: 89063, count: 1}], // Polysaturating Reverberating Infusion (Purple) -- Condition Damage to Power
+  89007: [{id: 89020, count: 1}], // Polysaturating Reverberating Infusion (Gray) -- Condition Damage to Power
+  89012: [{id: 89020, count: 1}], // Polysaturating Reverberating Infusion (Gray) -- Expertise to Power
+  89013: [{id: 89020, count: 1}], // Polysaturating Reverberating Infusion (Gray) -- Precision to Power
+  89016: [{id: 89020, count: 1}], // Polysaturating Reverberating Infusion (Gray) -- Toughness to Power
+  89054: [{id: 89020, count: 1}], // Polysaturating Reverberating Infusion (Gray) -- Vitality to Power
+  89074: [{id: 89020, count: 1}], // Polysaturating Reverberating Infusion (Gray) -- Healing to Power
+  89078: [{id: 89020, count: 1}], // Polysaturating Reverberating Infusion (Gray) -- Concentration to Power
+  89026: [{id: 89059, count: 1}], // Polysaturating Reverberating Infusion (Red) -- Healing to Power
+  89028: [{id: 89059, count: 1}], // Polysaturating Reverberating Infusion (Red) -- Precision to Power
+  89032: [{id: 89059, count: 1}], // Polysaturating Reverberating Infusion (Red) -- Concentration to Power
+  89034: [{id: 89059, count: 1}], // Polysaturating Reverberating Infusion (Red) -- Vitality to Power
+  89052: [{id: 89059, count: 1}], // Polysaturating Reverberating Infusion (Red) -- Expertise to Power
+  89071: [{id: 89059, count: 1}], // Polysaturating Reverberating Infusion (Red) -- Condition Damage to Power
+  89075: [{id: 89059, count: 1}], // Polysaturating Reverberating Infusion (Red) -- Toughness to Power
+  89010: [{id: 89060, count: 1}], // Ember Infusion -- Healing to Power
+  89015: [{id: 89060, count: 1}], // Ember Infusion -- Vitality to Power
+  89021: [{id: 89060, count: 1}], // Ember Infusion -- Expertise to Power
+  89038: [{id: 89060, count: 1}], // Ember Infusion -- Precision to Power
+  89040: [{id: 89060, count: 1}], // Ember Infusion -- Concentration to Power
+  89046: [{id: 89060, count: 1}], // Ember Infusion -- Toughness to Power
+  89065: [{id: 89060, count: 1}], // Ember Infusion -- Condition Damage to Power
+  90966: [{id: 91111, count: 1}], // Mystic Infusion -- Vitality to Power
+  90977: [{id: 91111, count: 1}], // Mystic Infusion -- Concentration to Power
+  90982: [{id: 91111, count: 1}], // Mystic Infusion -- Condition Damage to Power
+  91050: [{id: 91111, count: 1}], // Mystic Infusion -- Precision to Power
+  91054: [{id: 91111, count: 1}], // Mystic Infusion -- Toughness to Power
+  91086: [{id: 91111, count: 1}], // Mystic Infusion -- Healing to Power
+  91099: [{id: 91111, count: 1}], // Mystic Infusion -- Expertise to Power
+  77274: [{id: 77310, count: 1}], // Ghostly Infusion -- Healing to Power
+  77303: [{id: 77310, count: 1}], // Ghostly Infusion -- Vitality to Power
+  77316: [{id: 77310, count: 1}], // Ghostly Infusion -- Precision to Power
+  77366: [{id: 77310, count: 1}], // Ghostly Infusion -- Condition Damage to Power
+  77394: [{id: 77310, count: 1}], // Ghostly Infusion -- Toughness to Power
+  85644: [{id: 77310, count: 1}], // Ghostly Infusion -- Expertise to Power
+  85945: [{id: 77310, count: 1}], // Ghostly Infusion -- Concentration to Power
+  91140: [{id: 91202, count: 1}], // Peerless Infusion -- Toughness to Power
+  91152: [{id: 91202, count: 1}], // Peerless Infusion -- Condition Damage to Power
+  91154: [{id: 91202, count: 1}], // Peerless Infusion -- Vitality to Power
+  91180: [{id: 91202, count: 1}], // Peerless Infusion -- Precision to Power
+  91210: [{id: 91202, count: 1}], // Peerless Infusion -- Healing to Power
+  91221: [{id: 91202, count: 1}], // Peerless Infusion -- Concentration to Power
+  91236: [{id: 91202, count: 1}], // Peerless Infusion -- Expertise to Power
+  78012: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Condition Damage to Power
+  78054: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Precision to Power
+  78079: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Healing to Power
+  78086: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Toughness to Power
+  78090: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Vitality to Power
+  86552: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Concentration to Power
+  86571: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Expertise to Power
+  78016: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Healing to Power
+  78030: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Toughness to Power
+  78031: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Precision to Power
+  78057: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Condition Damage to Power
+  78097: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Vitality to Power
+  86446: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Concentration to Power
+  86453: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Expertise to Power
+  79943: [{id: 79959, count: 1}], // Winter's Heart Infusion -- Vitality to Power
+  79957: [{id: 79959, count: 1}], // Winter's Heart Infusion -- Precision to Power
+  79978: [{id: 79959, count: 1}], // Winter's Heart Infusion -- Healing to Power
+  79994: [{id: 79959, count: 1}], // Winter's Heart Infusion -- Condition Damage to Power
+  80063: [{id: 79959, count: 1}], // Winter's Heart Infusion -- Toughness to Power
+  85718: [{id: 79959, count: 1}], // Winter's Heart Infusion -- Concentration to Power
+  85734: [{id: 79959, count: 1}], // Winter's Heart Infusion -- Expertise to Power
+  86405: [{id: 86401, count: 1}], // Snow Diamond Infusion -- Healing to Power
+  86407: [{id: 86401, count: 1}], // Snow Diamond Infusion -- Precision to Power
+  86537: [{id: 86401, count: 1}], // Snow Diamond Infusion -- Condition Damage to Power
+  86597: [{id: 86401, count: 1}], // Snow Diamond Infusion -- Vitality to Power
+  86665: [{id: 86401, count: 1}], // Snow Diamond Infusion -- Expertise to Power
+  86666: [{id: 86401, count: 1}], // Snow Diamond Infusion -- Concentration to Power
+  86704: [{id: 86401, count: 1}], // Snow Diamond Infusion -- Toughness to Power
+  89382: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Precision to Power
+  89391: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Concentration to Power
+  89411: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Condition Damage to Power
+  89413: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Expertise to Power
+  89415: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Vitality to Power
+  89426: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Healing to Power
+  89427: [{id: 89401, count: 1}] // Toy-Shell Infusion -- Toughness to Power
 }
