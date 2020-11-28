@@ -215,8 +215,8 @@ export default {
   90010: [{id: 82450, count: 0.33}], // Exalted Shoulders Skin
   90037: [{id: 82450, count: 1}], // Etherbound Package
   90613: [{id: 82450, count: 1}], // Branded Relic Package
-  93391: [{id: 82450, count: 1}], // Seven Reapers Grasps Skin
-  92155: [{id: 82450, count: 1}], // Searing Chain Gloves
+  93391: [{id: 82450, count: 0.33}], // Seven Reapers Grasps Skin
+  92155: [{id: 82450, count: 0.33}], // Searing Chain Gloves
   93328: [{id: 82450, count: 1}], // Vermilion Tail Feather Skin
   92401: [{id: 82450, count: 1}], // Celestial Axe Skin
   92100: [{id: 82450, count: 1}], // Golden Talon Longbow
