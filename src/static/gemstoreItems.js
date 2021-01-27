@@ -1121,5 +1121,24 @@ export default {
   93692: {gems: 125, flags: []}, // Wyrm's Breath Cape (Random BLC Drop)
   92209: {gems: 300, flags: []}, // Build Template Expansion
   92203: {gems: 500, flags: []}, // Equipment Template Expansion
-  92206: {gems: 500, flags: []} // Build Storage Expansion
+  92206: {gems: 500, flags: []}, // Build Storage Expansion
+  93987: {gems: 100, flags: []}, // Immortal Light Halo (Unlocks all weights)
+  94003: {gems: 100, flags: []}, // Immortal Fire Halo (Unlocks all weights)
+  94103: {gems: 133, flags: []}, // Cat-Ear Hood (Unlocks all weights)
+  94139: {gems: 133, flags: []}, // Bat Wings Headpiece (Unlocks all weights)
+  93938: {gems: 167, flags: []}, // Ice Reaver Pauldrons (Unlocks all weights)
+  94160: {gems: 167, flags: []}, // Ice Reaver Gauntlets (Unlocks all weights)
+  94183: {gems: 350, flags: []}, // Volcanic Backpack Skin
+  94279: {gems: 350, flags: []}, // Volcanic Glider
+  94105: {gems: 350, flags: []}, // Stained Glass Wings Backpack Skin
+  94098: {gems: 350, flags: []}, // Stained Glass Wings Glider
+  94159: {gems: 700, flags: []}, // Nightspeaker Outfit
+  94154: {gems: 350, flags: []}, // Nightspeaker Wings Backpack
+  94156: {gems: 350, flags: []}, // Nightspeaker Wings Glider
+  94157: {gems: 600, flags: []}, // Nightspeaker Greatsword Skin
+  94088: {gems: 500, flags: []}, // Celestial Ministry Cape
+  93876: {gems: 500, flags: []}, // Ice Reaver Cape
+  94102: {gems: 600, flags: []}, // Tiger Insignia Axe Skin
+  94211: {gems: 166, flags: []} // Conjured Starlight Hat Skin(Unlocks all weights)
+
 }

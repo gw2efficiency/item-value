@@ -215,8 +215,8 @@ export default {
   90010: [{id: 82450, count: 0.33}], // Exalted Shoulders Skin
   90037: [{id: 82450, count: 1}], // Etherbound Package
   90613: [{id: 82450, count: 1}], // Branded Relic Package
-  93391: [{id: 82450, count: 1}], // Seven Reapers Grasps Skin
-  92155: [{id: 82450, count: 1}], // Searing Chain Gloves
+  93391: [{id: 82450, count: 0.33}], // Seven Reapers Grasps Skin
+  92155: [{id: 82450, count: 0.33}], // Searing Chain Gloves
   93328: [{id: 82450, count: 1}], // Vermilion Tail Feather Skin
   92401: [{id: 82450, count: 1}], // Celestial Axe Skin
   92100: [{id: 82450, count: 1}], // Golden Talon Longbow
@@ -397,6 +397,24 @@ export default {
   92192: [{id: 92128, count: 1}], // Royal Flame Sword
   92194: [{id: 92128, count: 1}], // Royal Flame Torch
   92131: [{id: 92128, count: 1}], // Royal Flame Warhorn
+
+  // Demon-Haunted
+  94146: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Axe
+  94112: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Dagger
+  94129: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Mace
+  94140: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Pistol
+  94132: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Scepter
+  94141: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Sword
+  94135: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Focus
+  94124: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Shield
+  94113: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Torch
+  94137: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Warhorn
+  94120: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Greatsword
+  94126: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Hamer
+  94145: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Longbow
+  94131: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Rifle
+  94144: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Shorbow
+  94151: [{gold: 20000}, {id: 47909, count: 4}], // Demon-Haunted Staff
 
   // Rimed Verdant Weapons
   92584: [{id: 92586, count: 1}], // Bringer's Rimed Verdant Axe
