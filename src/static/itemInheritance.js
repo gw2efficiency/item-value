@@ -1254,5 +1254,189 @@ export default {
   89413: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Expertise to Power
   89415: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Vitality to Power
   89426: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Healing to Power
-  89427: [{id: 89401, count: 1}] // Toy-Shell Infusion -- Toughness to Power
+  89427: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Toughness to Power
+
+  // Legendary Rune
+  91381: [{id: 91536, count: 1}], // Superior Rune of Thorns
+  91387: [{id: 91536, count: 1}], // Superior Rune of the Mesmer
+  91391: [{id: 91536, count: 1}], // Superior Rune of the Golemancer
+  91392: [{id: 91536, count: 1}], // Superior Rune of Evasion
+  91396: [{id: 91536, count: 1}], // Superior Rune of the Cavalier
+  91397: [{id: 91536, count: 1}], // Superior Rune of the Berserker
+  91399: [{id: 91536, count: 1}], // Superior Rune of Orr
+  91401: [{id: 91536, count: 1}], // Superior Rune of Speed
+  91404: [{id: 91536, count: 1}], // Superior Rune of the Defender
+  91408: [{id: 91536, count: 1}], // Superior Rune of the Flock
+  91410: [{id: 91536, count: 1}], // Superior Rune of the Nightmare
+  91411: [{id: 91536, count: 1}], // Superior Rune of Resistance
+  91417: [{id: 91536, count: 1}], // Superior Rune of Exuberance
+  91419: [{id: 91536, count: 1}], // Superior Rune of the Forgeman
+  91423: [{id: 91536, count: 1}], // Superior Rune of Strength
+  91425: [{id: 91536, count: 1}], // Superior Rune of the Brawler
+  91428: [{id: 91536, count: 1}], // Superior Rune of Divinity
+  91430: [{id: 91536, count: 1}], // Superior Rune of the Druid
+  91432: [{id: 91536, count: 1}], // Superior Rune of the Dragonhunter
+  91433: [{id: 91536, count: 1}], // Superior Rune of the Eagle
+  91435: [{id: 91536, count: 1}], // Superior Rune of the Krait
+  91444: [{id: 91536, count: 1}], // Superior Rune of Durability
+  91445: [{id: 91536, count: 1}], // Superior Rune of the Undead
+  91447: [{id: 91536, count: 1}], // Superior Rune of the Revenant
+  91451: [{id: 91536, count: 1}], // Superior Rune of the Weaver
+  91457: [{id: 91536, count: 1}], // Superior Rune of the Daredevil
+  91459: [{id: 91536, count: 1}], // Superior Rune of the Dolyak
+  91460: [{id: 91536, count: 1}], // Superior Rune of the Afflicted
+  91464: [{id: 91536, count: 1}], // Superior Rune of the Scourge
+  91465: [{id: 91536, count: 1}], // Superior Rune of the Elementalist
+  91468: [{id: 91536, count: 1}], // Superior Rune of Grenth
+  91471: [{id: 91536, count: 1}], // Superior Rune of Lyssa
+  91475: [{id: 91536, count: 1}], // Superior Rune of the Grove
+  91477: [{id: 91536, count: 1}], // Superior Rune of the Baelfire
+  91482: [{id: 91536, count: 1}], // Superior Rune of Fireworks
+  91483: [{id: 91536, count: 1}], // Superior Rune of the Deadeye
+  91485: [{id: 91536, count: 1}], // Superior Rune of the Traveler
+  91489: [{id: 91536, count: 1}], // Superior Rune of the Fire
+  91493: [{id: 91536, count: 1}], // Superior Rune of the Earth
+  91494: [{id: 91536, count: 1}], // Superior Rune of Svanir
+  91497: [{id: 91536, count: 1}], // Superior Rune of the Ogre
+  91501: [{id: 91536, count: 1}], // Superior Rune of the Monk
+  91503: [{id: 91536, count: 1}], // Superior Rune of Rage
+  91507: [{id: 91536, count: 1}], // Superior Rune of the Flame Legion
+  91508: [{id: 91536, count: 1}], // Superior Rune of the Trapper
+  91510: [{id: 91536, count: 1}], // Superior Rune of the Soulbeast
+  91512: [{id: 91536, count: 1}], // Superior Rune of Snowfall
+  91513: [{id: 91536, count: 1}], // Superior Rune of Balthazar
+  91515: [{id: 91536, count: 1}], // Superior Rune of the Sunless
+  91516: [{id: 91536, count: 1}], // Superior Rune of Tormenting
+  91518: [{id: 91536, count: 1}], // Superior Rune of the Water
+  91522: [{id: 91536, count: 1}], // Superior Rune of the Engineer
+  91523: [{id: 91536, count: 1}], // Superior Rune of the Warrior
+  91525: [{id: 91536, count: 1}], // Superior Rune of the Zephyrite
+  91529: [{id: 91536, count: 1}], // Superior Rune of Dwayna
+  91530: [{id: 91536, count: 1}], // Superior Rune of Leadership
+  91533: [{id: 91536, count: 1}], // Superior Rune of the Lich
+  91538: [{id: 91536, count: 1}], // Superior Rune of the Firebrand
+  91541: [{id: 91536, count: 1}], // Superior Rune of the Ranger
+  91545: [{id: 91536, count: 1}], // Superior Rune of Vampirism
+  91547: [{id: 91536, count: 1}], // Superior Rune of the Air
+  91550: [{id: 91536, count: 1}], // Superior Rune of Perplexity
+  91551: [{id: 91536, count: 1}], // Superior Rune of the Trooper
+  91553: [{id: 91536, count: 1}], // Superior Rune of Scavenging
+  91556: [{id: 91536, count: 1}], // Superior Rune of Mercy
+  91557: [{id: 91536, count: 1}], // Superior Rune of the Privateer
+  91560: [{id: 91536, count: 1}], // Superior Rune of the Holosmith
+  91564: [{id: 91536, count: 1}], // Superior Rune of Hoelbrak
+  91565: [{id: 91536, count: 1}], // Superior Rune of the Chronomancer
+  91566: [{id: 91536, count: 1}], // Superior Rune of Melandru
+  91567: [{id: 91536, count: 1}], // Superior Rune of the Necromancer
+  91568: [{id: 91536, count: 1}], // Superior Rune of the Mirage
+  91570: [{id: 91536, count: 1}], // Superior Rune of the Guardian
+  91572: [{id: 91536, count: 1}], // Superior Rune of Rata Sum
+  91573: [{id: 91536, count: 1}], // Superior Rune of the Renegade
+  91576: [{id: 91536, count: 1}], // Superior Rune of the Adventurer
+  91578: [{id: 91536, count: 1}], // Superior Rune of the Reaper
+  91579: [{id: 91536, count: 1}], // Superior Rune of the Thief
+  91580: [{id: 91536, count: 1}], // Superior Rune of the Ice
+  91581: [{id: 91536, count: 1}], // Superior Rune of the Mad King
+  91582: [{id: 91536, count: 1}], // Superior Rune of the Scrapper
+  91583: [{id: 91536, count: 1}], // Superior Rune of the Tempest
+  91585: [{id: 91536, count: 1}], // Superior Rune of the Herald
+  91587: [{id: 91536, count: 1}], // Superior Rune of Radiance
+  91588: [{id: 91536, count: 1}], // Superior Rune of the Citadel
+  91590: [{id: 91536, count: 1}], // Superior Rune of the Spellbreaker
+  91591: [{id: 91536, count: 1}], // Superior Rune of Surging
+  91592: [{id: 91536, count: 1}], // Superior Rune of the Pack
+  91593: [{id: 91536, count: 1}], // Superior Rune of the Wurm
+  91595: [{id: 91536, count: 1}], // Superior Rune of the Scholar
+  91599: [{id: 91536, count: 1}], // Superior Rune of the Centaur
+  91602: [{id: 91536, count: 1}], // Superior Rune of the Aristocracy
+  91605: [{id: 91536, count: 1}], // Superior Rune of Sanctuary
+  91608: [{id: 91536, count: 1}], // Superior Rune of Infiltration
+  91627: [{id: 91536, count: 1}], // Superior Rune of the Rebirth
+  91638: [{id: 91536, count: 1}], // Superior Rune of Altruism
+  91639: [{id: 91536, count: 1}], // Superior Rune of Nature's Bounty
+  91641: [{id: 91536, count: 1}], // Superior Rune of Antitoxin
+  91673: [{id: 91536, count: 1}], // Superior Rune of the Stars
+
+  // Legendary Sigil
+  91382: [{id: 91505, count: 1}], // Superior Sigil of Benevolence
+  91384: [{id: 91505, count: 1}], // Superior Sigil of the Stars
+  91388: [{id: 91505, count: 1}], // Superior Sigil of Demons
+  91389: [{id: 91505, count: 1}], // Superior Sigil of the Night
+  91390: [{id: 91505, count: 1}], // Superior Sigil of Battle
+  91393: [{id: 91505, count: 1}], // Superior Sigil of Luck
+  91398: [{id: 91505, count: 1}], // Superior Sigil of Paralyzation
+  91400: [{id: 91505, count: 1}], // Superior Sigil of Renewal
+  91403: [{id: 91505, count: 1}], // Superior Sigil of Agility
+  91405: [{id: 91505, count: 1}], // Superior Sigil of Impact
+  91406: [{id: 91505, count: 1}], // Superior Sigil of Hydromancy
+  91407: [{id: 91505, count: 1}], // Superior Sigil of Vision
+  91409: [{id: 91505, count: 1}], // Superior Sigil of Speed
+  91412: [{id: 91505, count: 1}], // Superior Sigil of Torment
+  91413: [{id: 91505, count: 1}], // Superior Sigil of Karka Slaying
+  91415: [{id: 91505, count: 1}], // Superior Sigil of Restoration
+  91416: [{id: 91505, count: 1}], // Superior Sigil of Bursting
+  91420: [{id: 91505, count: 1}], // Superior Sigil of Rage
+  91426: [{id: 91505, count: 1}], // Superior Sigil of Perception
+  91429: [{id: 91505, count: 1}], // Superior Sigil of Ruthlessness
+  91431: [{id: 91505, count: 1}], // Superior Sigil of Demon Slaying
+  91436: [{id: 91505, count: 1}], // Superior Sigil of Grawl Slaying
+  91438: [{id: 91505, count: 1}], // Superior Sigil of Hologram Slaying
+  91439: [{id: 91505, count: 1}], // Superior Sigil of Force
+  91441: [{id: 91505, count: 1}], // Superior Sigil of Energy
+  91443: [{id: 91505, count: 1}], // Superior Sigil of Frailty
+  91448: [{id: 91505, count: 1}], // Superior Sigil of Transference
+  91452: [{id: 91505, count: 1}], // Superior Sigil of Dreams
+  91453: [{id: 91505, count: 1}], // Superior Sigil of Mad Scientists
+  91455: [{id: 91505, count: 1}], // Superior Sigil of Ghost Slaying
+  91456: [{id: 91505, count: 1}], // Superior Sigil of Serpent Slaying
+  91461: [{id: 91505, count: 1}], // Superior Sigil of Frenzy
+  91463: [{id: 91505, count: 1}], // Superior Sigil of Incapacitation
+  91470: [{id: 91505, count: 1}], // Superior Sigil of Stamina
+  91473: [{id: 91505, count: 1}], // Superior Sigil of Concentration
+  91474: [{id: 91505, count: 1}], // Superior Sigil of Nullification
+  91476: [{id: 91505, count: 1}], // Superior Sigil of Bloodlust
+  91478: [{id: 91505, count: 1}], // Superior Sigil of Malice
+  91480: [{id: 91505, count: 1}], // Superior Sigil of Doom
+  91486: [{id: 91505, count: 1}], // Superior Sigil of Rending
+  91488: [{id: 91505, count: 1}], // Superior Sigil of Smoldering
+  91490: [{id: 91505, count: 1}], // Superior Sigil of Icebrood Slaying
+  91492: [{id: 91505, count: 1}], // Superior Sigil of Bounty
+  91496: [{id: 91505, count: 1}], // Superior Sigil of Corruption
+  91499: [{id: 91505, count: 1}], // Superior Sigil of Severance
+  91500: [{id: 91505, count: 1}], // Superior Sigil of Peril
+  91502: [{id: 91505, count: 1}], // Superior Sigil of Life
+  91506: [{id: 91505, count: 1}], // Superior Sigil of Ogre Slaying
+  91509: [{id: 91505, count: 1}], // Superior Sigil of Purity
+  91511: [{id: 91505, count: 1}], // Superior Sigil of Hobbling
+  91519: [{id: 91505, count: 1}], // Superior Sigil of Centaur Slaying
+  91520: [{id: 91505, count: 1}], // Superior Sigil of Air
+  91521: [{id: 91505, count: 1}], // Superior Sigil of Momentum
+  91524: [{id: 91505, count: 1}], // Superior Sigil of Undead Slaying
+  91526: [{id: 91505, count: 1}], // Superior Sigil of Sorrow
+  91527: [{id: 91505, count: 1}], // Superior Sigil of Wrath
+  91531: [{id: 91505, count: 1}], // Superior Sigil of Earth
+  91532: [{id: 91505, count: 1}], // Superior Sigil of Venom
+  91534: [{id: 91505, count: 1}], // Superior Sigil of Agony
+  91535: [{id: 91505, count: 1}], // Superior Sigil of Ice
+  91537: [{id: 91505, count: 1}], // Superior Sigil of Elemental Slaying
+  91539: [{id: 91505, count: 1}], // Superior Sigil of Destroyer Slaying
+  91542: [{id: 91505, count: 1}], // Superior Sigil of Blight
+  91543: [{id: 91505, count: 1}], // Superior Sigil of Mischief
+  91544: [{id: 91505, count: 1}], // Superior Sigil of Draining
+  91546: [{id: 91505, count: 1}], // Superior Sigil of Celerity
+  91548: [{id: 91505, count: 1}], // Superior Sigil of Cleansing
+  91552: [{id: 91505, count: 1}], // Superior Sigil of Geomancy
+  91558: [{id: 91505, count: 1}], // Superior Sigil of Generosity
+  91559: [{id: 91505, count: 1}], // Superior Sigil of Fire
+  91561: [{id: 91505, count: 1}], // Superior Sigil of Strength
+  91575: [{id: 91505, count: 1}], // Superior Sigil of Debility
+  91577: [{id: 91505, count: 1}], // Superior Sigil of Leeching
+  91584: [{id: 91505, count: 1}], // Superior Sigil of Chilling
+  91589: [{id: 91505, count: 1}], // Superior Sigil of Absorption
+  91594: [{id: 91505, count: 1}], // Superior Sigil of Water
+  91600: [{id: 91505, count: 1}], // Superior Sigil of Justice
+  91603: [{id: 91505, count: 1}], // Superior Sigil of Cruelty
+  91604: [{id: 91505, count: 1}], // Superior Sigil of Blood
+  91607: [{id: 91505, count: 1}], // Superior Sigil of Accuracy
+  91609: [{id: 91505, count: 1}] // Superior Sigil of Smothering
 }
