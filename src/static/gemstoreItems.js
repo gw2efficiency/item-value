@@ -1139,6 +1139,23 @@ export default {
   94088: {gems: 500, flags: []}, // Celestial Ministry Cape
   93876: {gems: 500, flags: []}, // Ice Reaver Cape
   94102: {gems: 600, flags: []}, // Tiger Insignia Axe Skin
-  94211: {gems: 166, flags: []} // Conjured Starlight Hat Skin(Unlocks all weights)
-
+  94211: {gems: 166, flags: []}, // Conjured Starlight Hat Skin(Unlocks all weights)
+  94061: {gems: 125, flags: []}, // Dark Matter Cape (Random BLC Drop)
+  93984: {gems: 63, flags: []}, // Ebon Vanguard Elite Outfit and Shoulders Package (Container)
+  93975: {gems: 63, flags: []}, // Ebon Vanguard Elite Shoulders Skin (Inside a container)
+  94889: {gems: 125, flags: []}, // Mystic Smoking Pipe Warhorn Skin (Random BLC Drop)
+  94702: {gems: 125, flags: []}, // Seven Reapers Pauldrons Skin (Random BLC Drop)
+  94380: {gems: 125, flags: []}, // Shimmering Aurora Cape and Glider Combo (Container)
+  94384: {gems: 63, flags: []}, // Shimmering Aurora Cape Skin (Inside a container)
+  94427: {gems: 63, flags: []}, // Shimmering Aurora Glider (Inside a container)
+  94458: {gems: 125, flags: []}, // Tempest Gaze Helm Skin (Random BLC Drop)
+  93947: {gems: 125, flags: []}, // Thunderhorse Staff Skin (Random BLC Drop)
+  94202: {gems: 125, flags: []}, // Vermilion Blaze Greatsword Skin (Random BLC Drop)
+  94121: {gems: 125, flags: []}, // Vermilion Throne (Random BLC Drop)
+  93925: {gems: 125, flags: []}, // Vermilion Wings Backpack and Glider Combo (Container)
+  93926: {gems: 63, flags: []}, // Vermilion Wings Backpack (Inside a container)
+  93865: {gems: 63, flags: []}, // Vermilion Wings Glider (Inside a container)
+  94639: {gems: 125, flags: []}, // Wandering Cloud Chair and Glider Combo (Container)
+  94686: {gems: 63, flags: []}, // Wandering Cloud Glider (Inside a container)
+  94630: {gems: 63, flags: []} // Wandering Cloud Chair (Inside a container)
 }
