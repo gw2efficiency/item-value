@@ -1157,5 +1157,8 @@ export default {
   93865: {gems: 63, flags: []}, // Vermilion Wings Glider (Inside a container)
   94639: {gems: 125, flags: []}, // Wandering Cloud Chair and Glider Combo (Container)
   94686: {gems: 63, flags: []}, // Wandering Cloud Glider (Inside a container)
-  94630: {gems: 63, flags: []} // Wandering Cloud Chair (Inside a container)
+  94630: {gems: 63, flags: []}, // Wandering Cloud Chair (Inside a container)
+  94366: {gems: 900, flags: []}, // Spirit of Raven Harvesting Tool
+  94363: {gems: 900, flags: []}, // Spirit of Wolf Logging Tool
+  94373: {gems: 900, flags: []} // Spirit of Bear Mining Tool
 }
