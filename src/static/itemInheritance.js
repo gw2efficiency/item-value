@@ -173,6 +173,24 @@ export default {
   49503: [{id: 19721, count: 500}], // Massive Glob of Ectoplasm (ascended)
 
   // Black Lion Exclusives Chest
+  94061: [{id: 82450, count: 1}], // Dark Matter Cape
+  93984: [{id: 82450, count: 1}], // Ebon Vanguard Elite Outfit and Shoulders Package
+  94889: [{id: 82450, count: 1}], // Mystic Smoking Pipe Warhorn Skin
+  94702: [{id: 82450, count: 0.33}], // Seven Reapers Pauldrons Skin
+  94380: [{id: 82450, count: 1}], // Shimmering Aurora Cape and Glider Combo
+  94384: [{id: 82450, count: 0.5}], // Shimmering Aurora Cape Skin
+  94427: [{id: 82450, count: 0.5}], // Shimmering Aurora Glider
+  94458: [{id: 82450, count: 0.33}], // Tempest Gaze Helm Skin
+  93947: [{id: 82450, count: 1}], // Thunderhorse Staff Skin
+  94202: [{id: 82450, count: 1}], // Vermilion Blaze Greatsword Skin
+  94121: [{id: 82450, count: 1}], // Vermilion Throne
+  93925: [{id: 82450, count: 1}], // Vermilion Wings Backpack and Glider Combo
+  93926: [{id: 82450, count: 0.5}], // Vermilion Wings Backpack
+  93865: [{id: 82450, count: 0.5}], // Vermilion Wings Glider
+  94639: [{id: 82450, count: 1}], // Wandering Cloud Chair and Glider Combo
+  94686: [{id: 82450, count: 0.5}], // Wandering Cloud Glider
+  94630: [{id: 82450, count: 0.5}], // Wandering Cloud Chair
+  93692: [{id: 82450, count: 1}], // Wyrm's Breath Cape
   79660: [{id: 82450, count: 1}], // Grasping Phantom Glider
   80072: [{id: 82450, count: 1}], // Mini Celestial Rooster
   80018: [{id: 82450, count: 1}], // Infinirarium Glider
@@ -198,6 +216,8 @@ export default {
   81724: [{id: 82450, count: 1}], // Feathers of the Zephyr Package
   81738: [{id: 82450, count: 1}], // Feathers of the Zephyr Package
   87659: [{id: 82450, count: 1}], // Jeweled Scarab Package
+  87952: [{id: 82450, count: 0.33}], // Jeweled Scarab Backpiece
+  87750: [{id: 82450, count: 0.33}], // Jeweled Scarab Glider
   85593: [{id: 82450, count: 1}], // Wild Magic Backpack Glider Combo
   87136: [{id: 82450, count: 1}], // Wild Magic Backpack Glider Combo
   87830: [{id: 82450, count: 1}], // Mini Awakened Mounts Pack
