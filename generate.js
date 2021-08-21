@@ -1,5 +1,3 @@
-const itemInheritance = require('./src/static/itemInheritance')
-
 const content = ``
 
 console.log('export default {')
@@ -10,8 +8,7 @@ rows.map((row, i) => {
   let gems = row[2].replace('.', '')
   let comma = i === rows.length - 1 ? '' : ','
 
-  if (!row[0]) return
-  if (Object.keys(itemInheritance).includes(row[0])) return
+  if (!row[0]) throw new Error('No id for row: ' + row)
 
   console.log(`  ${row[0]}: {gems: ${gems}, flags: [${flags}]}${comma} // ${row[1]}${row[4] ? ' (' + row[4] + ')' : ''}`)
 })

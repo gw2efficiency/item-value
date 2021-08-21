@@ -320,8 +320,8 @@ export default {
   43193: {gems: 133, flags: []}, // Magitech Legging Skin (Inside a container)
   43185: {gems: 133, flags: []}, // Magitech Boot Skin (Inside a container)
   50103: {gems: 400, flags: []}, // Magnus's Eye Patch (Container)
-  50096: {gems: 67, flags: []}, // Magnus's Right Eye Patch Skin (Inside a container, unlocks all weights)
-  50092: {gems: 67, flags: []}, // Magnus's Left Eye Patch Skin (Inside a container, unlocks all weights)
+  50096: {gems: 67, flags: []}, // Magnus's Right Eye Patch Skin (Inside a container / Unlocks all weights)
+  50092: {gems: 67, flags: []}, // Magnus's Left Eye Patch Skin (Inside a container / Unlocks all weights)
   49015: {gems: 600, flags: []}, // Marjory's Axe Skin
   49018: {gems: 600, flags: []}, // Marjory's Dagger Skin
   42888: {gems: 800, flags: []}, // Marriner's Horn
@@ -733,55 +733,55 @@ export default {
   80906: {gems: 700, flags: []}, // Spring Promenade Outfit
   80878: {gems: 500, flags: []}, // Mini Super Storm Wizard (Combined in Mystic Forge)
   80974: {gems: 125, flags: []}, // Primordus Dye Kit
-  79702: {gems: 400, flags: []}, // Plush Baby Aurene Backpack (Inside Container)
+  79702: {gems: 400, flags: []}, // Plush Baby Aurene Backpack (Inside a container)
   79705: {gems: 700, flags: []}, // Marjory's Shrouded Outfit
   80966: {gems: 1000, flags: []}, // Super Adventure Logging Bear
   79612: {gems: 150, flags: []}, // Lava Lounge Pass (2 weeks)
   79695: {gems: 125, flags: []}, // Vibrant Dye Kit
   80939: {gems: 600, flags: []}, // Miniature Super Trio—Series 3 (Container)
-  80884: {gems: 200, flags: []}, // Mini Super Snake (Inside Container)
-  80903: {gems: 200, flags: []}, // Mini Super Frog (Inside Container)
-  80883: {gems: 200, flags: []}, // Mini Super Goat (Inside Container)
+  80884: {gems: 200, flags: []}, // Mini Super Snake (Inside a container)
+  80903: {gems: 200, flags: []}, // Mini Super Frog (Inside a container)
+  80883: {gems: 200, flags: []}, // Mini Super Goat (Inside a container)
   80915: {gems: 600, flags: []}, // Mini Super Queen Bee Dog (Combined in Mystic Forge)
   80919: {gems: 500, flags: []}, // Super Cloud Glider
-  80958: {gems: 350, flags: []}, // Super Adventure Holo-Copter (Inside Container)
-  80887: {gems: 350, flags: []}, // Super Adventure Holo-Copter Backpack (Inside Container)
+  80958: {gems: 350, flags: []}, // Super Adventure Holo-Copter (Inside a container)
+  80887: {gems: 350, flags: []}, // Super Adventure Holo-Copter Backpack (Inside a container)
   80981: {gems: 600, flags: []}, // Hourglass Staff
   80973: {gems: 700, flags: []}, // Kasmeer's Regal Outfit
-  80984: {gems: 350, flags: []}, // Vine-Touched Destroyer Wings (Inside Container)
-  80985: {gems: 350, flags: []}, // Vine-Touched Destroyer Glider (Inside Container)
+  80984: {gems: 350, flags: []}, // Vine-Touched Destroyer Wings (Inside a container)
+  80985: {gems: 350, flags: []}, // Vine-Touched Destroyer Glider (Inside a container)
   81001: {gems: 600, flags: []}, // Replica Mirror of Lyssa
   81263: {gems: 400, flags: []}, // Mercenary Backpack
   81242: {gems: 400, flags: []}, // Mini Outlaw Puppy
   81240: {gems: 600, flags: []}, // Menzies's Agony
-  80979: {gems: 900, flags: []}, // Unbound Magic Logging Pulse (Inside Container)
-  80977: {gems: 900, flags: []}, // Unbound Magic Mining Beam (Inside Container)
-  80987: {gems: 900, flags: []}, // Unbound Magic Harvesting Blast (Inside Container)
-  87396: {gems: 900, flags: []}, // Unbound Magic Harvesting Blast (Inside Container)
-  87420: {gems: 900, flags: []}, // Unbound Magic Logging Pulse (Inside Container)
-  87443: {gems: 900, flags: []}, // Unbound Magic Mining Beam (Inside Container)
+  80979: {gems: 900, flags: []}, // Unbound Magic Logging Pulse (Inside a container)
+  80977: {gems: 900, flags: []}, // Unbound Magic Mining Beam (Inside a container)
+  80987: {gems: 900, flags: []}, // Unbound Magic Harvesting Blast (Inside a container)
+  87396: {gems: 900, flags: []}, // Unbound Magic Harvesting Blast (Inside a container)
+  87420: {gems: 900, flags: []}, // Unbound Magic Logging Pulse (Inside a container)
+  87443: {gems: 900, flags: []}, // Unbound Magic Mining Beam (Inside a container)
   81223: {gems: 700, flags: []}, // Outlaw Outfit
   81291: {gems: 400, flags: []}, // Magic Carpet Glider
   81545: {gems: 125, flags: []}, // Jormag Dye Kit
   81293: {gems: 167, flags: []}, // Foefire Wraps (Unlocks all weights)
   81412: {gems: 167, flags: []}, // Foefire Mantle (Unlocks all weights)
-  81567: {gems: 350, flags: []}, // God-Slayer Longbow (Inside Container)
-  81560: {gems: 350, flags: []}, // God-Slayer Short Bow (Inside Container)
+  81567: {gems: 350, flags: []}, // God-Slayer Longbow (Inside a container)
+  81560: {gems: 350, flags: []}, // God-Slayer Short Bow (Inside a container)
   81594: {gems: 1200, flags: []}, // Black Lion Hunters Contract
-  81547: {gems: 350, flags: []}, // Dynamics Glider Module (Inside Container)
-  81557: {gems: 350, flags: []}, // Dynamics Projector Module (Inside Container)
+  81547: {gems: 350, flags: []}, // Dynamics Glider Module (Inside a container)
+  81557: {gems: 350, flags: []}, // Dynamics Projector Module (Inside a container)
   81548: {gems: 700, flags: []}, // Dynamics Exo-Suit Outfit
   81583: {gems: 134, flags: []}, // Fuzzy Aurene Hat (Unlocks all weights)
   81565: {gems: 400, flags: []}, // Mini Plush Aurene
   81664: {gems: 1000, flags: []}, // Mistlock Sanctuary Passkey
   81832: {gems: 150, flags: []}, // Mistlock Sanctuary Passkey (2 Weeks)
   81901: {gems: 125, flags: []}, // Mini Dwayna's Messenger (Random BLC Drop)
-  81888: {gems: 63, flags: []}, // Feathers of the Zephyr (Random BLC Drop / Inside Container)
-  81854: {gems: 63, flags: []}, // Golden Zephyr Backpiece (Random BLC Drop / Inside Container)
+  81888: {gems: 63, flags: []}, // Feathers of the Zephyr (Inside a container / Random BLC Drop)
+  81854: {gems: 63, flags: []}, // Golden Zephyr Backpiece (Inside a container / Random BLC Drop)
   82011: {gems: 400, flags: []}, // Abaddon's Glider
   82152: {gems: 2000, flags: []}, // Black Lion Instant Level 80 Ticket
-  84064: {gems: 500, flags: []}, // Fiery Blade Axe (Inside Container)
-  84112: {gems: 500, flags: []}, // Icy Blade Axe (Inside Container)
+  84064: {gems: 500, flags: []}, // Fiery Blade Axe (Inside a container)
+  84112: {gems: 500, flags: []}, // Icy Blade Axe (Inside a container)
   81776: {gems: 167, flags: []}, // Abaddon's Mask (Unlocks all weights)
   83865: {gems: 700, flags: []}, // Champion of Tyria Outfit
   84782: {gems: 400, flags: []}, // Mini Squire Aurene
@@ -811,7 +811,7 @@ export default {
   85401: {gems: 25, flags: []}, // Mini Spooky Jackal (Random BLC Drop)
   85461: {gems: 25, flags: []}, // Mini Spooky Griffon (Random BLC Drop)
   85507: {gems: 32, flags: []}, // Fallen Balthazar Outfit (Random BLC Drop)
-  85396: {gems: 32, flags: []}, // Fallen Balthazar Helm (Unlocks all weights/ Random BLC Drop)
+  85396: {gems: 32, flags: []}, // Fallen Balthazar Helm (Random BLC Drop / Unlocks all weights)
   85326: {gems: 125, flags: []}, // Jackal Pup Backpack (Random BLC Drop)
   85256: {gems: 125, flags: []}, // Hydra Staff (Random BLC Drop)
   85506: {gems: 400, flags: []}, // Mini Elonian Familiar
@@ -887,8 +887,8 @@ export default {
   87570: {gems: 400, flags: []}, // Awakened Springer Skin (Inside a container)
   87572: {gems: 400, flags: []}, // Awakened Jackal Skin (Inside a container)
   87566: {gems: 400, flags: []}, // Awakened Griffon Skin (Inside a container)
-  87952: {gems: 63, flags: []}, // Jeweled Scarab Backpiece (Random BLC Drop / Inside Container)
-  87750: {gems: 63, flags: []}, // Jeweled Scarab Glider (Random BLC Drop / Inside Container)
+  87952: {gems: 63, flags: []}, // Jeweled Scarab Backpiece (Inside a container / Random BLC Drop)
+  87750: {gems: 63, flags: []}, // Jeweled Scarab Glider (Inside a container / Random BLC Drop)
   87701: {gems: 900, flags: []}, // Volatile Magic Harvesting Tool (Inside a container)
   87954: {gems: 900, flags: []}, // Volatile Magic Logging Tool (Inside a container)
   87841: {gems: 900, flags: []}, // Volatile Magic Mining Tool (Inside a container)
@@ -953,8 +953,8 @@ export default {
   90020: {gems: 500, flags: []}, // Flying Boar Glider
   89084: {gems: 1000, flags: []}, // Earthshaker Mining Tool
   90025: {gems: 1000, flags: []}, // Armistice Bastion Pass
-  90044: {gems: 63, flags: []}, // Etherbound Backpiece (Random BLC Drop / Inside Container)
-  90062: {gems: 63, flags: []}, // Etherbound Glider (Random BLC Drop / Inside Container)
+  90044: {gems: 63, flags: []}, // Etherbound Backpiece (Inside a container / Random BLC Drop)
+  90062: {gems: 63, flags: []}, // Etherbound Glider (Inside a container / Random BLC Drop)
   90029: {gems: 400, flags: []}, // Assault Warclaw Skin (Inside a container)
   90063: {gems: 400, flags: []}, // Branded Warclaw Skin (Inside a container)
   90076: {gems: 400, flags: []}, // Embermane Warclaw Skin (Inside a container)
@@ -976,8 +976,8 @@ export default {
   90127: {gems: 600, flags: []}, // Ritualist Staff Skin
   90113: {gems: 700, flags: []}, // Ritualist Outfit
   87360: {gems: 1200, flags: []}, // Istani Isles Mount Select License
-  90460: {gems: 63, flags: []}, // Branded Relic Backpiece (Random BLC Drop / Inside Container)
-  90598: {gems: 63, flags: []}, // Branded Relic Glider (Random BLC Drop / Inside Container)
+  90460: {gems: 63, flags: []}, // Branded Relic Backpiece (Inside a container / Random BLC Drop)
+  90598: {gems: 63, flags: []}, // Branded Relic Glider (Inside a container / Random BLC Drop)
   90163: {gems: 1200, flags: []}, // Exotic Breeds Mount Select License
   89336: {gems: 1200, flags: []}, // Distant Lands Mount Select License
   88154: {gems: 1200, flags: []}, // Desert Racer Mount Select License
@@ -993,8 +993,8 @@ export default {
   91176: {gems: 567, flags: []}, // Mist Stranger Shield Skin
   91153: {gems: 567, flags: []}, // Mist Stranger Axe Skin
   91207: {gems: 567, flags: []}, // Mist Stranger Outfit
-  91278: {gems: 63, flags: []}, // Dragon Fireworks Glider (Random BLC Drop / Inside Container)
-  91286: {gems: 63, flags: []}, // Dragon Fireworks Backpiece (Random BLC Drop / Inside Container)
+  91278: {gems: 63, flags: []}, // Dragon Fireworks Glider (Inside a container / Random BLC Drop)
+  91286: {gems: 63, flags: []}, // Dragon Fireworks Backpiece (Inside a container / Random BLC Drop)
   91342: {gems: 400, flags: []}, // Bioluminescent Skyscale Skin (Inside a container)
   91354: {gems: 400, flags: []}, // Axejaw Skyscale Skin (Inside a container)
   91363: {gems: 400, flags: []}, // Caldera Skyscale Skin (Inside a container)
@@ -1014,8 +1014,8 @@ export default {
   91616: {gems: 350, flags: []}, // Lightbinder Blades Wings (Inside a container)
   91648: {gems: 350, flags: []}, // Lightbinder Blades Glider (Inside a container)
   91670: {gems: 200, flags: []}, // Knife Tail Gang Hunting Bond
-  91815: {gems: 63, flags: []}, // Watchwork Wings Glider (Random BLC Drop / Inside Container)
-  91830: {gems: 63, flags: []}, // Watchwork Wings Backpack (Random BLC Drop / Inside Container)
+  91815: {gems: 63, flags: []}, // Watchwork Wings Glider (Inside a container / Random BLC Drop)
+  91830: {gems: 63, flags: []}, // Watchwork Wings Backpack (Inside a container / Random BLC Drop)
   91740: {gems: 1200, flags: []}, // New Horizons Mount Select License
   91795: {gems: 400, flags: []}, // New Horizons Mount Adoption License
   91788: {gems: 500, flags: []}, // Cube Matrix Glider
@@ -1056,8 +1056,8 @@ export default {
   92472: {gems: 600, flags: []}, // Dreamwalker Dagger Skin
   92427: {gems: 1000, flags: []}, // Black Lion Industry Contract
   92401: {gems: 125, flags: []}, // Celestial Axe Skin (Random BLC Drop)
-  92599: {gems: 62, flags: []}, // Starlight Wings Backpack (Random BLC Drop / Inside a container)
-  92564: {gems: 62, flags: []}, // Starlight Wings Glider (Random BLC Drop / Inside a container)
+  92599: {gems: 62, flags: []}, // Starlight Wings Backpack (Inside a container / Random BLC Drop)
+  92564: {gems: 62, flags: []}, // Starlight Wings Glider (Inside a container / Random BLC Drop)
   92558: {gems: 400, flags: []}, // Snowflake Gobbler Pack (Container)
   92585: {gems: 400, flags: []}, // Snowflake Gobbler (Inside a container)
   92542: {gems: 500, flags: []}, // Winter Monarch Cape (Inside a container)
@@ -1096,8 +1096,8 @@ export default {
   93335: {gems: 1200, flags: []}, // Curious Creatures Mount Select License
   93333: {gems: 400, flags: []}, // Curious Creatures Mount Adoption License
   93386: {gems: 500, flags: []}, // Spellweaver Glider
-  93048: {gems: 62, flags: []}, // Dreamwalker Wings Backpack (Random BLC Drop / Inside a container)
-  92964: {gems: 62, flags: []}, // Dreamwalker Wings Glider (Random BLC Drop / Inside a container)
+  93048: {gems: 62, flags: []}, // Dreamwalker Wings Backpack (Inside a container / Random BLC Drop)
+  92964: {gems: 62, flags: []}, // Dreamwalker Wings Glider (Inside a container / Random BLC Drop)
   92959: {gems: 125, flags: []}, // Kasmeer's Regalia Cape (Random BLC Drop)
   93328: {gems: 125, flags: []}, // Vermilion Tail Feather Skin (Random BLC Drop)
   93391: {gems: 125, flags: []}, // Seven Reapers Grasps Skin (Random BLC Drop)
