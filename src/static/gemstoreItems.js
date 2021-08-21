@@ -1160,5 +1160,36 @@ export default {
   94630: {gems: 63, flags: []}, // Wandering Cloud Chair (Inside a container)
   94366: {gems: 900, flags: []}, // Spirit of Raven Harvesting Tool
   94363: {gems: 900, flags: []}, // Spirit of Wolf Logging Tool
-  94373: {gems: 900, flags: []} // Spirit of Bear Mining Tool
+  94373: {gems: 900, flags: []}, // Spirit of Bear Mining Tool
+  95064: {gems: 125, flags: []}, // Arcane Battlestaff Skin (Random BLC Drop)
+  95106: {gems: 125, flags: []}, // Archdemon Wings Backpack and Glider Combo (Container)
+  95083: {gems: 63, flags: []}, // Archdemon Wings Backpack Skin (Inside a container)
+  95091: {gems: 63, flags: []}, // Archdemon Wings Glider (Inside a container)
+  94950: {gems: 125, flags: []}, // Seraph Wings Backpack and Glider Combo (Container)
+  94942: {gems: 63, flags: []}, // Seraph Wings Backpack (Inside a container)
+  94940: {gems: 63, flags: []}, // Seraph Wings Glider (Inside a container)
+  95029: {gems: 125, flags: []}, // Starborn Cape (Random BLC Drop)
+  94061: {gems: 125, flags: []}, // Dark Matter Cape (Random BLC Drop)
+  93984: {gems: 125, flags: []}, // Ebon Vanguard Elite Outfit and Shoulders Package (Random BLC Drop)
+  94889: {gems: 125, flags: []}, // Mystic Smoking Pipe Warhorn Skin (Random BLC Drop)
+  94702: {gems: 42, flags: []}, // Seven Reapers Pauldrons Skin (Random BLC Drop)
+  94380: {gems: 125, flags: []}, // Shimmering Aurora Cape and Glider Combo (Container)
+  94384: {gems: 63, flags: []}, // Shimmering Aurora Cape Skin (Inside a container)
+  94427: {gems: 63, flags: []}, // Shimmering Aurora Glider (Inside a container)
+  94458: {gems: 42, flags: []}, // Tempest Gaze Helm Skin (Random BLC Drop)
+  93947: {gems: 125, flags: []}, // Thunderhorse Staff Skin (Random BLC Drop)
+  94202: {gems: 125, flags: []}, // Vermilion Blaze Greatsword Skin (Random BLC Drop)
+  94121: {gems: 125, flags: []}, // Vermilion Throne (Random BLC Drop)
+  93925: {gems: 125, flags: []}, // Vermilion Wings Backpack and Glider Combo (Container)
+  93926: {gems: 63, flags: []}, // Vermilion Wings Backpack (Inside a container)
+  93865: {gems: 63, flags: []}, // Vermilion Wings Glider (Inside a container)
+  94639: {gems: 125, flags: []}, // Wandering Cloud Chair and Glider Combo (Container)
+  94686: {gems: 63, flags: []}, // Wandering Cloud Glider (Inside a container)
+  94630: {gems: 63, flags: []}, // Wandering Cloud Chair (Inside a container)
+  93692: {gems: 125, flags: []}, // Wyrm's Breath Cape (Random BLC Drop)
+  87659: {gems: 125, flags: []}, // Jeweled Scarab Package (Container)
+  87952: {gems: 63, flags: []}, // Jeweled Scarab Backpiece (Inside a container)
+  87750: {gems: 63, flags: []}, // Jeweled Scarab Glider (Inside a container)
+  94155: {gems: 600, flags: []}, // Dark Wing Throne
+  93932: {gems: 400, flags: []} // Mystic Lotus Chair
 }
