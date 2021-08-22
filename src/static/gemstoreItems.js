@@ -1171,5 +1171,9 @@ export default {
   87952: {gems: 63, flags: []}, // Jeweled Scarab Backpiece (Inside a container)
   87750: {gems: 63, flags: []}, // Jeweled Scarab Glider (Inside a container)
   94155: {gems: 600, flags: []}, // Dark Wing Throne
-  93932: {gems: 400, flags: []} // Mystic Lotus Chair
+  93932: {gems: 400, flags: []}, // Mystic Lotus Chair
+  88305: {gems: 630, flags: []}, // Black Lion Outfit Voucher
+  88260: {gems: 540, flags: []}, // Black Lion Weapons Voucher
+  88308: {gems: 360, flags: []}, // Black Lion Glider Voucher
+  88339: {gems: 630, flags: []} // Black Lion Backpack and Glider Voucher
 }
