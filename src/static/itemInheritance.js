@@ -216,17 +216,12 @@ export default {
   81724: [{id: 82450, count: 1}], // Feathers of the Zephyr Package
   81738: [{id: 82450, count: 1}], // Feathers of the Zephyr Package
   87659: [{id: 82450, count: 1}], // Jeweled Scarab Package
-  87952: [{id: 82450, count: 0.33}], // Jeweled Scarab Backpiece
-  87750: [{id: 82450, count: 0.33}], // Jeweled Scarab Glider
+  87952: [{id: 82450, count: 0.5}], // Jeweled Scarab Backpiece
+  87750: [{id: 82450, count: 0.5}], // Jeweled Scarab Glider
   85593: [{id: 82450, count: 1}], // Wild Magic Backpack Glider Combo
   87136: [{id: 82450, count: 1}], // Wild Magic Backpack Glider Combo
-  87830: [{id: 82450, count: 1}], // Mini Awakened Mounts Pack
-  87202: [{id: 82450, count: 1}], // Mini Branded Mounts Pack
-  86595: [{id: 82450, count: 1}], // Mini Cozy Wintersday Mounts Pack
   81901: [{id: 82450, count: 1}], // Mini Dwayna's Messenger
-  85437: [{id: 82450, count: 1}], // Mini Spooky Mounts Pack
   88171: [{id: 82450, count: 1}], // Storm Dagger Skin
-  88426: [{id: 82450, count: 1}], // Mini Exo-Suit Mounts Pack
   88364: [{id: 82450, count: 1}], // Springer Kit Backpack
   89066: [{id: 82450, count: 1}], // Envoy Scythe Staff Skin
   89256: [{id: 82450, count: 1}], // Desert King Throne
@@ -255,6 +250,54 @@ export default {
   92959: [{id: 82450, count: 1}], // Kasmeer's Regalia Cape
   92689: [{id: 82450, count: 1}], // Whale Spirit Glider
   91469: [{id: 82450, count: 1}], // Starborn Outfit
+  95029: [{id: 82450, count: 1}], // Starborn Cape
+  95064: [{id: 82450, count: 1}], // Arcane Battlestaff Skin
+  95083: [{id: 82450, count: 0.5}], // Archdemon Wings Backpack Skin
+  95091: [{id: 82450, count: 0.5}], // Archdemon Wings Glider
+  90460: [{id: 82450, count: 0.5}], // Branded Relic Backpiece
+  90598: [{id: 82450, count: 0.5}], // Branded Relic Glider
+  90044: [{id: 82450, count: 0.5}], // Etherbound Backpiece
+  90062: [{id: 82450, count: 0.5}], // Etherbound Glider
+  86928: [{id: 82450, count: 0.5}], // Fire-Breathing Longbow
+  86961: [{id: 82450, count: 0.5}], // Fire-Breathing Quiver
+  81854: [{id: 82450, count: 0.5}], // Golden Zephyr Backpiece
+  81888: [{id: 82450, count: 0.5}], // Feathers of the Zephyr
+  87005: [{id: 82450, count: 0.5}], // Feathers of the Zephyr
+  94942: [{id: 82450, count: 0.5}], // Seraph Wings Backpack
+  94940: [{id: 82450, count: 0.5}], // Seraph Wings Glider
+  85550: [{id: 82450, count: 0.5}], // Wild Magic Backpack
+  85595: [{id: 82450, count: 0.5}], // Wild Magic Glider
+  80328: [{id: 82450, count: 1}], // Noran's Safe Room Pass
+  87830: [{id: 82450, count: 1}], // Mini Awakened Mounts Pack
+  87778: [{id: 82450, count: 0.2}], // Mini Awakened Raptor
+  87753: [{id: 82450, count: 0.2}], // Mini Awakened Skimmer
+  87760: [{id: 82450, count: 0.2}], // Mini Awakened Springer
+  87626: [{id: 82450, count: 0.2}], // Mini Awakened Jackal
+  87934: [{id: 82450, count: 0.2}], // Mini Awakened Griffon
+  87202: [{id: 82450, count: 1}], // Mini Branded Mounts Pack
+  87236: [{id: 82450, count: 0.2}], // Mini Branded Raptor
+  87203: [{id: 82450, count: 0.2}], // Mini Branded Skimmer
+  87156: [{id: 82450, count: 0.2}], // Mini Branded Springer
+  87141: [{id: 82450, count: 0.2}], // Mini Branded Jackal
+  87133: [{id: 82450, count: 0.2}], // Mini Branded Griffon
+  86595: [{id: 82450, count: 1}], // Mini Cozy Wintersday Mounts Pack
+  86693: [{id: 82450, count: 0.2}], // Mini Cozy Wintersday Raptor
+  86609: [{id: 82450, count: 0.2}], // Mini Cozy Wintersday Skimmer
+  86644: [{id: 82450, count: 0.2}], // Mini Cozy Wintersday Springer
+  86692: [{id: 82450, count: 0.2}], // Mini Cozy Wintersday Jackal
+  86581: [{id: 82450, count: 0.2}], // Mini Cozy Wintersday Griffon
+  88426: [{id: 82450, count: 1}], // Mini Exo-Suit Mounts Pack
+  88402: [{id: 82450, count: 0.2}], // Mini Exo-Suit Raptor
+  88437: [{id: 82450, count: 0.2}], // Mini Exo-Suit Skimmer
+  88464: [{id: 82450, count: 0.2}], // Mini Exo-Suit Springer
+  88469: [{id: 82450, count: 0.2}], // Mini Exo-Suit Jackal
+  88389: [{id: 82450, count: 0.2}], // Mini Exo-Suit Griffon
+  85437: [{id: 82450, count: 1}], // Mini Spooky Mounts Pack
+  85435: [{id: 82450, count: 0.2}], // Mini Spooky Raptor
+  85467: [{id: 82450, count: 0.2}], // Mini Spooky Skimmer
+  85458: [{id: 82450, count: 0.2}], // Mini Spooky Springer
+  85401: [{id: 82450, count: 0.2}], // Mini Spooky Jackal
+  85461: [{id: 82450, count: 0.2}], // Mini Spooky Griffon
 
   // Kaiser Snake Weapons
   78029: [{id: 78105, count: 1}], // Kaiser Snake Axe
