@@ -990,7 +990,7 @@ export default {
   90288: {gems: 1000, flags: []}, // Skyscale Hatchling Harvesting Tool
   91176: {gems: 567, flags: []}, // Mist Stranger Shield Skin
   91153: {gems: 567, flags: []}, // Mist Stranger Axe Skin
-  91207: {gems: 567, flags: []}, // Mist Stranger Outfit
+  91207: {gems: 700, flags: []}, // Mist Stranger Outfit
   91278: {gems: 63, flags: []}, // Dragon Fireworks Glider (Inside a container / Random BLC Drop)
   91286: {gems: 63, flags: []}, // Dragon Fireworks Backpiece (Inside a container / Random BLC Drop)
   91342: {gems: 400, flags: []}, // Bioluminescent Skyscale Skin (Inside a container)
@@ -1077,16 +1077,16 @@ export default {
   92822: {gems: 1000, flags: []}, // Glacial Harvesting Tool
   92892: {gems: 1000, flags: []}, // Glacial Mining Tool
   92903: {gems: 2000, flags: []}, // War-Torn Marauder Warclaw Skin
-  92926: {gems: 500, flags: []}, // Maguuma's Mantle Skin
-  92873: {gems: 500, flags: []}, // Maguuma's Grasp Skin
+  92926: {gems: 167, flags: []}, // Maguuma's Mantle Skin (Unlocks all weights)
+  92873: {gems: 167, flags: []}, // Maguuma's Grasp Skin (Unlocks all weights)
   93251: {gems: 600, flags: []}, // Glacial Chair
   93122: {gems: 500, flags: []}, // Abyss Stalker Cape (Inside a container)
   93255: {gems: 700, flags: []}, // Abyss Stalker Outfit
   93287: {gems: 600, flags: []}, // Dreamwalker Scythe Staff Skin
   93286: {gems: 500, flags: []}, // Toxic Cape (Inside a container)
-  93290: {gems: 400, flags: []}, // Toxic Boots Skin
+  93290: {gems: 133, flags: []}, // Toxic Boots Skin (Unlocks all weights)
   93324: {gems: 1600, flags: []}, // Super Outlaw Raptor Skin
-  93313: {gems: 500, flags: []}, // Maguuma's Treads Skin
+  93313: {gems: 167, flags: []}, // Maguuma's Treads Skin (Unlocks all weights)
   93332: {gems: 700, flags: []}, // Eve's Prophecies Outfit
   93331: {gems: 350, flags: []}, // Draconic Wings Glider (Inside a container)
   93330: {gems: 350, flags: []}, // Draconic Wings Backpack (Inside a container)
@@ -1098,7 +1098,7 @@ export default {
   92964: {gems: 62, flags: []}, // Dreamwalker Wings Glider (Inside a container / Random BLC Drop)
   92959: {gems: 125, flags: []}, // Kasmeer's Regalia Cape (Random BLC Drop)
   93328: {gems: 125, flags: []}, // Vermilion Tail Feather Skin (Random BLC Drop)
-  93391: {gems: 125, flags: []}, // Seven Reapers Grasps Skin (Random BLC Drop)
+  93391: {gems: 42, flags: []}, // Seven Reapers Grasps Skin (Random BLC Drop / Unlocks all weights)
   43431: {gems: 200, flags: []}, // Mini First Mate Horrik (Inside a container)
   93401: {gems: 500, flags: []}, // Dragon's Watch Cape (Inside a container)
   93502: {gems: 700, flags: []}, // Dragon's Watch Regalia
@@ -1175,5 +1175,230 @@ export default {
   88305: {gems: 630, flags: []}, // Black Lion Outfit Voucher
   88260: {gems: 540, flags: []}, // Black Lion Weapons Voucher
   88308: {gems: 360, flags: []}, // Black Lion Glider Voucher
-  88339: {gems: 630, flags: []} // Black Lion Backpack and Glider Voucher
+  88339: {gems: 630, flags: []}, // Black Lion Backpack and Glider Voucher
+  95574: {gems: 1600, flags: []}, // White Tiger Jackal Skin
+  95509: {gems: 1600, flags: []}, // Plushy Raptor Skin
+  95493: {gems: 2000, flags: []}, // Synergetics Cyberscale Skyscale Skin
+  95487: {gems: 1600, flags: []}, // Synergetics Hoverbike Skimmer Skin
+  95364: {gems: 1600, flags: []}, // Hound of Balthazar Warclaw Skin
+  95275: {gems: 1200, flags: []}, // Deep Wilds Mount Select License (Container)
+  95268: {gems: 400, flags: []}, // Deep Wilds Mount Adoption License (Container)
+  95032: {gems: 1600, flags: []}, // Royal Anubis Jackal Skin
+  95024: {gems: 1600, flags: []}, // Mossback Skimmer Skin
+  94882: {gems: 1200, flags: []}, // Lost Era Mount Select License (Container)
+  94887: {gems: 400, flags: []}, // Lost Era Mount Adoption License (Container)
+  94703: {gems: 1600, flags: []}, // Lunar Maned Skyscale Skin
+  94699: {gems: 1600, flags: []}, // Noble Aurochs Jackal Skin
+  94453: {gems: 1600, flags: []}, // Woodland Sprite Springer Skin
+  94432: {gems: 1600, flags: []}, // Plush Griffon Skin
+  94196: {gems: 1600, flags: []}, // Roadrunner Raptor Skin
+  94150: {gems: 1600, flags: []}, // Sand Lion Warclaw Skin
+  93974: {gems: 1200, flags: []}, // Bizarre Beasts Mount Select License (Container)
+  93997: {gems: 400, flags: []}, // Bizarre Beasts Mount Adoption License (Container)
+  93981: {gems: 1600, flags: []}, // Shell Surfer Skimmer Skin
+  93916: {gems: 1600, flags: []}, // Wild Trihorn Raptor Skin
+  98041: {gems: 700, flags: []}, // Shiro's Legacy Outfit
+  98029: {gems: 500, flags: []}, // Shiro's Legacy Backpack Set (Container)
+  98030: {gems: 500, flags: []}, // Shiro's Legacy Greatsword Skin (Inside a container)
+  97999: {gems: 500, flags: []}, // Shiro's Legacy Sword Skin (Inside a container)
+  97923: {gems: 700, flags: []}, // Elegant Canthan Outfit
+  97912: {gems: 600, flags: []}, // Elegant Canthan Staff
+  96808: {gems: 700, flags: []}, // Canthan Spiritualist Outfit
+  96131: {gems: 350, flags: []}, // Canthan Spiritualist Glider (Inside a container)
+  96856: {gems: 350, flags: []}, // Canthan Spiritualist Backpack (Inside a container)
+  95523: {gems: 700, flags: []}, // White Tiger Outfit
+  95490: {gems: 700, flags: []}, // Wandering Weapon Master Outfit
+  95495: {gems: 500, flags: []}, // Wandering Weapon Master Cape (Inside a container)
+  95461: {gems: 700, flags: []}, // Venombite Outfit
+  95467: {gems: 700, flags: []}, // Venombite Wings Backpack and Glider Combo (Container)
+  95477: {gems: 350, flags: []}, // Venombite Wings Backpack (Inside a container)
+  95457: {gems: 350, flags: []}, // Venombite Wings Glider (Inside a container)
+  95211: {gems: 700, flags: []}, // Magical Outfit
+  95210: {gems: 700, flags: []}, // Cute Angel Wings Backpack and Glider Combo (Container)
+  95200: {gems: 350, flags: []}, // Cute Angel Wings Glider (Inside a container)
+  95229: {gems: 350, flags: []}, // Cute Angel Wings Backpack (Inside a container)
+  95031: {gems: 700, flags: []}, // Pharaoh's Regalia Outfit
+  94908: {gems: 700, flags: []}, // True Assassin's Guise Outfit
+  94912: {gems: 700, flags: []}, // Giant Shuriken Backpack and Glider Combo (Container)
+  94914: {gems: 350, flags: []}, // Giant Shuriken Backpack (Inside a container)
+  94898: {gems: 350, flags: []}, // Giant Shuriken Glider (Inside a container)
+  94714: {gems: 700, flags: []}, // Astral Scholar Outfit
+  94786: {gems: 500, flags: []}, // Astral Scholar Cape
+  94671: {gems: 700, flags: []}, // Infused Samurai Outfit
+  94674: {gems: 500, flags: []}, // Infused Wakizashi Dagger Skin (Inside a container)
+  94676: {gems: 500, flags: []}, // Infused Katana Sword Skin (Inside a container)
+  94362: {gems: 700, flags: []}, // Herald of Aurene Outfit
+  94371: {gems: 500, flags: []}, // Herald of Aurene Cape
+  94064: {gems: 700, flags: []}, // Queensdale Academy Outfit
+  94046: {gems: 350, flags: []}, // Aurous Wand Scepter Skin (Inside a container)
+  94032: {gems: 350, flags: []}, // Cerulean Wand Scepter Skin (Inside a container)
+  95533: {gems: 125, flags: []}, // Lunar Backpack and Glider Combo (Container (Random BLC Drop))
+  95531: {gems: 63, flags: []}, // Lunar Glider (Inside a container)
+  95576: {gems: 63, flags: []}, // Lunar Backpack (Inside a container)
+  98047: {gems: 125, flags: []}, // Jade Tech Wings Backpack and Glider Combo (Container (Random BLC Drop))
+  98008: {gems: 63, flags: []}, // Jade Tech Wings Backpack (Inside a container)
+  98033: {gems: 63, flags: []}, // Jade Tech Wings Glider (Inside a container)
+  97989: {gems: 350, flags: []}, // Thousand Seas Gourd Glider (Inside a container)
+  98037: {gems: 350, flags: []}, // Thousand Seas Gourd Backpack (Inside a container)
+  95560: {gems: 700, flags: []}, // Aurene Wings Backpack and Glider Combo (Container)
+  95524: {gems: 350, flags: []}, // Aurene Wings Backpack (Inside a container)
+  95579: {gems: 350, flags: []}, // Aurene Wings Glider (Inside a container)
+  95547: {gems: 500, flags: []}, // Shatterspark Cape
+  95488: {gems: 200, flags: []}, // Forest Archer Cape (Inside a container)
+  95479: {gems: 200, flags: []}, // Forest Scout Cape (Inside a container)
+  95484: {gems: 200, flags: []}, // Forest Archer Quiver (Inside a container)
+  95266: {gems: 700, flags: []}, // Sylph Wings Backpack and Glider Combo (Container)
+  95264: {gems: 350, flags: []}, // Sylph Wings Glider (Inside a container)
+  95261: {gems: 350, flags: []}, // Sylph Wings Backpack (Inside a container)
+  95258: {gems: 500, flags: []}, // Tempest Cape
+  95034: {gems: 700, flags: []}, // Elemental Fury Backpack and Glider Combo (Container)
+  95030: {gems: 350, flags: []}, // Elemental Fury Glider (Inside a container)
+  95033: {gems: 350, flags: []}, // Elemental Fury Backpack (Inside a container)
+  95244: {gems: 700, flags: []}, // Cute Demon Wings Backpack and Glider Combo (Container)
+  94991: {gems: 350, flags: []}, // Cute Demon Wings Backpack (Inside a container)
+  94994: {gems: 350, flags: []}, // Cute Demon Wings Glider (Inside a container)
+  95245: {gems: 700, flags: []}, // Eternal Mandala Backpack and Glider Combo (Container)
+  94700: {gems: 350, flags: []}, // Eternal Mandala Backpack (Inside a container)
+  94701: {gems: 350, flags: []}, // Eternal Mandala Glider (Inside a container)
+  94403: {gems: 700, flags: []}, // Shrine Guardian Backpack and Glider Combo (Container)
+  94391: {gems: 350, flags: []}, // Shrine Guardian Backpack Skin (Inside a container)
+  94421: {gems: 350, flags: []}, // Shrine Guardian Glider Skin (Inside a container)
+  95142: {gems: 500, flags: []}, // Fox Spirit Glider
+  95102: {gems: 600, flags: []}, // Devil-Rending Axe Skin
+  94705: {gems: 600, flags: []}, // Ravensoul Dagger Skin
+  97987: {gems: 600, flags: []}, // Concealed Jade Tech Pistol Skin
+  95483: {gems: 125, flags: []}, // Ebonhawke Crossbow Pistol Skin (Random BLC Drop)
+  95236: {gems: 600, flags: []}, // Baleful Dragon Pistol Skin
+  97205: {gems: 125, flags: []}, // Bloodflame Sword Skin (Random BLC Drop)
+  95559: {gems: 600, flags: []}, // Shatterspark Sword Skin
+  94903: {gems: 600, flags: []}, // Dreamwalker Sword Skin
+  95538: {gems: 600, flags: []}, // Eternal Eclipse Scepter Skin
+  95463: {gems: 600, flags: []}, // Shadebound Scepter Skin
+  97903: {gems: 600, flags: []}, // Prayer Strip Focus Skin
+  95485: {gems: 600, flags: []}, // Teatime Focus Skin
+  94456: {gems: 600, flags: []}, // Dragon Spirit Focus Skin
+  94974: {gems: 600, flags: []}, // Spellfire Torch Skin
+  95149: {gems: 600, flags: []}, // Infernal Roar Warhorn Skin
+  95567: {gems: 600, flags: []}, // Ravensoul Greatsword
+  95280: {gems: 600, flags: []}, // Comet Hammer Skin
+  94682: {gems: 600, flags: []}, // Hammer of the Three Realms Skin
+  95225: {gems: 125, flags: []}, // Vermilion Bow Package (Container (Random BLC Drop))
+  95202: {gems: 63, flags: []}, // Vermilion Longbow (Inside a container)
+  95172: {gems: 63, flags: []}, // Vermilion Short Bow (Inside a container)
+  95060: {gems: 600, flags: []}, // Dreamwalker Longbow Skin
+  94401: {gems: 350, flags: []}, // Shrine Guardian Longbow Skin (Inside a container)
+  94417: {gems: 350, flags: []}, // Shrine Guardian Short Bow Skin (Inside a container)
+  94913: {gems: 600, flags: []}, // Bone Dragon Staff Skin
+  97984: {gems: 533, flags: []}, // Tiger-Breasted Cuckoo Springer Skin (Inside a container)
+  97962: {gems: 533, flags: []}, // Canthan Cuckoo Springer Skin (Inside a container)
+  97913: {gems: 533, flags: []}, // Stormy Cuckoo Springer Skin (Inside a container)
+  98061: {gems: 533, flags: []}, // Ring-Tailed Vulpine Jackal Skin (Inside a container)
+  98012: {gems: 533, flags: []}, // Canthan Vulpine Jackal Skin (Inside a container)
+  97992: {gems: 533, flags: []}, // Lucent Vulpine Jackal Skin (Inside a container)
+  98075: {gems: 533, flags: []}, // Qinkaishi Tigris Griffon Skin (Inside a container)
+  98071: {gems: 533, flags: []}, // Canthan Tigris Griffon Skin (Inside a container)
+  98076: {gems: 533, flags: []}, // Blazing Tigris Griffon Skin (Inside a container)
+  97908: {gems: 400, flags: []}, // Southern Terrapin Siege Turtle Skin (Inside a container)
+  97902: {gems: 400, flags: []}, // Painted River Siege Turtle Skin (Inside a container)
+  97899: {gems: 400, flags: []}, // Deepwater Barbshell Siege Turtle Skin (Inside a container)
+  97904: {gems: 400, flags: []}, // Magmaback Snapper Siege Turtle Skin (Inside a container)
+  97905: {gems: 400, flags: []}, // Luminous Bastion Siege Turtle Skin (Inside a container)
+  98081: {gems: 167, flags: []}, // Jade Tech Eye Piece Helm Skin (Unlocks all weights)
+  97906: {gems: 167, flags: []}, // Canthan Sun Hat Skin (Unlocks all weights)
+  95564: {gems: 167, flags: []}, // Foefire Mask Helm Skin (Unlocks all weights)
+  95506: {gems: 167, flags: []}, // Icy Demon Horns Helm Skin (Unlocks all weights)
+  95480: {gems: 167, flags: []}, // Pyre Circlet Helm Skin (Unlocks all weights)
+  95432: {gems: 42, flags: []}, // Seven Reapers Helm Skin (Unlocks all weights (Random BLC Drop))
+  95240: {gems: 100, flags: []}, // Immortal Light Nimbus Skin (Unlocks all weights)
+  95219: {gems: 100, flags: []}, // Immortal Fire Nimbus Skin (Unlocks all weights)
+  95043: {gems: 167, flags: []}, // Pyre Horns Helm Skin (Unlocks all weights)
+  94967: {gems: 167, flags: []}, // Ice Reaver Helm Skin (Unlocks all weights)
+  97997: {gems: 167, flags: []}, // Vermilion Pauldrons Skin (Unlocks all weights)
+  95127: {gems: 167, flags: []}, // Ghost of the Deep Spaulders Skin (Unlocks all weights)
+  95002: {gems: 167, flags: []}, // Shatterspark Shoulders Skin (Unlocks all weights)
+  94515: {gems: 167, flags: []}, // Dusk and Dawn Shoulders Skin (Unlocks all weights)
+  95410: {gems: 167, flags: []}, // Foefire Chestguard Skin (Unlocks all weights)
+  94987: {gems: 167, flags: []}, // Ice Reaver Chestguard Skin (Unlocks all weights)
+  95615: {gems: 167, flags: []}, // Prayer Bead Wraps Skin (Unlocks all weights)
+  95497: {gems: 167, flags: []}, // Raven Gloves Skin (Unlocks all weights)
+  95292: {gems: 83, flags: []}, // Immortal Light Ring Gloves Skin (Unlocks all weights)
+  95279: {gems: 83, flags: []}, // Immortal Fire Ring Gloves Skin (Unlocks all weights)
+  95050: {gems: 167, flags: []}, // Shatterspark Gloves Skin (Unlocks all weights)
+  94888: {gems: 167, flags: []}, // Aurene's Crystalline Claws (Unlocks all weights)
+  95435: {gems: 167, flags: []}, // Foefire Legwraps Skin (Unlocks all weights)
+  94996: {gems: 167, flags: []}, // Ice Reaver Legguards Skin (Unlocks all weights)
+  95260: {gems: 42, flags: []}, // Seven Reapers Greaves Skin (Unlocks all weights (Random BLC Drop))
+  95159: {gems: 133, flags: []}, // Swaggering Boots Skin (Unlocks all weights)
+  94494: {gems: 133, flags: []}, // Ice Reaver Greaves Skin (Unlocks all weights)
+  94399: {gems: 133, flags: []}, // Stylish Shoes Skin (Unlocks all weights)
+  95481: {gems: 800, flags: []}, // Teatime Chair
+  94722: {gems: 600, flags: []}, // Volcanic Throne
+  95573: {gems: 600, flags: []}, // Diamond Throne
+  97925: {gems: 600, flags: []}, // Qi Focusing Chair
+  95315: {gems: 600, flags: []}, // Throne of Shadows
+  97909: {gems: 1200, flags: []}, // Elite Weapons Voucher
+  70154: {gems: 1200, flags: []}, // Immortal Axe Skin
+  70147: {gems: 1200, flags: []}, // Immortal Dagger Skin
+  70211: {gems: 1200, flags: []}, // Immortal Focus Skin
+  70198: {gems: 1200, flags: []}, // Immortal Greatsword Skin
+  70188: {gems: 1200, flags: []}, // Immortal Hammer Skin
+  70224: {gems: 1200, flags: []}, // Immortal Longbow Skin
+  70194: {gems: 1200, flags: []}, // Immortal Mace Skin
+  70187: {gems: 1200, flags: []}, // Immortal Pistol Skin
+  70196: {gems: 1200, flags: []}, // Immortal Rifle Skin
+  70164: {gems: 1200, flags: []}, // Immortal Scepter Skin
+  70135: {gems: 1200, flags: []}, // Immortal Shield Skin
+  70220: {gems: 1200, flags: []}, // Immortal Short Bow Skin
+  70185: {gems: 1200, flags: []}, // Immortal Staff Skin
+  70228: {gems: 1200, flags: []}, // Immortal Sword Skin
+  70159: {gems: 1200, flags: []}, // Immortal Torch Skin
+  70163: {gems: 1200, flags: []}, // Immortal Warhorn Skin
+  88287: {gems: 600, flags: []}, // Onyx Lion Axe Skin
+  88270: {gems: 600, flags: []}, // Gold Lion Axe Skin
+  88358: {gems: 600, flags: []}, // Onyx Lion Dagger Skin
+  88242: {gems: 600, flags: []}, // Gold Lion Dagger Skin
+  88257: {gems: 600, flags: []}, // Onyx Lion Focus Skin
+  88228: {gems: 600, flags: []}, // Gold Lion Focus Skin
+  88316: {gems: 600, flags: []}, // Onyx Lion Greatsword Skin
+  88319: {gems: 600, flags: []}, // Gold Lion Greatsword Skin
+  88311: {gems: 600, flags: []}, // Onyx Lion Hammer Skin
+  88350: {gems: 600, flags: []}, // Gold Lion Hammer Skin
+  88361: {gems: 600, flags: []}, // Onyx Lion Longbow Skin
+  88281: {gems: 600, flags: []}, // Gold Lion Longbow Skin
+  88266: {gems: 600, flags: []}, // Onyx Lion Mace Skin
+  88243: {gems: 600, flags: []}, // Gold Lion Mace Skin
+  88265: {gems: 600, flags: []}, // Onyx Lion Pistol Skin
+  88318: {gems: 600, flags: []}, // Gold Lion Pistol Skin
+  88342: {gems: 600, flags: []}, // Onyx Lion Rifle Skin
+  88314: {gems: 600, flags: []}, // Gold Lion Rifle Skin
+  88240: {gems: 600, flags: []}, // Onyx Lion Scepter Skin
+  88272: {gems: 600, flags: []}, // Gold Lion Scepter Skin
+  88306: {gems: 600, flags: []}, // Onyx Lion Shield Skin
+  88352: {gems: 600, flags: []}, // Gold Lion Shield Skin
+  88233: {gems: 600, flags: []}, // Onyx Lion Short Bow Skin
+  88268: {gems: 600, flags: []}, // Gold Lion Short Bow Skin
+  88230: {gems: 600, flags: []}, // Onyx Lion Staff Skin
+  88263: {gems: 600, flags: []}, // Gold Lion Staff Skin
+  88325: {gems: 600, flags: []}, // Onyx Lion Sword Skin
+  88264: {gems: 600, flags: []}, // Gold Lion Sword Skin
+  88303: {gems: 600, flags: []}, // Onyx Lion Torch Skin
+  88291: {gems: 600, flags: []}, // Gold Lion Torch Skin
+  88328: {gems: 600, flags: []}, // Onyx Lion Warhorn Skin
+  88288: {gems: 600, flags: []}, // Gold Lion Warhorn Skin
+  92609: {gems: 1200, flags: []}, // Mythic Axe Skin
+  92588: {gems: 1200, flags: []}, // Mythic Longbow Skin
+  92576: {gems: 1200, flags: []}, // Mythic Short Bow Skin
+  92544: {gems: 1200, flags: []}, // Mythic Dagger Skin
+  92619: {gems: 1200, flags: []}, // Mythic Focus Skin
+  92612: {gems: 1200, flags: []}, // Mythic Greatsword Skin
+  92578: {gems: 1200, flags: []}, // Mythic Hammer Skin
+  92610: {gems: 1200, flags: []}, // Mythic Mace Skin
+  92573: {gems: 1200, flags: []}, // Mythic Pistol Skin
+  92570: {gems: 1200, flags: []}, // Mythic Rifle Skin
+  92617: {gems: 1200, flags: []}, // Mythic Scepter Skin
+  92579: {gems: 1200, flags: []}, // Mythic Shield Skin
+  92568: {gems: 1200, flags: []}, // Mythic Staff Skin
+  92622: {gems: 1200, flags: []}, // Mythic Sword Skin
+  92550: {gems: 1200, flags: []}, // Mythic Torch Skin
+  92592: {gems: 1200, flags: []} // Mythic Warhorn Skin
 }
