@@ -1499,5 +1499,203 @@ export default {
   92568: {gems: 1200, flags: []}, // Mythic Staff Skin
   92622: {gems: 1200, flags: []}, // Mythic Sword Skin
   92550: {gems: 1200, flags: []}, // Mythic Torch Skin
-  92592: {gems: 1200, flags: []} // Mythic Warhorn Skin
+  92592: {gems: 1200, flags: []}, // Mythic Warhorn Skin
+  99630: {gems: 350, flags: []}, // Cuddly Cat Backpack Skin (Inside a container)
+  99628: {gems: 350, flags: []}, // Cuddly Cat Glider Skin (Inside a container)
+  99632: {gems: 700, flags: []}, // Adventurous Cat Outfit
+  99287: {gems: 300, flags: []}, // /Hiss Emote Tome
+  98995: {gems: 300, flags: []}, // /Serve Emote Tome
+  92167: {gems: 800, flags: []}, // Mini Guardian Angel Aurene
+  94153: {gems: 800, flags: []}, // Mini Circle of Love Aurene
+  95474: {gems: 800, flags: []}, // Mini Circle of Love Lady Wisteria
+  99080: {gems: 800, flags: []}, // Guardian Angel Cape
+  94006: {gems: 3000, flags: []}, // 8th Anniversary Supply Drop Requisition
+  95199: {gems: 3000, flags: []}, // 9th Anniversary Supply Drop Requisition
+  91870: {gems: 3000, flags: []}, // New Horizons Supply Drop Requisition
+  90181: {gems: 3000, flags: []}, // War Eternal Supply Drop Requisition
+  99753: {gems: 1600, flags: []}, // Armored Tiger Warclaw Skin
+  99641: {gems: 500, flags: []}, // Artisan Zharra's Hood Skin (Inside a container)
+  99644: {gems: 500, flags: []}, // Artisan Zharra's Cape Skin (Inside a container)
+  95560: {gems: 700, flags: []}, // Aurene Wings Backpack and Glider Combo (Container)
+  95524: {gems: 350, flags: []}, // Aurene Wings Backpack (Inside a container)
+  95579: {gems: 350, flags: []}, // Aurene Wings Glider (Inside a container)
+  99279: {gems: 133, flags: []}, // Aurene's Crystalline Pauldrons Skin (Unlocks all weights)
+  99020: {gems: 1600, flags: []}, // Auspicious Pixiu Skyscale Skin
+  97910: {gems: 466, flags: []}, // Auspicious Vision Outfit Voucher (Inside a container)
+  97907: {gems: 466, flags: []}, // Auspicious Vision Weapon Voucher (Inside a container)
+  97898: {gems: 466, flags: []}, // Auspicious Vision Backpack and Glider Voucher (Inside a container)
+  99261: {gems: 200, flags: []}, // Lambent Battlelord's Hood Helm Skin (Inside a container, Unlocks all weights)
+  99265: {gems: 200, flags: []}, // Battlelord's Hood Helm Skin (Inside a container, Unlocks all weights)
+  99257: {gems: 200, flags: []}, // Battlelord's Cape Skin (Inside a container)
+  99394: {gems: 133, flags: []}, // Bestial Tides Tattoo Chest Skin (Unlocks all weights)
+  99493: {gems: 133, flags: []}, // Bestial Tides Tattoo Legs Skin (Unlocks all weights)
+  95227: {gems: 245, flags: []}, // Black Lion Chair Voucher
+  97892: {gems: 540, flags: []}, // Black Lion Musical Instrument Voucher
+  99021: {gems: 700, flags: []}, // Maid Outfit
+  99043: {gems: 700, flags: []}, // Butler Outfit
+  98288: {gems: 400, flags: []}, // Canthan Menagerie Mount Adoption License
+  98264: {gems: 1200, flags: []}, // Canthan Menagerie Mount Select License
+  98141: {gems: 533, flags: []}, // Kinya Nian Warclaw Skin (Inside a container)
+  98140: {gems: 533, flags: []}, // Canthan Nian Warclaw Skin (Inside a container)
+  98147: {gems: 533, flags: []}, // Glacial Nian Warclaw Skin (Inside a container)
+  98198: {gems: 533, flags: []}, // Heavenly Thunder Noble Skyscale Skin
+  98194: {gems: 533, flags: []}, // Canthan Noble Skyscale Skin
+  98192: {gems: 533, flags: []}, // Hundred Petals Noble Skyscale Skin
+  99348: {gems: 350, flags: []}, // Canthan Phoenix Wings Backpack (Inside a container)
+  99350: {gems: 350, flags: []}, // Canthan Phoenix Wings Glider (Inside a container)
+  96808: {gems: 700, flags: []}, // Canthan Spiritualist Outfit
+  96131: {gems: 350, flags: []}, // Canthan Spiritualist Glider (Inside a container)
+  96856: {gems: 350, flags: []}, // Canthan Spiritualist Backpack (Inside a container)
+  97906: {gems: 500, flags: []}, // Canthan Sun Hat Skin (Unlocks all weights)
+  85178: {gems: 600, flags: []}, // Ascalonian Grassland Waypoint Unlock
+  85197: {gems: 600, flags: []}, // Shiverpeak Mountains Waypoint Unlock
+  85260: {gems: 600, flags: []}, // Krytan Valley Waypoint Unlock
+  84971: {gems: 600, flags: []}, // Maguuma Jungle Waypoint Unlock
+  85144: {gems: 600, flags: []}, // Orrian Shoreline Waypoint Unlock
+  95285: {gems: 600, flags: []}, // Major Cities Waypoint Unlock
+  99131: {gems: 600, flags: []}, // Comfy Cat Chair
+  97893: {gems: 1600, flags: []}, // Crescent Canoe Skiff Skin
+  99295: {gems: 600, flags: []}, // Crescent Moon Scepter Skin
+  98971: {gems: 1600, flags: []}, // Crested Dragon Siege Turtle Skin
+  95362: {gems: 125, flags: []}, // Darkest Abyss Dye Kit
+  98958: {gems: 600, flags: []}, // Devil-Rending Greataxe Hammer Skin
+  99178: {gems: 700, flags: []}, // Divine Conqueror Outfit
+  99135: {gems: 500, flags: []}, // Divine Conqueror Cape
+  95223: {gems: 500, flags: []}, // Dragon Emblem Cape
+  94726: {gems: 560, flags: []}, // Dragon's Watch Outfit Voucher (Inside a container)
+  94752: {gems: 560, flags: []}, // Dragon's Watch Backpack Voucher (Inside a container)
+  94814: {gems: 560, flags: []}, // Dragon's Watch Glider Voucher (Inside a container)
+  94743: {gems: 560, flags: []}, // Dragon's Watch Weapon Voucher (Inside a container)
+  94737: {gems: 560, flags: []}, // Dragon's Watch Mount Skin Voucher (Inside a container)
+  99735: {gems: 1600, flags: []}, // Dreadnought Skiff Skin
+  19998: {gems: 200, flags: []}, // Dye Pack
+  67278: {gems: 200, flags: []}, // Dye Pack
+  99596: {gems: 1600, flags: []}, // Dynamics Racing Skiff Skin
+  99310: {gems: 166, flags: []}, // Elegant Silk Scarf Skin (Unlocks all weights)
+  85628: {gems: 125, flags: []}, // Elonian Beasts Dye Kit
+  88356: {gems: 125, flags: []}, // Elonian Beasts Dye Kit
+  96952: {gems: 1000, flags: []}, // End of Dragons Expedition Contract
+  99377: {gems: 700, flags: []}, // Equinox Outfit
+  99378: {gems: 350, flags: []}, // Equinox Wings Backpack
+  99375: {gems: 350, flags: []}, // Equinox Wings Glider
+  99565: {gems: 600, flags: []}, // Etched Porcelain Greatsword
+  99566: {gems: 400, flags: []}, // Eternal Crossings Mount Adoption License
+  99560: {gems: 1200, flags: []}, // Eternal Crossings Mount Select License
+  98873: {gems: 166, flags: []}, // Etherbound Chestplate (Unlocks all weights)
+  98886: {gems: 166, flags: []}, // Etherbound Helm (Unlocks all weights)
+  98954: {gems: 166, flags: []}, // Etherbound Legguard (Unlocks all weights)
+  99633: {gems: 600, flags: []}, // Exo-Sword Skin
+  99815: {gems: 600, flags: []}, // Exo-Rifle Skin
+  95282: {gems: 500, flags: []}, // Heart of Thorns Waypoint Unlock (Inside a container)
+  95281: {gems: 500, flags: []}, // Path of Fire Waypoint Unlock (Inside a container)
+  99517: {gems: 133, flags: []}, // Fire Bloom Tattoo Chest Skin (Unlocks all weights)
+  99514: {gems: 133, flags: []}, // Fire Bloom Tattoo Legs Skin (Unlocks all weights)
+  98226: {gems: 1600, flags: []}, // Floating Garden Skiff Skin
+  99322: {gems: 1600, flags: []}, // Floating Lantern Skiff Skin
+  99558: {gems: 1600, flags: []}, // Fluffy Samoyed Jackal Skin
+  99223: {gems: 1600, flags: []}, // Fluttering Fairy Jade Bot Skin
+  98980: {gems: 600, flags: []}, // Frostblossom Staff Skin
+  98493: {gems: 600, flags: []}, // Geomantic Fishing Rod Skin
+  97900: {gems: 600, flags: []}, // Golden Dragon Fishing Rod Skin
+  99306: {gems: 1600, flags: []}, // Imperial Crane Raptor Skin
+  99156: {gems: 400, flags: []}, // Imperial Wonders Mount Adoption License
+  99148: {gems: 1200, flags: []}, // Imperial Wonders Mount Select License
+  98073: {gems: 800, flags: []}, // Infinite Fishing Lure
+  99626: {gems: 900, flags: []}, // Herald of Aurene Logging Tool
+  99627: {gems: 900, flags: []}, // Herald of Aurene Mining Tool
+  99625: {gems: 900, flags: []}, // Herald of Aurene Harvesting Tool
+  19992: {gems: 35, flags: []}, // Instant Armor-Reinforcing Canister
+  98106: {gems: 125, flags: []}, // Jade Dye Kit
+  98218: {gems: 500, flags: []}, // Jade Prosthesis Gauntlet Skin
+  98306: {gems: 700, flags: []}, // Jade Tech Outfit
+  98323: {gems: 1600, flags: []}, // Jade Tech Raptor Skin
+  98080: {gems: 600, flags: []}, // Jade Tech Fishing Rod Skin
+  98072: {gems: 1600, flags: []}, // Jade Tech Skiff Skin
+  98878: {gems: 1600, flags: []}, // Kirin Jackal Skin
+  69754: {gems: 400, flags: []}, // Canach's Backpack
+  99376: {gems: 600, flags: []}, // Kraken's Grasp Fishing Rod Skin
+  99167: {gems: 350, flags: []}, // Lightning Wings Backpack (Inside a Container)
+  99143: {gems: 350, flags: []}, // Lightning Wings Glider (Inside a Container)
+  99315: {gems: 400, flags: []}, // Lunar Rabbit Helm Skin (Inside a Container)
+  99341: {gems: 400, flags: []}, // Lunar Rabbit Stompers Skin (Inside a Container)
+  99076: {gems: 600, flags: []}, // Mad King Fishing Rod Skin
+  98164: {gems: 250, flags: []}, // Magical Unicorn Horn Helm Skin (Inside a Container)
+  98197: {gems: 250, flags: []}, // Unicorn Horn Helm Skin (Inside a Container)
+  99107: {gems: 600, flags: []}, // Magmatic Torch Skin
+  90148: {gems: 400, flags: []}, // Maguuma Pact Operation Portal Device
+  98885: {gems: 600, flags: []}, // Meandering Tortoise Chair
+  99281: {gems: 700, flags: []}, // Midnight Hunter Outfit
+  97928: {gems: 600, flags: []}, // Midnight Lotus Fishing Rod Skin
+  89414: {gems: 400, flags: []}, // Mini Trailblazer Roller Beetle
+  99806: {gems: 125, flags: []}, // Monstrous Dye Kit
+  99103: {gems: 1600, flags: []}, // Molten Phoenix Griffon Skin
+  85580: {gems: 400, flags: []}, // Mount Adoption License
+  91795: {gems: 400, flags: []}, // New Horizons Mount Adoption License
+  91740: {gems: 1200, flags: []}, // New Horizons Mount Select License
+  98221: {gems: 350, flags: []}, // New Kaineng Cape (Inside a Container)
+  98258: {gems: 350, flags: []}, // New Kaineng Cape Glider (Inside a Container)
+  99192: {gems: 1600, flags: []}, // Plush Cuckoo Springer Skin
+  95509: {gems: 1600, flags: []}, // Plush Raptor Skin
+  99266: {gems: 1600, flags: []}, // Plush Siege Turtle Skin
+  98959: {gems: 166, flags: []}, // Pointed Ears Helm Skin
+  98977: {gems: 166, flags: []}, // Noble Pointed Ears Helm Skin
+  98984: {gems: 166, flags: []}, // Royal Pointed Ears Helm Skin
+  93336: {gems: 500, flags: []}, // Prince Rurik's Vanguard Cape
+  99624: {gems: 600, flags: []}, // Quiet Woods Chair
+  90079: {gems: 125, flags: []}, // Sacred Dye Kit
+  91661: {gems: 125, flags: []}, // Sacred Dye Kit
+  99563: {gems: 250, flags: []}, // Rebel Long Boots Skin (Inside a Container)
+  99564: {gems: 250, flags: []}, // Rebel Short Boots Skin (Inside a Container)
+  98276: {gems: 600, flags: []}, // Red Crane Fishing Rod Skin
+  99113: {gems: 500, flags: []}, // Rift Warden Helm Skin
+  99173: {gems: 300, flags: []}, // Savage Scale Chest Skin (Inside a Container)
+  99183: {gems: 300, flags: []}, // Savage Scale Loincloth Skin (Inside a Container)
+  99707: {gems: 600, flags: []}, // Salmon Run Fishing Rod Skin
+  83073: {gems: 200, flags: []}, // Season 1 Memory Box—Flame and Festivals (Container)
+  83517: {gems: 200, flags: []}, // Season 1 Memory Box—Scarlet vs. Lion's Arch (Container)
+  88979: {gems: 1000, flags: []}, // Season 3 Expedition Contract
+  92782: {gems: 0, flags: []}, // Seize the Awkward Clothing Outfit
+  93983: {gems: 0, flags: []}, // Seize the Awkward Potion
+  99401: {gems: 400, flags: []}, // Serpentine Tattoo Chest Skin (Inside a Container)
+  99391: {gems: 400, flags: []}, // Serpentine Tattoo Legs Skin (Inside a Container)
+  98496: {gems: 400, flags: []}, // Seven Dragon Dye Pack
+  98168: {gems: 600, flags: []}, // Seven-Branched Sword Skin
+  87425: {gems: 1000, flags: []}, // Shifting Sands Mining Pick
+  98041: {gems: 700, flags: []}, // Shiro's Legacy Outfit
+  97990: {gems: 500, flags: []}, // Shiro's Legacy Backpack
+  98030: {gems: 500, flags: []}, // Shiro's Legacy Greatsword Skin
+  97999: {gems: 500, flags: []}, // Shiro's Legacy Sword Skin
+  98963: {gems: 600, flags: []}, // Shrine Guardian Fishing Rod Skin
+  98981: {gems: 1600, flags: []}, // Shrine Guardian Skiff Skin
+  97666: {gems: 125, flags: []}, // Soo-Won Dye Kit
+  99307: {gems: 600, flags: []}, // Soul River Hound Hammer Skin
+  99358: {gems: 500, flags: []}, // Star Caller Warhorn Skin
+  99505: {gems: 600, flags: []}, // Street Noodles Chair
+  99568: {gems: 1600, flags: []}, // Super Sophisticated Siege Turtle Skin
+  99374: {gems: 500, flags: []}, // Swaggering Cape
+  97969: {gems: 1000, flags: []}, // Thousand Seas Pavilion Pass
+  97965: {gems: 150, flags: []}, // Thousand Seas Pavilion Pass (2 weeks)
+  97970: {gems: 150, flags: []}, // Thousand Seas Pavilion Pass (2 weeks)
+  99205: {gems: 600, flags: []}, // Toy Duck Fishing Rod Skin
+  99284: {gems: 600, flags: []}, // Tranquil Moon Chair
+  98752: {gems: 1600, flags: []}, // Trimaran Skiff Skin
+  98317: {gems: 500, flags: []}, // Tropical Feathered Cape
+  99035: {gems: 350, flags: []}, // Umbral Serpent Backpack Skin (Inside a Container)
+  99014: {gems: 350, flags: []}, // Umbral Serpent Glider Skin (Inside a Container)
+  99125: {gems: 1600, flags: []}, // Unyielding Haechi Warclaw Skin
+  99562: {gems: 600, flags: []}, // Voidflame Assassin Dagger Skin
+  98852: {gems: 500, flags: []}, // Water Dragon Helm Skin
+  98794: {gems: 400, flags: []}, // Water Dragon Pauldrons Skin
+  98633: {gems: 500, flags: []}, // Water Dragon Chestguard Skin
+  98503: {gems: 400, flags: []}, // Water Dragon Gauntlets Skin
+  98558: {gems: 500, flags: []}, // Water Dragon Legguards Skin
+  98430: {gems: 500, flags: []}, // Water Dragon Greaves Skin
+  98918: {gems: 500, flags: []}, // Water Dragon Crest Helm Skin
+  98486: {gems: 500, flags: []}, // Water Dragon Spear Skin
+  98455: {gems: 350, flags: []}, // Water Dragon Wings Backpack (Inside a Container)
+  98530: {gems: 350, flags: []}, // Water Dragon Wings Glider (Inside a Container)
+  67279: {gems: 600, flags: []}, // Waypoint Unlock Box
+  81582: {gems: 150, flags: []}, // Winter in Summer Mystery Box
+  99357: {gems: 1600, flags: []}, // Wolf Raider Skiff Skin
+  99829: {gems: 600, flags: []} // Restful Hammock Chair
 }
