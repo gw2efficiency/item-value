@@ -226,10 +226,7 @@ export default {
   36168: {gems: 67, flags: []}, // Fuzzy Bear Hat (Unlocks all weights)
   64755: {gems: 67, flags: []}, // Fuzzy Bear Hat (Unlocks all weights)
   64758: {gems: 67, flags: []}, // Fuzzy Cat Hat (Unlocks all weights)
-  64758: {gems: 67, flags: []}, // Fuzzy Cat Hat (Unlocks all weights)
   64759: {gems: 67, flags: []}, // Fuzzy Hylek Hat (Unlocks all weights)
-  64759: {gems: 67, flags: []}, // Fuzzy Hylek Hat (Unlocks all weights)
-  64746: {gems: 67, flags: []}, // Fuzzy Leopard Hat (Unlocks all weights)
   64746: {gems: 67, flags: []}, // Fuzzy Leopard Hat (Unlocks all weights)
   20762: {gems: 67, flags: []}, // Fuzzy Panda Hat (Unlocks all weights)
   64744: {gems: 67, flags: []}, // Fuzzy Panda Hat (Unlocks all weights)
@@ -283,7 +280,7 @@ export default {
   63920: {gems: 133, flags: []}, // Incarnate Light Shoe Skin (Inside a container)
   46499: {gems: 600, flags: []}, // Infinite Continue Coin
   18827: {gems: 32, flags: ['daily']}, // Instant Repair Canister
-  19992: {gems: 32, flags: ['daily']}, // Instant Repair Canister
+  19992: {gems: 32, flags: ['daily']}, // Instant Armor-Reinforcing Canister
   20229: {gems: 50, flags: []}, // Inventor's Sunglasses (Unlocks all weights)
   64747: {gems: 50, flags: []}, // Inventor's Sunglasses (Unlocks all weights)
   78006: {gems: 500, flags: []}, // Ironclad Glider (Inside a container)
@@ -1300,11 +1297,10 @@ export default {
   98029: {gems: 500, flags: []}, // Shiro's Legacy Backpack Set (Container)
   98030: {gems: 500, flags: []}, // Shiro's Legacy Greatsword Skin (Inside a container)
   97999: {gems: 500, flags: []}, // Shiro's Legacy Sword Skin (Inside a container)
+  97990: {gems: 500, flags: []}, // Shiro's Legacy Backpack
   97923: {gems: 700, flags: []}, // Elegant Canthan Outfit
   97912: {gems: 600, flags: []}, // Elegant Canthan Staff
   96808: {gems: 700, flags: []}, // Canthan Spiritualist Outfit
-  96131: {gems: 350, flags: []}, // Canthan Spiritualist Glider (Inside a container)
-  96856: {gems: 350, flags: []}, // Canthan Spiritualist Backpack (Inside a container)
   95523: {gems: 700, flags: []}, // White Tiger Outfit
   95490: {gems: 700, flags: []}, // Wandering Weapon Master Outfit
   95495: {gems: 500, flags: []}, // Wandering Weapon Master Cape (Inside a container)
@@ -1516,9 +1512,6 @@ export default {
   99753: {gems: 1600, flags: []}, // Armored Tiger Warclaw Skin
   99641: {gems: 500, flags: []}, // Artisan Zharra's Hood Skin (Inside a container)
   99644: {gems: 500, flags: []}, // Artisan Zharra's Cape Skin (Inside a container)
-  95560: {gems: 700, flags: []}, // Aurene Wings Backpack and Glider Combo (Container)
-  95524: {gems: 350, flags: []}, // Aurene Wings Backpack (Inside a container)
-  95579: {gems: 350, flags: []}, // Aurene Wings Glider (Inside a container)
   99279: {gems: 133, flags: []}, // Aurene's Crystalline Pauldrons Skin (Unlocks all weights)
   99020: {gems: 1600, flags: []}, // Auspicious Pixiu Skyscale Skin
   97910: {gems: 466, flags: []}, // Auspicious Vision Outfit Voucher (Inside a container)
@@ -1543,10 +1536,8 @@ export default {
   98192: {gems: 533, flags: []}, // Hundred Petals Noble Skyscale Skin
   99348: {gems: 350, flags: []}, // Canthan Phoenix Wings Backpack (Inside a container)
   99350: {gems: 350, flags: []}, // Canthan Phoenix Wings Glider (Inside a container)
-  96808: {gems: 700, flags: []}, // Canthan Spiritualist Outfit
   96131: {gems: 350, flags: []}, // Canthan Spiritualist Glider (Inside a container)
   96856: {gems: 350, flags: []}, // Canthan Spiritualist Backpack (Inside a container)
-  97906: {gems: 500, flags: []}, // Canthan Sun Hat Skin (Unlocks all weights)
   85178: {gems: 600, flags: []}, // Ascalonian Grassland Waypoint Unlock
   85197: {gems: 600, flags: []}, // Shiverpeak Mountains Waypoint Unlock
   85260: {gems: 600, flags: []}, // Krytan Valley Waypoint Unlock
@@ -1604,7 +1595,6 @@ export default {
   99626: {gems: 900, flags: []}, // Herald of Aurene Logging Tool
   99627: {gems: 900, flags: []}, // Herald of Aurene Mining Tool
   99625: {gems: 900, flags: []}, // Herald of Aurene Harvesting Tool
-  19992: {gems: 35, flags: []}, // Instant Armor-Reinforcing Canister
   98106: {gems: 125, flags: []}, // Jade Dye Kit
   98218: {gems: 500, flags: []}, // Jade Prosthesis Gauntlet Skin
   98306: {gems: 700, flags: []}, // Jade Tech Outfit
@@ -1629,13 +1619,9 @@ export default {
   89414: {gems: 400, flags: []}, // Mini Trailblazer Roller Beetle
   99806: {gems: 125, flags: []}, // Monstrous Dye Kit
   99103: {gems: 1600, flags: []}, // Molten Phoenix Griffon Skin
-  85580: {gems: 400, flags: []}, // Mount Adoption License
-  91795: {gems: 400, flags: []}, // New Horizons Mount Adoption License
-  91740: {gems: 1200, flags: []}, // New Horizons Mount Select License
   98221: {gems: 350, flags: []}, // New Kaineng Cape (Inside a Container)
   98258: {gems: 350, flags: []}, // New Kaineng Cape Glider (Inside a Container)
   99192: {gems: 1600, flags: []}, // Plush Cuckoo Springer Skin
-  95509: {gems: 1600, flags: []}, // Plush Raptor Skin
   99266: {gems: 1600, flags: []}, // Plush Siege Turtle Skin
   98959: {gems: 166, flags: []}, // Pointed Ears Helm Skin
   98977: {gems: 166, flags: []}, // Noble Pointed Ears Helm Skin
@@ -1653,18 +1639,11 @@ export default {
   99707: {gems: 600, flags: []}, // Salmon Run Fishing Rod Skin
   83073: {gems: 200, flags: []}, // Season 1 Memory Box—Flame and Festivals (Container)
   83517: {gems: 200, flags: []}, // Season 1 Memory Box—Scarlet vs. Lion's Arch (Container)
-  88979: {gems: 1000, flags: []}, // Season 3 Expedition Contract
-  92782: {gems: 0, flags: []}, // Seize the Awkward Clothing Outfit
   93983: {gems: 0, flags: []}, // Seize the Awkward Potion
   99401: {gems: 400, flags: []}, // Serpentine Tattoo Chest Skin (Inside a Container)
   99391: {gems: 400, flags: []}, // Serpentine Tattoo Legs Skin (Inside a Container)
   98496: {gems: 400, flags: []}, // Seven Dragon Dye Pack
   98168: {gems: 600, flags: []}, // Seven-Branched Sword Skin
-  87425: {gems: 1000, flags: []}, // Shifting Sands Mining Pick
-  98041: {gems: 700, flags: []}, // Shiro's Legacy Outfit
-  97990: {gems: 500, flags: []}, // Shiro's Legacy Backpack
-  98030: {gems: 500, flags: []}, // Shiro's Legacy Greatsword Skin
-  97999: {gems: 500, flags: []}, // Shiro's Legacy Sword Skin
   98963: {gems: 600, flags: []}, // Shrine Guardian Fishing Rod Skin
   98981: {gems: 1600, flags: []}, // Shrine Guardian Skiff Skin
   97666: {gems: 125, flags: []}, // Soo-Won Dye Kit
