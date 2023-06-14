@@ -25,8 +25,10 @@ export default {
   66279: {gems: 700, flags: []}, // Ancestral Outfit
   68577: {gems: 700, flags: []}, // Arcane Outfit
   67868: {gems: 700, flags: []}, // Arctic Explorer Outfit
+  36368: {gems: 67, flags: []}, // Aviator Cap (Unlocks all weights)
   64742: {gems: 67, flags: []}, // Aviator Cap (Unlocks all weights)
   69628: {gems: 500, flags: []}, // Aviator Quaggan Mail Carrier
+  20225: {gems: 50, flags: []}, // Aviator Sunglasses (Unlocks all weights)
   64740: {gems: 50, flags: []}, // Aviator Sunglasses (Unlocks all weights)
   67881: {gems: 400, flags: []}, // Aviator's Memory Box
   19993: {gems: 400, flags: []}, // Bag Slot Expansion
@@ -34,6 +36,7 @@ export default {
   77282: {gems: 700, flags: []}, // Bandit Sniper's Outfit
   19984: {gems: 32, flags: ['daily']}, // Bank Access Express
   19995: {gems: 600, flags: []}, // Bank Tab Expansion
+  36171: {gems: 500, flags: ['daily']}, // Banker Golem (2 weeks)
   50085: {gems: 500, flags: ['daily']}, // Banker Golem (2 weeks)
   67842: {gems: 800, flags: []}, // Basic Cloth Rack
   67290: {gems: 800, flags: []}, // Basic Harvesting Node Pack
@@ -44,14 +47,18 @@ export default {
   73939: {gems: 350, flags: []}, // Bat Wings Backpack (Inside a container)
   42981: {gems: 500, flags: []}, // Bazaar Quaggan Mini Pack (Container)
   43923: {gems: 167, flags: []}, // Mini Poowulpi the Persnicketous (Inside a container)
+  83071: {gems: 167, flags: []}, // Mini Poowulpi the Persnicketous (Inside a container)
   43922: {gems: 167, flags: []}, // Mini Peggellegg the "Pirate" (Inside a container)
+  82162: {gems: 167, flags: []}, // Mini Peggellegg the "Pirate" (Inside a container)
   43921: {gems: 167, flags: []}, // Mini Kookoochoo the Incredulous (Inside a container)
+  82397: {gems: 167, flags: []}, // Mini Kookoochoo the Incredulous (Inside a container)
   8466: {gems: 600, flags: []}, // Belinda's Greatsword Skin
-  68685: {gems: 500, flags: []}, // Black Feather Wings Backpack Set (Container)
+  68685: {gems: 500, flags: []}, // Black Wings Glider Combo (Container)
+  88232: {gems: 500, flags: []}, // Black Wings Glider Combo (Container)
   68686: {gems: 500, flags: []}, // Black Feather Wings Backpack (Inside a container)
   70048: {gems: 350, flags: []}, // Black Feather Wings Glider (Inside a container)
-  36708: {gems: 125, flags: []}, // Black Lion Chest Key
   19980: {gems: 125, flags: []}, // Black Lion Chest Key
+  36708: {gems: 125, flags: []}, // Black Lion Chest Key
   43077: {gems: 1600, flags: []}, // Black Lion Introductory Package
   19986: {gems: 300, flags: ['daily']}, // Black Lion Salvage Kit
   64195: {gems: 300, flags: ['daily']}, // Black Lion Salvage Kit
@@ -59,13 +66,16 @@ export default {
   79354: {gems: 125, flags: []}, // Bloodstone Dye Kit
   43091: {gems: 700, flags: []}, // Bloody Prince's Outfit (Container)
   65195: {gems: 700, flags: []}, // Bloody Prince's Outfit (Inside a container)
+  43092: {gems: 0, flags: []}, // Bloody Prince's Staff Toy (Inside a container)
   49941: {gems: 0, flags: []}, // Bloody Prince's Staff Toy (Inside a container)
   78734: {gems: 125, flags: []}, // Blue Shift Dye Kit
+  79329: {gems: 125, flags: []}, // Blue Shift Dye Kit
   36172: {gems: 400, flags: []}, // Bobblehead Laboratory
   43527: {gems: 1000, flags: []}, // Bone Pick
   48932: {gems: 1000, flags: []}, // Bone Pick
   20000: {gems: 80, flags: ['daily']}, // Box o' Fun
   43528: {gems: 250, flags: []}, // Box of Chocolates
+  20268: {gems: 300, flags: []}, // Boxing Gloves
   49930: {gems: 300, flags: []}, // Boxing Gloves
   43157: {gems: 800, flags: []}, // Braham's Heavy Armor Skin (Container)
   43167: {gems: 133, flags: []}, // Braham's Warhelm Skin (Inside a container)
@@ -77,6 +87,7 @@ export default {
   42653: {gems: 600, flags: []}, // Braham's Mace Skin
   42656: {gems: 600, flags: []}, // Braham's Shield Skin
   78007: {gems: 500, flags: []}, // Bubble Glider
+  36369: {gems: 67, flags: []}, // Bunny Ears (Unlocks all weights)
   64738: {gems: 67, flags: []}, // Bunny Ears (Unlocks all weights)
   70044: {gems: 1000, flags: []}, // Butterfly Harvesting Flute
   70095: {gems: 500, flags: []}, // Butterfly Wings Backpack (Inside a container)
@@ -85,6 +96,7 @@ export default {
   20004: {gems: 600, flags: []}, // Caithe's Bloom Dagger
   67406: {gems: 300, flags: []}, // Candy Corn Gobbler Pack (Container)
   67393: {gems: 300, flags: []}, // Candy Corn Gobbler (Inside a container)
+  50081: {gems: 1000, flags: []}, // Captain's Airship Pass
   50104: {gems: 1000, flags: []}, // Captain's Airship Pass
   42968: {gems: 150, flags: []}, // Captain's Airship Pass (2 weeks)
   50093: {gems: 150, flags: []}, // Captain's Airship Pass (2 weeks)
@@ -106,7 +118,9 @@ export default {
   42596: {gems: 50, flags: []}, // Consortium Mobile Mystic Forge
   20248: {gems: 700, flags: []}, // Cook's Outfit (Container)
   64756: {gems: 700, flags: []}, // Cook's Outfit (Inside a container)
+  20262: {gems: 0, flags: []}, // Frying Pan (Inside a container)
   49939: {gems: 0, flags: []}, // Frying Pan (Inside a container)
+  7321: {gems: 0, flags: []}, // Frying Pan (Inside a container)
   44602: {gems: 800, flags: []}, // Copper-Fed Salvage-o-Matic
   78731: {gems: 1000, flags: []}, // Cosmic Mining Tool
   44779: {gems: 500, flags: []}, // Costumed Mini 3-Pack (Container)
@@ -118,24 +132,32 @@ export default {
   39516: {gems: 300, flags: []}, // Covert Charr Backpack Cover (Inside a container)
   8439: {gems: 150, flags: ['booster']}, // Crafting Booster
   20008: {gems: 150, flags: ['booster']}, // Crafting Booster
+  92885: {gems: 150, flags: ['booster']}, // Crafting Booster
   50090: {gems: 500, flags: []}, // Creepy Mini 3-Pack (Container)
-  67024: {gems: 167, flags: []}, // Miniature Glowing Bat (Inside a container)
+  67024: {gems: 167, flags: []}, // Mini Glowing Bat (Inside a container)
   67023: {gems: 167, flags: []}, // Mini Candy Corn Skritt (Inside a container)
   67026: {gems: 167, flags: []}, // Mini Mad King Head (Inside a container)
   68653: {gems: 125, flags: []}, // Crimson Lion Dye Kit
+  70248: {gems: 125, flags: []}, // Crimson Lion Dye Kit
   68684: {gems: 700, flags: []}, // Crystal Nomad Outfit
   77808: {gems: 700, flags: []}, // Crystal Savant Outfit
   69662: {gems: 700, flags: []}, // Daydreamer's Finery Outfit
   69739: {gems: 500, flags: []}, // Daydreamer's Wings Backpack Set (Container)
   69737: {gems: 500, flags: []}, // Daydreamer's Wings Backpack (Inside a container)
   43935: {gems: 125, flags: []}, // Deathly Dye Kit
+  70252: {gems: 125, flags: []}, // Deathly Dye Kit
   39543: {gems: 400, flags: []}, // Designer Hoodie
+  36370: {gems: 67, flags: []}, // Devil Horns (Unlocks all weights)
   65197: {gems: 67, flags: []}, // Devil Horns (Unlocks all weights)
   42897: {gems: 500, flags: []}, // Dragon Bash Mini Pack (Container)
   43428: {gems: 600, flags: []}, // Mini Holographic Colossus (Combined in Mystic Forge)
+  83786: {gems: 600, flags: []}, // Mini Holographic Colossus (Combined in Mystic Forge)
   43425: {gems: 200, flags: []}, // Mini Holographic Branded Minotaur (Inside a container)
+  82605: {gems: 200, flags: []}, // Mini Holographic Branded Minotaur (Inside a container)
   43426: {gems: 200, flags: []}, // Mini Holographic Axe-Wielding Destroyer (Inside a container)
+  84357: {gems: 200, flags: []}, // Mini Holographic Axe-Wielding Destroyer (Inside a container)
   43427: {gems: 200, flags: []}, // Mini Holographic Corrupted Wolf (Inside a container)
+  83583: {gems: 200, flags: []}, // Mini Holographic Corrupted Wolf (Inside a container)
   79386: {gems: 600, flags: []}, // Dragon Kama Skin
   68655: {gems: 100, flags: []}, // Dragon Mask Skin (Unlocks all weights)
   42876: {gems: 200, flags: []}, // Dragon's Fortune Fireworks
@@ -151,6 +173,7 @@ export default {
   67863: {gems: 500, flags: []}, // Exalted Mail Courier
   43098: {gems: 700, flags: []}, // Executioner's Outfit (Container)
   65194: {gems: 700, flags: []}, // Executioner's Outfit (Inside a container)
+  43099: {gems: 0, flags: []}, // Executioner Axe Toy (Inside a container)
   49940: {gems: 0, flags: []}, // Executioner Axe Toy (Inside a container)
   69623: {gems: 700, flags: []}, // Exemplar Attire Outfit
   19997: {gems: 150, flags: ['booster']}, // Experience Booster
@@ -160,11 +183,15 @@ export default {
   70250: {gems: 150, flags: ['booster']}, // Experience Booster
   38058: {gems: 700, flags: []}, // Fancy Winter Outfit (Container)
   65198: {gems: 700, flags: []}, // Fancy Winter Outfit (Inside a container)
+  38059: {gems: 0, flags: []}, // Fancy Winter Crystal Scepter (Inside a container)
   64734: {gems: 0, flags: []}, // Fancy Winter Crystal Scepter (Inside a container)
+  38052: {gems: 50, flags: []}, // Festive Hat (Unlocks all weights)
   65202: {gems: 50, flags: []}, // Festive Hat (Unlocks all weights)
   69958: {gems: 1000, flags: []}, // Firefly Mining Flute
   41996: {gems: 200, flags: []}, // Fitted Casual Shirt
   41744: {gems: 125, flags: []}, // Flame Dye Kit
+  70246: {gems: 125, flags: []}, // Flame Dye Kit
+  66326: {gems: 125, flags: []}, // Flame Dye Kit
   43576: {gems: 800, flags: []}, // Flamekissed Light Armor Skin (Container)
   43596: {gems: 133, flags: []}, // Flamekissed Mask Skin (Inside a container)
   43600: {gems: 133, flags: []}, // Flamekissed Mantle Skin (Inside a container)
@@ -191,15 +218,24 @@ export default {
   43008: {gems: 800, flags: []}, // Flute
   78724: {gems: 1000, flags: []}, // Focused Solar Logging Tool
   41745: {gems: 125, flags: []}, // Frost Dye Kit
+  70232: {gems: 125, flags: []}, // Frost Dye Kit
+  66327: {gems: 125, flags: []}, // Frost Dye Kit
   48825: {gems: 1000, flags: []}, // Frost Wasp Logging Tool
   67030: {gems: 1000, flags: []}, // Fused Molten Logging Axe
   67032: {gems: 1000, flags: []}, // Fused Molten Sickle
+  36168: {gems: 67, flags: []}, // Fuzzy Bear Hat (Unlocks all weights)
   64755: {gems: 67, flags: []}, // Fuzzy Bear Hat (Unlocks all weights)
   64758: {gems: 67, flags: []}, // Fuzzy Cat Hat (Unlocks all weights)
+  64758: {gems: 67, flags: []}, // Fuzzy Cat Hat (Unlocks all weights)
+  64759: {gems: 67, flags: []}, // Fuzzy Hylek Hat (Unlocks all weights)
   64759: {gems: 67, flags: []}, // Fuzzy Hylek Hat (Unlocks all weights)
   64746: {gems: 67, flags: []}, // Fuzzy Leopard Hat (Unlocks all weights)
+  64746: {gems: 67, flags: []}, // Fuzzy Leopard Hat (Unlocks all weights)
+  20762: {gems: 67, flags: []}, // Fuzzy Panda Hat (Unlocks all weights)
   64744: {gems: 67, flags: []}, // Fuzzy Panda Hat (Unlocks all weights)
+  37209: {gems: 67, flags: []}, // Fuzzy Quaggan Hat (Unlocks all weights)
   64739: {gems: 67, flags: []}, // Fuzzy Quaggan Hat (Unlocks all weights)
+  36515: {gems: 67, flags: []}, // Fuzzy Quaggan Hat with Bow (Unlocks all weights)
   64751: {gems: 67, flags: []}, // Fuzzy Quaggan Hat with Bow (Unlocks all weights)
   37214: {gems: 150, flags: ['booster']}, // Gathering Booster
   48951: {gems: 150, flags: ['booster']}, // Gathering Booster
@@ -210,6 +246,7 @@ export default {
   79010: {gems: 500, flags: []}, // Glide-r-Tron
   67857: {gems: 167, flags: []}, // Glint's Gaze Mask (Unlocks all weights)
   68005: {gems: 125, flags: []}, // Glint's Winter Dye Kit
+  70236: {gems: 125, flags: []}, // Glint's Winter Dye Kit
   78909: {gems: 1000, flags: []}, // Glitter Bomb Harvesting Tool
   70277: {gems: 500, flags: []}, // Glittering Wings Backpack
   21268: {gems: 75, flags: ['booster']}, // Glory Booster
@@ -247,6 +284,7 @@ export default {
   46499: {gems: 600, flags: []}, // Infinite Continue Coin
   18827: {gems: 32, flags: ['daily']}, // Instant Repair Canister
   19992: {gems: 32, flags: ['daily']}, // Instant Repair Canister
+  20229: {gems: 50, flags: []}, // Inventor's Sunglasses (Unlocks all weights)
   64747: {gems: 50, flags: []}, // Inventor's Sunglasses (Unlocks all weights)
   78006: {gems: 500, flags: []}, // Ironclad Glider (Inside a container)
   78010: {gems: 700, flags: []}, // Ironclad Outfit (Inside a container)
@@ -258,6 +296,7 @@ export default {
   67990: {gems: 700, flags: []}, // Jungle Explorer Outfit
   8441: {gems: 75, flags: ['booster']}, // Karma Booster
   20001: {gems: 75, flags: ['booster']}, // Karma Booster
+  92843: {gems: 75, flags: ['booster']}, // Karma Booster
   49021: {gems: 600, flags: []}, // Kasmeer's Staff Skin
   39532: {gems: 150, flags: []}, // Khaki Cargo Shorts
   19999: {gems: 125, flags: ['booster']}, // Killstreak Experience Booster
@@ -291,8 +330,11 @@ export default {
   42967: {gems: 500, flags: []}, // Lightning Kite
   68656: {gems: 100, flags: []}, // Lion Mask Skin (Unlocks all weights)
   43078: {gems: 125, flags: []}, // Lion's Arch Commemorative Dye Kit
+  70247: {gems: 125, flags: []}, // Lion's Arch Commemorative Dye Kit
   69934: {gems: 125, flags: []}, // Lion's Arch Rebuild Dye Kit
+  93949: {gems: 125, flags: []}, // Lion's Arch Rebuild Dye Kit
   64254: {gems: 125, flags: []}, // Lion's Arch Survivors Dye Kit
+  70233: {gems: 125, flags: []}, // Lion's Arch Survivors Dye Kit
   67394: {gems: 1000, flags: []}, // Log-r-Tron
   79179: {gems: 600, flags: []}, // Lord Caudecus's Pistol Skin
   79089: {gems: 600, flags: []}, // Lord Caudecus's Sword Skin
@@ -302,8 +344,10 @@ export default {
   78727: {gems: 350, flags: []}, // Macaw Wings Glider (Inside a container)
   78732: {gems: 350, flags: []}, // Macaw Wings Backpack (Inside a container)
   70367: {gems: 125, flags: []}, // Mad King Dye Kit
+  79345: {gems: 125, flags: []}, // Mad King Dye Kit
   36366: {gems: 700, flags: []}, // Mad King's Outfit (Container)
   65196: {gems: 700, flags: []}, // Mad King's Outfit (Inside a container)
+  36361: {gems: 0, flags: []}, // Scepter of Thorn (Inside a container)
   49943: {gems: 0, flags: []}, // Scepter of Thorn (Inside a container)
   69753: {gems: 700, flags: []}, // Mad Scientist Outfit
   69478: {gems: 1000, flags: []}, // Mad Scientist's Harvesting Tool
@@ -312,6 +356,7 @@ export default {
   67356: {gems: 250, flags: []}, // Magic Carpet
   8446: {gems: 150, flags: ['booster']}, // Magic Find Booster
   20006: {gems: 150, flags: ['booster']}, // Magic Find Booster
+  92859: {gems: 150, flags: ['booster']}, // Magic Find Booster
   43158: {gems: 800, flags: []}, // Magitech Medium Armor Skin (Container)
   43191: {gems: 133, flags: []}, // Magitech Helmet Skin (Inside a container)
   43195: {gems: 133, flags: []}, // Magitech Shoulderpad Skin (Inside a container)
@@ -326,6 +371,7 @@ export default {
   49018: {gems: 600, flags: []}, // Marjory's Dagger Skin
   42888: {gems: 800, flags: []}, // Marriner's Horn
   44609: {gems: 133, flags: []}, // Mask of the Crown (Unlocks all weights)
+  44632: {gems: 133, flags: []}, // Mask of the Crown (Unlocks all weights)
   44607: {gems: 133, flags: []}, // Mask of the Jubilee (Unlocks all weights)
   44608: {gems: 133, flags: []}, // Mask of the Queen (Unlocks all weights)
   44622: {gems: 133, flags: []}, // Mask of the Queen (Unlocks all weights)
@@ -335,6 +381,7 @@ export default {
   20018: {gems: 32, flags: ['daily']}, // Merchant Express
   42877: {gems: 125, flags: ['daily']}, // Metabolic Primer
   47900: {gems: 125, flags: []}, // Metallurgic Dye Kit
+  70241: {gems: 125, flags: []}, // Metallurgic Dye Kit
   67396: {gems: 1000, flags: []}, // Mine-r-Tron
   70234: {gems: 400, flags: []}, // Mini Angry Chest
   77621: {gems: 400, flags: []}, // Mini Angry Wintersday Gift
@@ -342,9 +389,9 @@ export default {
   77649: {gems: 400, flags: []}, // Mini Arrowhead
   67841: {gems: 350, flags: []}, // Mini Avatar of the Tree
   36169: {gems: 500, flags: []}, // Mini Avian 3 Pack (Container)
-  42959: {gems: 167, flags: []}, // Miniature Hawk (Inside a container)
-  42958: {gems: 167, flags: []}, // Miniature Raven (Inside a container)
-  42957: {gems: 167, flags: []}, // Miniature Snow Owl (Inside a container)
+  42959: {gems: 167, flags: []}, // Mini Hawk (Inside a container)
+  42958: {gems: 167, flags: []}, // Mini Raven (Inside a container)
+  42957: {gems: 167, flags: []}, // Mini Snow Owl (Inside a container)
   69667: {gems: 400, flags: []}, // Mini Bear Cub
   69690: {gems: 500, flags: []}, // Mini Beetle
   42592: {gems: 400, flags: []}, // Mini Black Bear Cub
@@ -377,25 +424,26 @@ export default {
   67838: {gems: 350, flags: []}, // Mini Sand Giant
   42960: {gems: 500, flags: []}, // Mini Scruffy
   69672: {gems: 400, flags: []}, // Mini Snow Cougar Cub
+  42586: {gems: 400, flags: []}, // Mini Snow Cougar Cub
   77581: {gems: 500, flags: []}, // Mini Snow Flurry Dragon
   70231: {gems: 350, flags: []}, // Mini Tiger
   77574: {gems: 200, flags: []}, // Mini Tizlak
   42591: {gems: 400, flags: []}, // Mini White Kitten
   70191: {gems: 350, flags: []}, // Mini Wyvern
   77675: {gems: 350, flags: []}, // Mini Zintl Cavalier
-  67837: {gems: 350, flags: []}, // Miniature Belinda Delaqua
-  69621: {gems: 350, flags: []}, // Miniature Moose
-  68610: {gems: 350, flags: []}, // Miniature Ram
-  36320: {gems: 500, flags: []}, // Miniature Spooky Trio (Container)
-  36323: {gems: 500, flags: []}, // Chainsaw the Skeleton (Combined in Mystic Forge)
+  67837: {gems: 350, flags: []}, // Mini Belinda Delaqua
+  69621: {gems: 350, flags: []}, // Mini Moose
+  68610: {gems: 350, flags: []}, // Mini Ram
+  36320: {gems: 500, flags: []}, // Mini Spooky Trio (Container)
+  36323: {gems: 500, flags: []}, // Mini Chainsaw the Skeleton (Combined in Mystic Forge)
   36317: {gems: 167, flags: []}, // Mini Spooky Ghost (Inside a container)
   36319: {gems: 167, flags: []}, // Mini Spooky Spider (Inside a container)
   36321: {gems: 167, flags: []}, // Mini Spooky Skeleton (Inside a container)
-  41907: {gems: 500, flags: []}, // Miniature Super Trio (Container)
+  41907: {gems: 500, flags: []}, // Mini Super Trio (Container)
   41909: {gems: 167, flags: []}, // Mini Super Bee Dog (Inside a container)
   41910: {gems: 167, flags: []}, // Mini Super Monkey (Inside a container)
   41908: {gems: 167, flags: []}, // Mini Super Spider (Inside a container)
-  46498: {gems: 500, flags: []}, // Miniature Super Trio—World 2 (Container)
+  46498: {gems: 500, flags: []}, // Mini Super Trio—World 2 (Container)
   46497: {gems: 500, flags: []}, // Mini Super Assassin (Combined in Mystic Forge)
   46494: {gems: 167, flags: []}, // Mini Super Banana (Inside a container)
   46496: {gems: 167, flags: []}, // Mini Super Yeti (Inside a container)
@@ -454,17 +502,19 @@ export default {
   43173: {gems: 133, flags: []}, // Phoenix Shoe Skin (Inside a container)
   20251: {gems: 700, flags: []}, // Pirate Captain's Outfit (Container)
   64754: {gems: 700, flags: []}, // Pirate Captain's Outfit (Inside a container)
+  20261: {gems: 0, flags: []}, // Pirate Sword (Inside a container)
+  31850: {gems: 0, flags: []}, // Pirate Sword (Inside a container)
   49942: {gems: 0, flags: []}, // Pirate Sword (Inside a container)
   79391: {gems: 100, flags: []}, // Pirate Hook Skin (Unlocks all weights)
   39511: {gems: 300, flags: []}, // Plush Charr Backpack Set (Container)
   39512: {gems: 300, flags: []}, // Plush Charr Backpack Cover (Inside a container)
-  38455: {gems: 350, flags: []}, // Plush Griffon
+  38455: {gems: 350, flags: []}, // Mini Plush Griffon
   44733: {gems: 300, flags: []}, // Plush Moto Backpack Cover (Container)
-  46493: {gems: 300, flags: []}, // Plush Moto Backpack Cover (Container)
+  44735: {gems: 300, flags: []}, // Plush Moto Backpack Cover (Container)
   46492: {gems: 300, flags: []}, // Plush Moto Backpack Cover (Inside a container)
-  44735: {gems: 300, flags: []}, // Plush Moto Backpack Cover (Inside a container)
-  39137: {gems: 300, flags: []}, // Plush Quaggan Backpack Cover (Container)
-  39131: {gems: 300, flags: []}, // Plush Quaggan Backpack Cover (Inside a container)
+  46493: {gems: 300, flags: []}, // Plush Moto Backpack Cover (Inside a container)
+  39131: {gems: 300, flags: []}, // Plush Quaggan Backpack Cover (Container)
+  39137: {gems: 300, flags: []}, // Plush Quaggan Backpack Cover (Inside a container)
   68611: {gems: 300, flags: []}, // Plush Ram Backpack Set (Container)
   68612: {gems: 300, flags: []}, // Plush Ram Backpack (Inside a container)
   20272: {gems: 500, flags: []}, // Primeval Heavy Armor Skin (Container)
@@ -486,7 +536,7 @@ export default {
   20275: {gems: 83, flags: []}, // Primeval Warboots (Inside a container)
   20276: {gems: 83, flags: []}, // Primeval Warboots (Inside a container)
   39194: {gems: 83, flags: []}, // Primeval Warboots (Inside a container)
-  38451: {gems: 350, flags: []}, // Princess Doll
+  38451: {gems: 350, flags: []}, // Mini Princess Doll
   20274: {gems: 500, flags: []}, // Profane Light Armor Skin (Container)
   20294: {gems: 83, flags: []}, // Profane Masque (Inside a container)
   20293: {gems: 83, flags: []}, // Profane Masque (Inside a container)
@@ -515,18 +565,24 @@ export default {
   64000: {gems: 133, flags: []}, // Rampart Heavy Gauntlet Skin (Inside a container)
   64020: {gems: 133, flags: []}, // Rampart Heavy Legplate Skin (Inside a container)
   64015: {gems: 133, flags: []}, // Rampart Heavy Warboot Skin (Inside a container)
+  20222: {gems: 50, flags: []}, // Reading Glasses (Unlocks all weights)
   64748: {gems: 50, flags: []}, // Reading Glasses (Unlocks all weights)
   67395: {gems: 1000, flags: []}, // Reap-r-Tron
   68652: {gems: 600, flags: []}, // Red Envelope Mail Carrier
   68614: {gems: 250, flags: []}, // Red Lantern
+  77763: {gems: 250, flags: []}, // Red Lantern
   67405: {gems: 500, flags: []}, // Replica Job-o-Tron Backpack (Container)
   67421: {gems: 500, flags: []}, // Replica Job-o-Tron Backpack (Inside a container)
+  67404: {gems: 500, flags: []}, // Replica Job-o-Tron Backpack (Inside a container)
   69715: {gems: 350, flags: []}, // Revenant Mail Carrier
   19996: {gems: 250, flags: ['daily']}, // Revive Orb
+  46748: {gems: 250, flags: ['daily']}, // Revive Orb
   39533: {gems: 150, flags: []}, // Riding Boots
+  39134: {gems: 250, flags: []}, // Riding Broom
   49931: {gems: 250, flags: []}, // Riding Broom
   39531: {gems: 150, flags: []}, // Riding Gloves
   39539: {gems: 200, flags: []}, // Riding Pants
+  20247: {gems: 67, flags: []}, // Ringmaster's Hat (Unlocks all weights)
   64745: {gems: 67, flags: []}, // Ringmaster's Hat (Unlocks all weights)
   42661: {gems: 600, flags: []}, // Rox's Quiver Set (Container)
   42663: {gems: 600, flags: []}, // Rox's Quiver Backpack Cover (Inside a container)
@@ -534,15 +590,22 @@ export default {
   44604: {gems: 150, flags: []}, // Royal Pass (2 weeks)
   44605: {gems: 150, flags: []}, // Royal Pass (2 weeks)
   49149: {gems: 1000, flags: []}, // Royal Terrace Pass
+  20263: {gems: 67, flags: []}, // Sailor's Beanie (Unlocks all weights)
   64749: {gems: 67, flags: []}, // Sailor's Beanie (Unlocks all weights)
   47907: {gems: 500, flags: []}, // Scarlet's Champions Mini 3-Pack (Container)
   42956: {gems: 600, flags: []}, // Mini Armored Scarlet Briar (Combined in Mystic Forge)
+  82928: {gems: 600, flags: []}, // Mini Armored Scarlet Briar (Combined in Mystic Forge)
   42954: {gems: 200, flags: []}, // Mini Toxic Warlock (Inside a container)
+  82472: {gems: 200, flags: []}, // Mini Toxic Warlock (Inside a container)
   42955: {gems: 200, flags: []}, // Mini Molten Berserker (Inside a container)
+  83795: {gems: 200, flags: []}, // Mini Molten Berserker (Inside a container)
   42953: {gems: 200, flags: []}, // Mini Aetherblade Admiral (Inside a container)
+  82188: {gems: 200, flags: []}, // Mini Aetherblade Admiral (Inside a container)
   48811: {gems: 133, flags: []}, // Scarlet's Grasp (Unlocks all weights)
   48815: {gems: 133, flags: []}, // Scarlet's Grasp (Unlocks all weights)
   48817: {gems: 133, flags: []}, // Scarlet's Grasp (Unlocks all weights)
+  48813: {gems: 133, flags: []}, // Scarlet's Grasp (Unlocks all weights)
+  48816: {gems: 133, flags: []}, // Scarlet's Grasp (Unlocks all weights)
   48818: {gems: 133, flags: []}, // Scarlet's Spaulders (Unlocks all weights)
   48822: {gems: 133, flags: []}, // Scarlet's Spaulders (Unlocks all weights)
   48824: {gems: 133, flags: []}, // Scarlet's Spaulders (Unlocks all weights)
@@ -551,6 +614,7 @@ export default {
   78574: {gems: 700, flags: []}, // Sentinel Outfit
   66658: {gems: 700, flags: []}, // Shadow Assassin Outfit
   68786: {gems: 125, flags: []}, // Shadow Dye Kit
+  79353: {gems: 125, flags: []}, // Shadow Dye Kit
   68576: {gems: 100, flags: []}, // Shadow of the Dragon Gloves Skin (Unlocks all weights)
   68574: {gems: 100, flags: []}, // Shadow of the Dragon Helmet Skin (Unlocks all weights)
   68575: {gems: 100, flags: []}, // Shadow of the Dragon Shoulder Skin (Unlocks all weights)
@@ -566,8 +630,10 @@ export default {
   78733: {gems: 500, flags: []}, // Sloth Backpack (Inside a container)
   68681: {gems: 350, flags: []}, // Snow Owl Mail Carrier
   77528: {gems: 500, flags: []}, // Snowflake Glider
+  42664: {gems: 250, flags: []}, // Sonic Tunneling Tool
   49948: {gems: 250, flags: []}, // Sonic Tunneling Tool
   77291: {gems: 500, flags: []}, // Soul River Glider
+  20227: {gems: 50, flags: []}, // Sport Sunglasses (Unlocks all weights)
   64743: {gems: 50, flags: []}, // Sport Sunglasses (Unlocks all weights)
   47883: {gems: 167, flags: []}, // Stag Helm Skin (Unlocks all weights)
   42932: {gems: 800, flags: []}, // Storage Expander
@@ -588,6 +654,7 @@ export default {
   42597: {gems: 75, flags: ['booster']}, // Swim Speed Boost
   68682: {gems: 350, flags: []}, // Sylvari Seed Pod Mail Carrier
   67291: {gems: 125, flags: []}, // Taimi's Dye Kit
+  70251: {gems: 125, flags: []}, // Taimi's Dye Kit
   43933: {gems: 500, flags: []}, // Tequatl Rising Mini Pack (Container)
   47844: {gems: 500, flags: []}, // Mini Risen Abomination (Combined in Mystic Forge)
   47842: {gems: 167, flags: []}, // Mini Risen Brute (Inside a container)
@@ -596,15 +663,17 @@ export default {
   49308: {gems: 1000, flags: []}, // Thresher-Sickle 5000
   67063: {gems: 1000, flags: []}, // Tireless Harvesting Minion
   67029: {gems: 1000, flags: []}, // Tireless Logging Minion
+  20264: {gems: 67, flags: []}, // Top Hat (Unlocks all weights)
   64750: {gems: 67, flags: []}, // Top Hat (Unlocks all weights)
   35991: {gems: 350, flags: []}, // Total Makeover Kit
   36285: {gems: 350, flags: []}, // Total Makeover Kit
   48954: {gems: 125, flags: []}, // Toxic Dye Kit
+  70240: {gems: 125, flags: []}, // Toxic Dye Kit
   49031: {gems: 133, flags: []}, // Toxic Gloves Skin (Unlocks all weights)
   49024: {gems: 133, flags: []}, // Toxic Mantle Skin (Unlocks all weights)
-  38454: {gems: 350, flags: []}, // Toy Golem
-  38453: {gems: 350, flags: []}, // Toy Soldier
-  38452: {gems: 350, flags: []}, // Toy Ventari
+  38454: {gems: 350, flags: []}, // Mini Toy Golem
+  38453: {gems: 350, flags: []}, // Mini Toy Soldier
+  38452: {gems: 350, flags: []}, // Mini Toy Ventari
   20017: {gems: 50, flags: ['daily']}, // Trading Post Express
   64736: {gems: 25, flags: ['daily']}, // Transmutation Charge
   64737: {gems: 25, flags: ['daily']}, // Transmutation Charge
@@ -638,12 +707,15 @@ export default {
   79016: {gems: 400, flags: []}, // White Mantle Glider (Inside a container)
   78011: {gems: 700, flags: []}, // White Mantle Outfit (Inside a container)
   70009: {gems: 350, flags: []}, // White Feather Wings Glider (Inside a container)
+  20231: {gems: 50, flags: []}, // Wide Rim Glasses (Unlocks all weights)
   64753: {gems: 50, flags: []}, // Wide Rim Glasses (Unlocks all weights)
   43076: {gems: 500, flags: []}, // Wind Kite
   77804: {gems: 350, flags: []}, // Wings of Love Glider
   90015: {gems: 350, flags: []}, // Wings of Love Backpack Skin
   77470: {gems: 125, flags: []}, // Winter Chimes Dye Kit
+  79321: {gems: 125, flags: []}, // Winter Chimes Dye Kit
   77595: {gems: 700, flags: []}, // Winter Solstice Outfit (Inside a container)
+  38053: {gems: 8, flags: []}, // Wintersday Earmuffs (Unlocks all weights)
   65200: {gems: 8, flags: []}, // Wintersday Earmuffs (Unlocks all weights)
   42978: {gems: 500, flags: []}, // Wintersday Minis 3-Pack (Container)
   49294: {gems: 500, flags: []}, // Mini Dolyak Calf (Inside a container)
@@ -653,8 +725,10 @@ export default {
   77494: {gems: 500, flags: []}, // Wintersday Wreath Backpack (Inside a container)
   36379: {gems: 700, flags: []}, // Witch's Outfit
   65201: {gems: 700, flags: []}, // Witch's Outfit (Inside a container)
+  36373: {gems: 0, flags: []}, // Enchanted Broom (Inside a container)
   49932: {gems: 0, flags: []}, // Enchanted Broom (Inside a container)
   49935: {gems: 0, flags: []}, // Enchanted Broom (Inside a container)
+  36709: {gems: 67, flags: []}, // Wizard's Hat (Unlocks all weights)
   64757: {gems: 67, flags: []}, // Wizard's Hat (Unlocks all weights)
   66309: {gems: 133, flags: []}, // Wreath of Cooperation (Unlocks all weights)
   8449: {gems: 135, flags: ['booster']}, // WXP Booster
@@ -664,11 +738,16 @@ export default {
   45057: {gems: 135, flags: ['booster']}, // WXP Booster
   45058: {gems: 135, flags: ['booster']}, // WXP Booster
   45059: {gems: 135, flags: ['booster']}, // WXP Booster
+  73639: {gems: 135, flags: ['booster']}, // WXP Booster
   79014: {gems: 133, flags: []}, // Xera's Mask (Unlocks all weights)
   43934: {gems: 250, flags: []}, // Zephyrite Color Swatch: Blue
+  77597: {gems: 250, flags: []}, // Zephyrite Color Swatch: Blue
   36177: {gems: 250, flags: []}, // Zephyrite Color Swatch: Green
+  77625: {gems: 250, flags: []}, // Zephyrite Color Swatch: Green
   36178: {gems: 250, flags: []}, // Zephyrite Color Swatch: Red
+  77577: {gems: 250, flags: []}, // Zephyrite Color Swatch: Red
   36175: {gems: 250, flags: []}, // Zephyrite Color Swatch: Yellow
+  77670: {gems: 250, flags: []}, // Zephyrite Color Swatch: Yellow
   8468: {gems: 1000, flags: []}, // Zephyrite Rescue Pack
   43016: {gems: 800, flags: []}, // Zodiac Heavy Armor Skin (Container)
   43026: {gems: 133, flags: []}, // Zodiac Heavy Warhelm Skin (Inside a container)
@@ -720,6 +799,7 @@ export default {
   80019: {gems: 400, flags: []}, // Scruffy Backpack
   80067: {gems: 1000, flags: []}, // Celestial Rooster Harvesting Tool
   80069: {gems: 125, flags: []}, // Solar and Lunar Dye Kit
+  82315: {gems: 125, flags: []}, // Solar and Lunar Dye Kit
   80484: {gems: 500, flags: []}, // Necrotic Glider
   80077: {gems: 700, flags: []}, // Rox's Pathfinder Outfit
   80066: {gems: 500, flags: []}, // Celestial Rooster Glider
@@ -733,12 +813,16 @@ export default {
   80906: {gems: 700, flags: []}, // Spring Promenade Outfit
   80878: {gems: 500, flags: []}, // Mini Super Storm Wizard (Combined in Mystic Forge)
   80974: {gems: 125, flags: []}, // Primordus Dye Kit
+  82262: {gems: 125, flags: []}, // Primordus Dye Kit
+  94469: {gems: 125, flags: []}, // Primordus Dye Kit
   79702: {gems: 400, flags: []}, // Plush Baby Aurene Backpack (Inside a container)
   79705: {gems: 700, flags: []}, // Marjory's Shrouded Outfit
   80966: {gems: 1000, flags: []}, // Super Adventure Logging Bear
+  79498: {gems: 150, flags: []}, // Lava Lounge Pass (2 Weeks)
   79612: {gems: 150, flags: []}, // Lava Lounge Pass (2 weeks)
   79695: {gems: 125, flags: []}, // Vibrant Dye Kit
-  80939: {gems: 600, flags: []}, // Miniature Super Trio—Series 3 (Container)
+  82662: {gems: 125, flags: []}, // Vibrant Dye Kit
+  80939: {gems: 600, flags: []}, // Mini Super Trio—Series 3 (Container)
   80884: {gems: 200, flags: []}, // Mini Super Snake (Inside a container)
   80903: {gems: 200, flags: []}, // Mini Super Frog (Inside a container)
   80883: {gems: 200, flags: []}, // Mini Super Goat (Inside a container)
@@ -763,10 +847,12 @@ export default {
   81223: {gems: 700, flags: []}, // Outlaw Outfit
   81291: {gems: 400, flags: []}, // Magic Carpet Glider
   81545: {gems: 125, flags: []}, // Jormag Dye Kit
+  88293: {gems: 125, flags: []}, // Jormag Dye Kit
+  94556: {gems: 125, flags: []}, // Jormag Dye Kit
   81293: {gems: 167, flags: []}, // Foefire Wraps (Unlocks all weights)
   81412: {gems: 167, flags: []}, // Foefire Mantle (Unlocks all weights)
-  81567: {gems: 350, flags: []}, // God-Slayer Longbow (Inside a container)
-  81560: {gems: 350, flags: []}, // God-Slayer Short Bow (Inside a container)
+  81567: {gems: 350, flags: []}, // God-Slayer Longbow Skin (Inside a container)
+  81560: {gems: 350, flags: []}, // God-Slayer Short Bow Skin (Inside a container)
   81594: {gems: 1200, flags: []}, // Black Lion Hunters Contract
   81547: {gems: 350, flags: []}, // Dynamics Glider Module (Inside a container)
   81557: {gems: 350, flags: []}, // Dynamics Projector Module (Inside a container)
@@ -774,9 +860,11 @@ export default {
   81583: {gems: 134, flags: []}, // Fuzzy Aurene Hat (Unlocks all weights)
   81565: {gems: 400, flags: []}, // Mini Plush Aurene
   81664: {gems: 1000, flags: []}, // Mistlock Sanctuary Passkey
+  81912: {gems: 150, flags: []}, // Mistlock Sanctuary Passkey (2 weeks)
   81832: {gems: 150, flags: []}, // Mistlock Sanctuary Passkey (2 Weeks)
   81901: {gems: 125, flags: []}, // Mini Dwayna's Messenger (Random BLC Drop)
   81888: {gems: 63, flags: []}, // Feathers of the Zephyr (Inside a container / Random BLC Drop)
+  87005: {gems: 63, flags: []}, // Feathers of the Zephyr (Inside a container / Random BLC Drop)
   81854: {gems: 63, flags: []}, // Golden Zephyr Backpiece (Inside a container / Random BLC Drop)
   82011: {gems: 400, flags: []}, // Abaddon's Glider
   82152: {gems: 2000, flags: []}, // Black Lion Instant Level 80 Ticket
@@ -792,7 +880,7 @@ export default {
   82671: {gems: 350, flags: []}, // Largos Fin Glider
   84241: {gems: 250, flags: []}, // Largos Fin Backpack
   85034: {gems: 700, flags: []}, // Forged Outfit
-  84998: {gems: 400, flags: []}, // Mini Maraca Choya Pinata
+  84998: {gems: 400, flags: []}, // Mini Maraca Choya Piñata
   85192: {gems: 600, flags: []}, // Trained Choya Hammer Skin
   82081: {gems: 1000, flags: []}, // Invitation to "Lily of the Elon"
   82075: {gems: 700, flags: []}, // Sunspear Outfit
@@ -800,11 +888,11 @@ export default {
   84873: {gems: 400, flags: []}, // Mini Zaishen Puppy
   85220: {gems: 350, flags: []}, // Branded Wing Glider
   85332: {gems: 350, flags: []}, // Branded Wing Backpack
-  85484: {gems: 400, flags: []}, // Spooky Raptor Mount
-  85472: {gems: 400, flags: []}, // Spooky Springer Mount
-  85444: {gems: 400, flags: []}, // Spooky Skimmer Mount
-  85483: {gems: 400, flags: []}, // Spooky Jackal Mount
-  85423: {gems: 400, flags: []}, // Spooky Griffon Mount
+  85484: {gems: 400, flags: []}, // Spooky Raptor Skin
+  85472: {gems: 400, flags: []}, // Spooky Springer Skin
+  85444: {gems: 400, flags: []}, // Spooky Skimmer Skin
+  85483: {gems: 400, flags: []}, // Spooky Jackal Skin
+  85423: {gems: 400, flags: []}, // Spooky Griffon Skin
   85435: {gems: 25, flags: []}, // Mini Spooky Raptor (Random BLC Drop)
   85458: {gems: 25, flags: []}, // Mini Spooky Springer (Random BLC Drop)
   85467: {gems: 25, flags: []}, // Mini Spooky Skimmer (Random BLC Drop)
@@ -826,6 +914,7 @@ export default {
   85582: {gems: 500, flags: []}, // Black Lion Universal Outfit Ticket (Inside a container)
   85517: {gems: 350, flags: []}, // Mini Kormeerkat
   86163: {gems: 125, flags: []}, // Elonian Landscape Dye Kit
+  88360: {gems: 125, flags: []}, // Elonian Landscape Dye Kit
   85491: {gems: 2000, flags: []}, // Resplendent Avialan Raptor Skin
   85740: {gems: 700, flags: []}, // First Follower Desmina Outfit
   85757: {gems: 700, flags: []}, // Permanent Choya Finisher
@@ -846,6 +935,7 @@ export default {
   86897: {gems: 167, flags: []}, // Jackal Rune Greaves (Unlocks all weights)
   86904: {gems: 167, flags: []}, // Jackal Rune Gauntlets (Unlocks all weights)
   86898: {gems: 125, flags: []}, // Zhaitan Dye Kit
+  88275: {gems: 125, flags: []}, // Zhaitan Dye Kit
   86899: {gems: 2000, flags: []}, // Grand Lion Griffon Skin
   86739: {gems: 600, flags: []}, // Arcane Marksman Rifle
   86943: {gems: 1000, flags: []}, // Lucky Dog Harvesting Tool
@@ -865,8 +955,11 @@ export default {
   87366: {gems: 200, flags: []}, // Mini Super Piranha (Inside a container)
   87343: {gems: 200, flags: []}, // Mini Super Bunny (Inside a container)
   87309: {gems: 200, flags: []}, // Mini Super Turtle (Inside a container)
+  5792: {gems: 134, flags: []}, // Winged Headpiece (Unlocks all weights)
+  11218: {gems: 134, flags: []}, // Winged Headpiece (Unlocks all weights)
+  11225: {gems: 134, flags: []}, // Winged Headpiece (Unlocks all weights)
   87311: {gems: 134, flags: []}, // Winged Headpiece (Unlocks all weights)
-  87425: {gems: 1000, flags: []}, // Shifting Sand Mining Pick
+  87425: {gems: 1000, flags: []}, // Shifting Sands Mining Pick
   87399: {gems: 125, flags: []}, // Celestial Compass Skin (Random BLC Drop)
   87429: {gems: 400, flags: []}, // Beastslayer Glider
   87478: {gems: 600, flags: []}, // Suntouched Scythe Staff Skin
@@ -902,6 +995,7 @@ export default {
   88340: {gems: 500, flags: []}, // Timekeeper Glider
   88321: {gems: 700, flags: []}, // Timekeeper Outfit
   88258: {gems: 125, flags: []}, // Mordremoth Dye Kit
+  91668: {gems: 125, flags: []}, // Mordremoth Dye Kit
   88355: {gems: 1000, flags: []}, // Choya Mining Tool
   88409: {gems: 600, flags: []}, // Emblazoned Dragon Throne
   88431: {gems: 400, flags: []}, // Shattered Cathedral Glider
@@ -967,11 +1061,12 @@ export default {
   90093: {gems: 350, flags: []}, // Legion Jetpack Glider (Inside a container)
   87578: {gems: 2000, flags: []}, // Magnificent Hummingbird Skimmer Skin
   86786: {gems: 1000, flags: []}, // Black Lion Garden Plot Deed
-  88979: {gems: 1000, flags: []}, // Black Lion Expedition Contract
+  88979: {gems: 1000, flags: []}, // Season 3 Expedition Contract
   88775: {gems: 2000, flags: []}, // Dreadnought Raptor Skin
   90165: {gems: 400, flags: []}, // Exotic Breeds Mount Adoption License
   90335: {gems: 800, flags: []}, // Recharging Teleport to Friend
   90127: {gems: 600, flags: []}, // Ritualist Staff Skin
+  90137: {gems: 600, flags: []}, // Ritualist Staff Skin
   90113: {gems: 700, flags: []}, // Ritualist Outfit
   87360: {gems: 1200, flags: []}, // Istani Isles Mount Select License
   90460: {gems: 63, flags: []}, // Branded Relic Backpiece (Inside a container / Random BLC Drop)
@@ -1021,6 +1116,7 @@ export default {
   91982: {gems: 2000, flags: []}, // Primal Spirit Jackal Skin
   92100: {gems: 125, flags: []}, // Golden Talon Longbow (Random BLC Drop)
   91654: {gems: 125, flags: []}, // Charr Dye Kit
+  93950: {gems: 125, flags: []}, // Charr Dye Kit
   91998: {gems: 700, flags: []}, // Mage Knight Outfit
   92020: {gems: 350, flags: []}, // Citadel Assault Pack (Inside a container)
   92039: {gems: 350, flags: []}, // Citadel Assault Glider (Inside a container)
@@ -1034,6 +1130,7 @@ export default {
   92160: {gems: 400, flags: []}, // Mad King Springer Skin (Inside a container)
   92185: {gems: 400, flags: []}, // Mad King Jackal Skin (Inside a container)
   92189: {gems: 400, flags: []}, // Mad King Raptor Skin (Inside a container)
+  39133: {gems: 250, flags: []}, // Bouquet of Roses
   49933: {gems: 250, flags: []}, // Bouquet of Roses
   88462: {gems: 250, flags: []}, // Dragon Emblem Balloon
   88995: {gems: 600, flags: []}, // Festive Harvest Chair
@@ -1047,6 +1144,7 @@ export default {
   92207: {gems: 400, flags: []}, // Great Lodge Chair
   92200: {gems: 700, flags: []}, // Primal Warden Outfit
   92201: {gems: 125, flags: []}, // Norn Dye Kit
+  93961: {gems: 125, flags: []}, // Norn Dye Kit
   92396: {gems: 2000, flags: []}, // Infernal Horror Springer Skin
   92264: {gems: 350, flags: []}, // Shiverpeaks Hunter Glider (Inside a container)
   92398: {gems: 350, flags: []}, // Shiverpeaks Hunter Backpack (Inside a container)
@@ -1100,6 +1198,7 @@ export default {
   93328: {gems: 125, flags: []}, // Vermilion Tail Feather Skin (Random BLC Drop)
   93391: {gems: 42, flags: []}, // Seven Reapers Grasps Skin (Random BLC Drop / Unlocks all weights)
   43431: {gems: 200, flags: []}, // Mini First Mate Horrik (Inside a container)
+  84631: {gems: 200, flags: []}, // Mini First Mate Horrik (Inside a container)
   93401: {gems: 500, flags: []}, // Dragon's Watch Cape (Inside a container)
   93502: {gems: 700, flags: []}, // Dragon's Watch Regalia
   93666: {gems: 1600, flags: []}, // Mordrem Alpha Jackal Skin
@@ -1120,11 +1219,11 @@ export default {
   92209: {gems: 300, flags: []}, // Build Template Expansion
   92203: {gems: 500, flags: []}, // Equipment Template Expansion
   92206: {gems: 500, flags: []}, // Build Storage Expansion
-  93987: {gems: 100, flags: []}, // Immortal Light Halo (Unlocks all weights)
-  94003: {gems: 100, flags: []}, // Immortal Fire Halo (Unlocks all weights)
-  94103: {gems: 133, flags: []}, // Cat-Ear Hood (Unlocks all weights)
-  94139: {gems: 133, flags: []}, // Bat Wings Headpiece (Unlocks all weights)
-  93938: {gems: 167, flags: []}, // Ice Reaver Pauldrons (Unlocks all weights)
+  93987: {gems: 100, flags: []}, // Immortal Light Halo Skin (Unlocks all weights)
+  94003: {gems: 100, flags: []}, // Immortal Fire Halo Skin (Unlocks all weights)
+  94103: {gems: 133, flags: []}, // Cat-Ear Hood Skin (Unlocks all weights)
+  94139: {gems: 133, flags: []}, // Bat Wings Headpiece Skin (Unlocks all weights)
+  93938: {gems: 167, flags: []}, // Ice Reaver Pauldrons Skin (Unlocks all weights)
   94160: {gems: 167, flags: []}, // Ice Reaver Gauntlets (Unlocks all weights)
   94183: {gems: 350, flags: []}, // Volcanic Backpack Skin
   94279: {gems: 350, flags: []}, // Volcanic Glider
@@ -1137,7 +1236,7 @@ export default {
   94088: {gems: 500, flags: []}, // Celestial Ministry Cape
   93876: {gems: 500, flags: []}, // Ice Reaver Cape
   94102: {gems: 600, flags: []}, // Tiger Insignia Axe Skin
-  94211: {gems: 166, flags: []}, // Conjured Starlight Hat Skin(Unlocks all weights)
+  94211: {gems: 166, flags: []}, // Conjured Starlight Hat Skin (Unlocks all weights)
   94061: {gems: 125, flags: []}, // Dark Matter Cape (Random BLC Drop)
   93984: {gems: 63, flags: []}, // Ebon Vanguard Elite Outfit and Shoulders Package (Container)
   93975: {gems: 63, flags: []}, // Ebon Vanguard Elite Shoulders Skin (Inside a container)
@@ -1177,7 +1276,7 @@ export default {
   88308: {gems: 360, flags: []}, // Black Lion Glider Voucher
   88339: {gems: 630, flags: []}, // Black Lion Backpack and Glider Voucher
   95574: {gems: 1600, flags: []}, // White Tiger Jackal Skin
-  95509: {gems: 1600, flags: []}, // Plushy Raptor Skin
+  95509: {gems: 1600, flags: []}, // Plush Raptor Skin
   95493: {gems: 2000, flags: []}, // Synergetics Cyberscale Skyscale Skin
   95487: {gems: 1600, flags: []}, // Synergetics Hoverbike Skimmer Skin
   95364: {gems: 1600, flags: []}, // Hound of Balthazar Warclaw Skin
@@ -1279,7 +1378,7 @@ export default {
   94456: {gems: 600, flags: []}, // Dragon Spirit Focus Skin
   94974: {gems: 600, flags: []}, // Spellfire Torch Skin
   95149: {gems: 600, flags: []}, // Infernal Roar Warhorn Skin
-  95567: {gems: 600, flags: []}, // Ravensoul Greatsword
+  95567: {gems: 600, flags: []}, // Ravensoul Greatsword Skin
   95280: {gems: 600, flags: []}, // Comet Hammer Skin
   94682: {gems: 600, flags: []}, // Hammer of the Three Realms Skin
   95225: {gems: 125, flags: []}, // Vermilion Bow Package (Container (Random BLC Drop))
