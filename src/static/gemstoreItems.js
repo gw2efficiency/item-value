@@ -1676,5 +1676,6 @@ export default {
   67279: {gems: 600, flags: []}, // Waypoint Unlock Box
   81582: {gems: 150, flags: []}, // Winter in Summer Mystery Box
   99357: {gems: 1600, flags: []}, // Wolf Raider Skiff Skin
-  99829: {gems: 600, flags: []} // Restful Hammock Chair
+  99829: {gems: 600, flags: []}, // Restful Hammock Chair
+  99773: {gems: 166, flags: []} // Brawler's Silk Jacket Skin (Unlocks all weights)
 }
