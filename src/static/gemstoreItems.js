@@ -1677,5 +1677,33 @@ export default {
   81582: {gems: 150, flags: []}, // Winter in Summer Mystery Box
   99357: {gems: 1600, flags: []}, // Wolf Raider Skiff Skin
   99829: {gems: 600, flags: []}, // Restful Hammock Chair
-  99773: {gems: 166, flags: []} // Brawler's Silk Jacket Skin (Unlocks all weights)
+  99773: {gems: 166, flags: []}, // Brawler's Silk Jacket Skin (Unlocks all weights)
+  99874: {gems: 1600, flags: []}, // Jade Tech Siege Turtle Skin
+  99879: {gems: 125, flags: []}, // Roundtail Dragon Jade Bot Skin (Random BLC Drop)
+  99858: {gems: 500, flags: []}, // Cosmic Surfer Glider
+  99886: {gems: 600, flags: []}, // Solar Flare Rifle Skin
+  99901: {gems: 400, flags: []}, // Kaineng Lights Mount Adoption License
+  99900: {gems: 1200, flags: []}, // Kaineng Lights Mount Select License
+  99942: {gems: 1600, flags: []}, // Spellbound Skiff Skin
+  99910: {gems: 42, flags: []}, // Infused Aurora Chestguard Skin (Random BLC Drop / Unlocks all weights)
+  99827: {gems: 125, flags: []}, // Hologram Outfit (Random BLC Drop)
+  99758: {gems: 125, flags: []}, // Ebonhawke Crossbow Rifle Skin (Random BLC Drop)
+  99623: {gems: 42, flags: []}, // Scrivener's Knowledge Shoulders Skin (Random BLC Drop / Unlocks all weights)
+  99590: {gems: 63, flags: []}, // Undying Shackles Cape Skin (Random BLC Drop)
+  99622: {gems: 63, flags: []}, // Undying Shackles Glider (Random BLC Drop)
+  99500: {gems: 125, flags: []}, // Fate Unraveling Sword Skin (Random BLC Drop)
+  99367: {gems: 125, flags: []}, // Devil-Rending Cape (Random BLC Drop)
+  99330: {gems: 125, flags: []}, // Fortunate Blossom Fishing Rod Skin (Random BLC Drop)
+  99288: {gems: 125, flags: []}, // Festive Iceberg Skiff Skin (Random BLC Drop)
+  99224: {gems: 125, flags: []}, // Infernal Flail Mace Skin (Random BLC Drop)
+  99124: {gems: 42, flags: []}, // Seven Reapers Breastplate Skin (Random BLC Drop / Unlocks all weights)
+  99102: {gems: 42, flags: []}, // Seven Reapers Legguards Skin (Random BLC Drop / Unlocks all weights)
+  99005: {gems: 125, flags: []}, // Playful Ghost Jade Bot Skin (Random BLC Drop)
+  98882: {gems: 125, flags: []}, // Candlewick Sprite Jade Bot Skin (Random BLC Drop)
+  98668: {gems: 63, flags: []}, // Jade Tech Jetpack Backpack (Random BLC Drop)
+  98646: {gems: 63, flags: []}, // Jade Tech Jetpack Glider (Random BLC Drop)
+  98255: {gems: 125, flags: []}, // Holographic Koi Backpiece Skin (Random BLC Drop)
+  98191: {gems: 42, flags: []}, // Mystical Dragon Horns Helm Skin (Random BLC Drop / Unlocks all weights)
+  98155: {gems: 125, flags: []}, // Jade Tech Chair (Random BLC Drop)
+  97920: {gems: 125, flags: []} // Winged Reverie Skiff Skin (Random BLC Drop)
 }
