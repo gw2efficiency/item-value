@@ -206,7 +206,7 @@ export default {
   5803: [{id: 82450, count: 0.33}], // Exalted Gloves
   11228: [{id: 82450, count: 0.33}], // Exalted Gloves
   87524: [{id: 82450, count: 0.33}], // Exalted Gloves
-  86777: [{id: 82450, count: 1}], // Griffon Hatchling Backpiece
+  86777: [{id: 82450, count: 0.5}], // Griffon Hatchling Backpiece
   85326: [{id: 82450, count: 1}], // Jackal Pup Backpack
   86683: [{id: 82450, count: 0.33}], // Svanir Gauntlets
   87399: [{id: 82450, count: 1}], // Celestial Compass Skin
@@ -298,6 +298,31 @@ export default {
   85458: [{id: 82450, count: 0.2}], // Mini Spooky Springer
   85401: [{id: 82450, count: 0.2}], // Mini Spooky Jackal
   85461: [{id: 82450, count: 0.2}], // Mini Spooky Griffon
+  98255: [{id: 82450, count: 1}], // Holographic Koi Backpiece Skin
+  98191: [{id: 82450, count: 0.33}], // Mystical Dragon Horns Helm Skin
+  95260: [{id: 82450, count: 0.33}], // Seven Reapers Greaves Skin
+  95432: [{id: 82450, count: 0.33}], // Seven Reapers Helm Skin
+  97205: [{id: 82450, count: 1}], // Bloodflame Sword Skin
+  95483: [{id: 82450, count: 1}], // Ebonhawke Crossbow Pistol Skin
+  95225: [{id: 82450, count: 1}], // Vermilion Bow Package
+  95202: [{id: 82450, count: 0.5}], // Vermilion Longbow
+  95172: [{id: 82450, count: 0.5}], // Vermilion Short Bow
+  93975: [{id: 82450, count: 0.5}], // Ebon Vanguard Elite Shoulders Skin
+  85507: [{id: 82450, count: 0.5}], // Fallen Balthazar Outfit
+  85396: [{id: 82450, count: 0.5}], // Fallen Balthazar Helm
+  98488: [{id: 82450, count: 1}], // Jade Tech Jetpack Backpack and Glider Combo
+  98668: [{id: 82450, count: 0.5}], // Jade Tech Jetpack Backpack
+  98646: [{id: 82450, count: 0.5}], // Jade Tech Jetpack Glider
+  98047: [{id: 82450, count: 1}], // Jade Tech Wings Backpack and Glider Combo
+  98008: [{id: 82450, count: 0.5}], // Jade Tech Wings Backpack
+  98033: [{id: 82450, count: 0.5}], // Jade Tech Wings Glider
+  95533: [{id: 82450, count: 1}], // Lunar Backpack and Glider Combo
+  95576: [{id: 82450, count: 0.5}], // Lunar Backpack
+  95531: [{id: 82450, count: 0.5}], // Lunar Glider
+  99005: [{id: 82450, count: 1}], // Playful Ghost Jade Bot Skin
+  98882: [{id: 82450, count: 1}], // Candlewick Sprite Jade Bot Skin
+  97920: [{id: 82450, count: 1}], // Winged Reverie Skiff Skin
+  98155: [{id: 82450, count: 1}], // Jade Tech Chair
 
   // Kaiser Snake Weapons
   78029: [{id: 78105, count: 1}], // Kaiser Snake Axe
