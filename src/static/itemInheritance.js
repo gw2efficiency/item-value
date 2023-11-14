@@ -95,6 +95,11 @@ export default {
   93382: [{id: 93653, count: 0.33}], // Blood Legion Soldier Helm (light)
   93621: [{id: 93653, count: 0.33}], // Blood Legion Soldier Helm (medium)
   93394: [{id: 93653, count: 0.33}], // Blood Legion Soldier Helm (heavy)
+  82432: [{id: 87148, count: 1}], // Ghiwane's Music Box
+  82286: [{id: 86970, count: 1}], // Hafez's Music Box
+  83826: [{id: 87291, count: 1}], // Khadiri's Music Box
+  84566: [{id: 87061, count: 1}], // Nightingale's Music Box
+  83444: [{id: 86987, count: 1}], // Tinari's Music Box
 
   // Raven Ceremonial containers
   92693: [{id: 92739, count: 0.33}], // Raven Ceremonial Sandals (heavy)
