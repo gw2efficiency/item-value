@@ -7,6 +7,7 @@ export default {
   35976: [{id: 35986, count: 1}], // Personal Trader Express
   78217: [{id: 78455, count: 1}], // Endless Repair Canister
   86549: [{id: 86497, count: 1}], // Endless Upgrade Extractor
+  36182: [{id: 99989, count: 1}], // Permanent Mobile Crafting Station 
   49501: [{id: 19721, count: 50}, {gold: 888888}], // Tarrktun Personal Delivery Portal
   67335: [{gold: 3000000}], // Commander's Compendium
 
