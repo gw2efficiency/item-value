@@ -1350,6 +1350,76 @@ export default {
   89426: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Healing to Power
   89427: [{id: 89401, count: 1}], // Toy-Shell Infusion -- Toughness to Power
 
+  // Account Bound infusions get converted to the value of their crafted/container versions
+  94965: [{id: 94978, count: 1}], // Primordus Left Eye Infusion -- Concentration to Power
+  94964: [{id: 94978, count: 1}], // Primordus Left Eye Infusion -- Condition Damage to Power
+  94951: [{id: 94978, count: 1}], // Primordus Left Eye Infusion -- Expertise to Power
+  94943: [{id: 94978, count: 1}], // Primordus Left Eye Infusion -- Healing to Power
+  94935: [{id: 94978, count: 1}], // Primordus Left Eye Infusion -- Precision to Power
+  94957: [{id: 94978, count: 1}], // Primordus Left Eye Infusion -- Toughness to Power
+  94970: [{id: 94978, count: 1}], // Primordus Left Eye Infusion -- Vitality to Power
+  94928: [{id: 94941, count: 1}], // Primordus Right Eye Infusion -- Concentration to Condition Damage
+  94939: [{id: 94941, count: 1}], // Primordus Right Eye Infusion -- Expertise to Condition Damage
+  94930: [{id: 94941, count: 1}], // Primordus Right Eye Infusion -- Healing to Condition Damage
+  94955: [{id: 94941, count: 1}], // Primordus Right Eye Infusion -- Power to Condition Damage
+  94971: [{id: 94941, count: 1}], // Primordus Right Eye Infusion -- Precision to Condition Damage
+  94977: [{id: 94941, count: 1}], // Primordus Right Eye Infusion -- Toughness to Condition Damage
+  94952: [{id: 94941, count: 1}], // Primordus Right Eye Infusion -- Vitality to Condition Damage
+  94937: [{id: 94949, count: 1}], // Jormag Left Eye Infusion -- Concentration to Healing
+  94954: [{id: 94949, count: 1}], // Jormag Left Eye Infusion -- Condition Damage to Healing
+  94969: [{id: 94949, count: 1}], // Jormag Left Eye Infusion -- Expertise to Healing
+  94929: [{id: 94949, count: 1}], // Jormag Left Eye Infusion -- Power to Healing
+  94980: [{id: 94949, count: 1}], // Jormag Left Eye Infusion -- Precision to Healing
+  94963: [{id: 94949, count: 1}], // Jormag Left Eye Infusion -- Toughness to Healing
+  94944: [{id: 94949, count: 1}], // Jormag Left Eye Infusion -- Vitality to Healing
+  94948: [{id: 94979, count: 1}], // Jormag Right Eye Infusion -- Concentration to Precision
+  94958: [{id: 94979, count: 1}], // Jormag Right Eye Infusion -- Condition Damage to Precision
+  94972: [{id: 94979, count: 1}], // Jormag Right Eye Infusion -- Expertise to Precision
+  94934: [{id: 94979, count: 1}], // Jormag Right Eye Infusion -- Healing to Precision
+  94946: [{id: 94979, count: 1}], // Jormag Right Eye Infusion -- Power to Precision
+  94962: [{id: 94979, count: 1}], // Jormag Right Eye Infusion -- Toughness to Precision
+  94938: [{id: 94979, count: 1}], // Jormag Right Eye Infusion -- Vitality to Precision
+  98028: [{id: 98002, count: 1}], // Echo of the Dragonvoid -- Concentration to Glob of Dragonvoid Aether
+  98023: [{id: 98002, count: 1}], // Echo of the Dragonvoid -- Condition Damage to Glob of Dragonvoid Aether
+  98004: [{id: 98002, count: 1}], // Echo of the Dragonvoid -- Expertise to Glob of Dragonvoid Aether
+  98020: [{id: 98002, count: 1}], // Echo of the Dragonvoid -- Healing to Glob of Dragonvoid Aether
+  97993: [{id: 98002, count: 1}], // Echo of the Dragonvoid -- Power to Glob of Dragonvoid Aether
+  98022: [{id: 98002, count: 1}], // Echo of the Dragonvoid -- Precision to Glob of Dragonvoid Aether
+  98066: [{id: 98002, count: 1}], // Echo of the Dragonvoid -- Toughness to Glob of Dragonvoid Aether
+  98043: [{id: 98002, count: 1}], // Echo of the Dragonvoid -- Vitality to Glob of Dragonvoid Aether
+  99894: [{id: 99890, count: 1}], // Mote of Darkness -- Concentration to Lingering Darkness
+  99880: [{id: 99890, count: 1}], // Mote of Darkness -- Condition Damage to Lingering Darkness
+  99869: [{id: 99890, count: 1}], // Mote of Darkness -- Expertise to Lingering Darkness
+  99887: [{id: 99890, count: 1}], // Mote of Darkness -- Healing to Lingering Darkness
+  99878: [{id: 99890, count: 1}], // Mote of Darkness -- Power to Lingering Darkness
+  99882: [{id: 99890, count: 1}], // Mote of Darkness -- Precision to Lingering Darkness
+  99898: [{id: 99890, count: 1}], // Mote of Darkness -- Toughness to Lingering Darkness
+  99881: [{id: 99890, count: 1}], // Mote of Darkness -- Vitality to Lingering Darkness
+  98131: [{id: 98092, count: 1}], // Imperial Everbloom -- Concentration to Imperial Everbloom Sprout
+  98163: [{id: 98092, count: 1}], // Imperial Everbloom -- Condition Damage to Imperial Everbloom Sprout
+  98119: [{id: 98092, count: 1}], // Imperial Everbloom -- Expertise to Imperial Everbloom Sprout
+  98105: [{id: 98092, count: 1}], // Imperial Everbloom -- Healing to Imperial Everbloom Sprout
+  98153: [{id: 98092, count: 1}], // Imperial Everbloom -- Power to Imperial Everbloom Sprout
+  98088: [{id: 98092, count: 1}], // Imperial Everbloom -- Precision to Imperial Everbloom Sprout
+  98083: [{id: 98092, count: 1}], // Imperial Everbloom -- Toughness to Imperial Everbloom Sprout
+  98145: [{id: 98092, count: 1}], // Imperial Everbloom -- Vitality to Imperial Everbloom Sprout
+  99921: [{id: 99956, count: 1}], // Silent Symphony -- Concentration to Enchanted Music Box
+  99948: [{id: 99956, count: 1}], // Silent Symphony -- Condition Damage to Enchanted Music Box
+  99932: [{id: 99956, count: 1}], // Silent Symphony -- Expertise to Enchanted Music Box
+  99929: [{id: 99956, count: 1}], // Silent Symphony -- Healing to Enchanted Music Box
+  99940: [{id: 99956, count: 1}], // Silent Symphony -- Power to Enchanted Music Box
+  99939: [{id: 99956, count: 1}], // Silent Symphony -- Precision to Enchanted Music Box
+  99914: [{id: 99956, count: 1}], // Silent Symphony -- Toughness to Enchanted Music Box
+  99946: [{id: 99956, count: 1}], // Silent Symphony -- Vitality to Enchanted Music Box
+  99790: [{id: 99844, count: 1}], // Mistwalker Infusion -- Concentration to Ball of Charged Mists Essence
+  99784: [{id: 99844, count: 1}], // Mistwalker Infusion -- Condition Damage to Ball of Charged Mists Essence
+  99809: [{id: 99844, count: 1}], // Mistwalker Infusion -- Expertise to Ball of Charged Mists Essence
+  99839: [{id: 99844, count: 1}], // Mistwalker Infusion -- Healing to Ball of Charged Mists Essence
+  99789: [{id: 99844, count: 1}], // Mistwalker Infusion -- Power to Ball of Charged Mists Essence
+  99824: [{id: 99844, count: 1}], // Mistwalker Infusion -- Precision to Ball of Charged Mists Essence
+  99848: [{id: 99844, count: 1}], // Mistwalker Infusion -- Toughness to Ball of Charged Mists Essence
+  99850: [{id: 99844, count: 1}], // Mistwalker Infusion -- Vitality to Ball of Charged Mists Essence
+
   // Legendary Rune
   91381: [{id: 91536, count: 1}], // Superior Rune of Thorns
   91387: [{id: 91536, count: 1}], // Superior Rune of the Mesmer
