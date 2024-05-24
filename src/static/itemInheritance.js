@@ -1419,6 +1419,14 @@ export default {
   99824: [{id: 99844, count: 1}], // Mistwalker Infusion -- Precision to Ball of Charged Mists Essence
   99848: [{id: 99844, count: 1}], // Mistwalker Infusion -- Toughness to Ball of Charged Mists Essence
   99850: [{id: 99844, count: 1}], // Mistwalker Infusion -- Vitality to Ball of Charged Mists Essence
+  99213: [{id: 99250, count: 1}], // Clockwork Infusion -- Concentration to Ever-Spinning Clockwork
+  99195: [{id: 99250, count: 1}], // Clockwork Infusion -- Condition Damage to Ever-Spinning Clockwork
+  99237: [{id: 99250, count: 1}], // Clockwork Infusion -- Expertise to Ever-Spinning Clockwork
+  99248: [{id: 99250, count: 1}], // Clockwork Infusion -- Healing to Ever-Spinning Clockwork
+  99240: [{id: 99250, count: 1}], // Clockwork Infusion -- Power to Ever-Spinning Clockwork
+  99244: [{id: 99250, count: 1}], // Clockwork Infusion -- Precision to Ever-Spinning Clockwork
+  99206: [{id: 99250, count: 1}], // Clockwork Infusion -- Toughness to Ever-Spinning Clockwork
+  99209: [{id: 99250, count: 1}], // Clockwork Infusion -- Vitality to Ever-Spinning Clockwork
 
   // Legendary Rune
   91381: [{id: 91536, count: 1}], // Superior Rune of Thorns
