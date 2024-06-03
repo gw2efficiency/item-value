@@ -1427,7 +1427,6 @@ export default {
   99244: [{id: 99250, count: 1}], // Clockwork Infusion -- Precision to Ever-Spinning Clockwork
   99206: [{id: 99250, count: 1}], // Clockwork Infusion -- Toughness to Ever-Spinning Clockwork
   99209: [{id: 99250, count: 1}], // Clockwork Infusion -- Vitality to Ever-Spinning Clockwork
-
   100914: [{id: 100244, count: 1}], // Possession Infusion -- Concentration to Jar of Dangerous Spirits
   100806: [{id: 100244, count: 1}], // Possession Infusion -- Condition Damage to Jar of Dangerous Spirits
   100513: [{id: 100244, count: 1}], // Possession Infusion -- Expertise to Jar of Dangerous Spirits
