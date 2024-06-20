@@ -1616,5 +1616,23 @@ export default {
   91603: [{id: 91505, count: 1}], // Superior Sigil of Cruelty
   91604: [{id: 91505, count: 1}], // Superior Sigil of Blood
   91607: [{id: 91505, count: 1}], // Superior Sigil of Accuracy
-  91609: [{id: 91505, count: 1}] // Superior Sigil of Smothering
+  91609: [{id: 91505, count: 1}], // Superior Sigil of Smothering
+  
+  //Dragonrender Weapons
+  99807: [{id: 102002, count: 1}], // Dragonrender Axe
+  99823: [{id: 102002, count: 1}], // Dragonrender Dagger
+  99810: [{id: 102002, count: 1}], // Dragonrender Focus
+  99801: [{id: 102002, count: 1}], // Dragonrender Greatsword
+  99813: [{id: 102002, count: 1}], // Dragonrender Hammer
+  99833: [{id: 102002, count: 1}], // Dragonrender Longbow
+  99846: [{id: 102002, count: 1}], // Dragonrender Mace
+  99851: [{id: 102002, count: 1}], // Dragonrender Pistol
+  99832: [{id: 102002, count: 1}], // Dragonrender Blunderbuss
+  99822: [{id: 102002, count: 1}], // Dragonrender Scepter
+  99853: [{id: 102002, count: 1}], // Dragonrender Shield
+  99774: [{id: 102002, count: 1}], // Dragonrender Short Bow
+  99777: [{id: 102002, count: 1}], // Dragonrender Staff
+  99834: [{id: 102002, count: 1}], // Dragonrender Sword
+  99821: [{id: 102002, count: 1}], // Dragonrender Torch
+  99798: [{id: 102002, count: 1}], // Dragonrender Warhorn
 }
