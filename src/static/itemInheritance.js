@@ -1617,8 +1617,8 @@ export default {
   91604: [{id: 91505, count: 1}], // Superior Sigil of Blood
   91607: [{id: 91505, count: 1}], // Superior Sigil of Accuracy
   91609: [{id: 91505, count: 1}], // Superior Sigil of Smothering
-  
-  //Dragonrender Weapons
+
+  // Dragonrender Weapons
   99807: [{id: 102002, count: 1}], // Dragonrender Axe
   99823: [{id: 102002, count: 1}], // Dragonrender Dagger
   99810: [{id: 102002, count: 1}], // Dragonrender Focus
@@ -1634,5 +1634,5 @@ export default {
   99777: [{id: 102002, count: 1}], // Dragonrender Staff
   99834: [{id: 102002, count: 1}], // Dragonrender Sword
   99821: [{id: 102002, count: 1}], // Dragonrender Torch
-  99798: [{id: 102002, count: 1}], // Dragonrender Warhorn
+  99798: [{id: 102002, count: 1}] // Dragonrender Warhorn
 }
