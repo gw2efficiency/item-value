@@ -329,6 +329,19 @@ export default {
   98882: [{id: 82450, count: 1}], // Candlewick Sprite Jade Bot Skin
   97920: [{id: 82450, count: 1}], // Winged Reverie Skiff Skin
   98155: [{id: 82450, count: 1}], // Jade Tech Chair
+  99623: [{id: 82450, count: 0.33}], // Scrivener's Knowledge Shoulders Skin
+  99367: [{id: 82450, count: 1}], // Devil-Rending Cape
+  99124: [{id: 82450, count: 0.33}], // Seven Reapers Breastplate Skin
+  99102: [{id: 82450, count: 0.33}], // Seven Reapers Legguards Skin
+  99758: [{id: 82450, count: 1}], // Ebonhawke Crossbow Rifle Skin
+  99500: [{id: 82450, count: 1}], // Fate Unraveling Sword Skin
+  99224: [{id: 82450, count: 1}], // Infernal Flail Mace Skin
+  99603: [{id: 82450, count: 1}], // Undying Shackles Cape and Glider Combo
+  99622: [{id: 82450, count: 0.5}], // Undying Shackles Glider
+  99590: [{id: 82450, count: 0.5}], // Undying Shackles Cape Skin
+  99879: [{id: 82450, count: 1}], // Roundtail Dragon Jade Bot Skin
+  99288: [{id: 82450, count: 1}], // Festive Iceberg Skiff Skin
+  99330: [{id: 82450, count: 1}], // Fortunate Blossom Fishing Rod Skin
 
   // Kaiser Snake Weapons
   78029: [{id: 78105, count: 1}], // Kaiser Snake Axe
