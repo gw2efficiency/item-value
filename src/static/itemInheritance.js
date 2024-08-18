@@ -1666,4 +1666,8 @@ export default {
   99934: [{id: 102175, count: 1}], // Sun-Grown Sword
   99906: [{id: 102175, count: 1}], // Sun-Grown Torch
   99943: [{id: 102175, count: 1}] // Sun-Grown Warhorn
+  
+  // Black Lion Claim Tickets and Scraps
+  43992: [{id: 95482, count: 1}], // Black Lion Claim Ticket
+  43998: [{id: 95482, count: 0.1}], // Black Lion Claim Ticket Scrap
 }
