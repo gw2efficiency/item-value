@@ -1647,5 +1647,9 @@ export default {
   99777: [{id: 102002, count: 1}], // Dragonrender Staff
   99834: [{id: 102002, count: 1}], // Dragonrender Sword
   99821: [{id: 102002, count: 1}], // Dragonrender Torch
-  99798: [{id: 102002, count: 1}] // Dragonrender Warhorn
+  99798: [{id: 102002, count: 1}], // Dragonrender Warhorn
+  
+  // Black Lion Claim Tickets and Scraps
+  43992: [{id: 95482, count: 1}], // Black Lion Claim Ticket
+  43998: [{id: 95482, count: 0.1}], // Black Lion Claim Ticket Scrap
 }
