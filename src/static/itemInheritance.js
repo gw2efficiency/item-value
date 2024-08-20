@@ -1648,8 +1648,26 @@ export default {
   99834: [{id: 102002, count: 1}], // Dragonrender Sword
   99821: [{id: 102002, count: 1}], // Dragonrender Torch
   99798: [{id: 102002, count: 1}], // Dragonrender Warhorn
-  
+
+  // Sun-Grown Weapons
+  99933: [{id: 102175, count: 1}], // Sun-Grown Axe
+  99915: [{id: 102175, count: 1}], // Sun-Grown Dagger
+  99957: [{id: 102175, count: 1}], // Sun-Grown Focus
+  99938: [{id: 102175, count: 1}], // Sun-Grown Greatsword
+  99919: [{id: 102175, count: 1}], // Sun-Grown Hammer
+  99922: [{id: 102175, count: 1}], // Sun-Grown Longbow
+  99935: [{id: 102175, count: 1}], // Sun-Grown Mace
+  99912: [{id: 102175, count: 1}], // Sun-Grown Pistol
+  99913: [{id: 102175, count: 1}], // Sun-Grown Rifle
+  99925: [{id: 102175, count: 1}], // Sun-Grown Scepter
+  99904: [{id: 102175, count: 1}], // Sun-Grown Shield
+  99924: [{id: 102175, count: 1}], // Sun-Grown Short Bow
+  99923: [{id: 102175, count: 1}], // Sun-Grown Staff
+  99934: [{id: 102175, count: 1}], // Sun-Grown Sword
+  99906: [{id: 102175, count: 1}], // Sun-Grown Torch
+  99943: [{id: 102175, count: 1}], // Sun-Grown Warhorn
+
   // Black Lion Claim Tickets and Scraps
   43992: [{id: 95482, count: 1}], // Black Lion Claim Ticket
-  43998: [{id: 95482, count: 0.1}], // Black Lion Claim Ticket Scrap
+  43998: [{id: 95482, count: 0.1}] // Black Lion Claim Ticket Scrap
 }
