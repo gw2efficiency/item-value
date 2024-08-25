@@ -1446,6 +1446,7 @@ export default {
   100407: [{id: 100244, count: 1}], // Possession Infusion -- Healing to Jar of Dangerous Spirits
   100008: [{id: 100244, count: 1}], // Possession Infusion -- Power to Jar of Dangerous Spirits
   100302: [{id: 100244, count: 1}], // Possession Infusion -- Precision to Jar of Dangerous Spirits
+  100913: [{id: 100244, count: 1}], // Possession Infusion -- Vitality to Jar of Dangerous Spirits
 
   // Legendary Rune
   91381: [{id: 91536, count: 1}], // Superior Rune of Thorns
