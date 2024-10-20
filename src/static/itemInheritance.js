@@ -9,6 +9,7 @@ export default {
   86549: [{id: 86497, count: 1}], // Endless Upgrade Extractor
   36182: [{id: 99989, count: 1}], // Permanent Mobile Crafting Station
   49501: [{id: 19721, count: 50}, {gold: 888888}], // Tarrktun Personal Delivery Portal
+  84440: [{id: 19721, count: 50}, {gold: 888888}], // Collector's Edition Sandstorm
   67335: [{gold: 3000000}], // Commander's Compendium
 
   // Tonics
