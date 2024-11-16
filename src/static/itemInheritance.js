@@ -1671,5 +1671,39 @@ export default {
 
   // Black Lion Claim Tickets and Scraps
   43992: [{id: 95482, count: 1}], // Black Lion Claim Ticket
-  43998: [{id: 95482, count: 0.1}] // Black Lion Claim Ticket Scrap
+  43998: [{id: 95482, count: 0.1}], // Black Lion Claim Ticket Scrap
+
+  // Raid Encounter Containers
+  91203: [{id: 83008, count: 1}], // Vale Guardian Coffer
+  91215: [{id: 83008, count: 1}], // Gorseval's Coffer
+  91147: [{id: 83008, count: 1}], // Sabetha's Coffer
+  91160: [{id: 83008, count: 1}], // Slothasor's Coffer
+  91184: [{id: 83008, count: 1}], // Prison-Camp Chest (container)
+  91252: [{id: 83008, count: 1}], // Matthias's Coffer
+  91262: [{id: 83008, count: 1}], // McLeod's Coffer
+  91187: [{id: 83008, count: 1}], // Keep Construct's Coffer
+  91182: [{id: 83008, count: 1}], // Xera's Coffer
+  91186: [{id: 83008, count: 1}], // Cairn's Coffer
+  91191: [{id: 83008, count: 1}], // Mursaat Overseer's Coffer
+  91267: [{id: 83008, count: 1}], // Samarog's Coffer
+  91233: [{id: 83008, count: 1}], // Deimos's Coffer
+  91211: [{id: 83008, count: 1}], // Desmina's Coffer
+  91244: [{id: 83008, count: 1}], // River of Souls Coffer
+  91138: [{id: 83008, count: 1}], // Statue of Grenth Coffer
+  91220: [{id: 83008, count: 1}], // Dhuum's Coffer
+  91157: [{id: 83008, count: 1}], // Conjured Amalgamate's Coffer
+  91166: [{id: 83008, count: 1}], // Twin Largos' Coffer
+  91237: [{id: 83008, count: 1}], // Qadim's Coffer
+  91241: [{id: 83008, count: 1}], // Cardinal Sabir's Coffer
+  91200: [{id: 83008, count: 1}], // Cardinal Adina's Coffer
+  91260: [{id: 83008, count: 1}], // Qadim the Peerless's Coffer
+
+  // Strike Encounter Containers (CM)
+  99204: [{id: 83008, count: 1}], // Assault Knights' Magnificent Coffer
+  97269: [{id: 83008, count: 1}], // Mai Trin's Magnificent Coffer
+  96638: [{id: 83008, count: 1}], // Ankka's Magnificent Coffer
+  96419: [{id: 83008, count: 1}], // Minister Li's Magnificent Coffer
+  95986: [{id: 83008, count: 1}], // Void's Magnificent Coffer
+  101172: [{id: 83008, count: 1}], // Dagda's Magnificent Coffer
+  101542: [{id: 83008, count: 1}] // Cerus's Magnificent Coffer
 }
