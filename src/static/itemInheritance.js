@@ -1697,6 +1697,9 @@ export default {
   91241: [{id: 83008, count: 1}], // Cardinal Sabir's Coffer
   91200: [{id: 83008, count: 1}], // Cardinal Adina's Coffer
   91260: [{id: 83008, count: 1}], // Qadim the Peerless's Coffer
+  103783: [{id: 83008, count: 1}], // Greer's Coffer
+  103926: [{id: 83008, count: 1}], // Decima's Coffer
+  103946: [{id: 83008, count: 1}], // Ura's Coffer
 
   // Strike Encounter Containers (CM)
   99204: [{id: 83008, count: 1}], // Assault Knights' Magnificent Coffer
