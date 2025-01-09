@@ -1708,5 +1708,186 @@ export default {
   96419: [{id: 83008, count: 1}], // Minister Li's Magnificent Coffer
   95986: [{id: 83008, count: 1}], // Void's Magnificent Coffer
   101172: [{id: 83008, count: 1}], // Dagda's Magnificent Coffer
-  101542: [{id: 83008, count: 1}] // Cerus's Magnificent Coffer
+  101542: [{id: 83008, count: 1}], // Cerus's Magnificent Coffer
+
+  // Luxon Hunter's Weapons
+  99444: [{id: 97435, count: 1}], // Luxon Hunter's Axe
+  99542: [{id: 97435, count: 1}], // Luxon Hunter's Longbow
+  99537: [{id: 97435, count: 1}], // Luxon Hunter's Short Bow
+  99416: [{id: 97435, count: 1}], // Luxon Hunter's Dagger
+  99526: [{id: 97435, count: 1}], // Luxon Hunter's Focus
+  99421: [{id: 97435, count: 1}], // Luxon Hunter's Greatsword
+  99540: [{id: 97435, count: 1}], // Luxon Hunter's Hammer
+  99410: [{id: 97435, count: 1}], // Luxon Hunter's Mace
+  99556: [{id: 97435, count: 1}], // Luxon Hunter's Pistol
+  99516: [{id: 97435, count: 1}], // Luxon Hunter's Rifle
+  99469: [{id: 97435, count: 1}], // Luxon Hunter's Scepter
+  99482: [{id: 97435, count: 1}], // Luxon Hunter's Shield
+  99477: [{id: 97435, count: 1}], // Luxon Hunter's Staff
+  99386: [{id: 97435, count: 1}], // Luxon Hunter's Sword
+  99483: [{id: 97435, count: 1}], // Luxon Hunter's Torch
+  99512: [{id: 97435, count: 1}], // Luxon Hunter's Warhorn
+
+  // Energized Luxon Hunter's Weapons
+  99697: [{id: 99666, count: 1}], // Energized Luxon Hunter's Axe
+  99757: [{id: 99666, count: 1}], // Energized Luxon Hunter's Longbow
+  99718: [{id: 99666, count: 1}], // Energized Luxon Hunter's Short Bow
+  99699: [{id: 99666, count: 1}], // Energized Luxon Hunter's Dagger
+  99652: [{id: 99666, count: 1}], // Energized Luxon Hunter's Focus
+  99726: [{id: 99666, count: 1}], // Energized Luxon Hunter's Greatsword
+  99672: [{id: 99666, count: 1}], // Energized Luxon Hunter's Hammer
+  99727: [{id: 99666, count: 1}], // Energized Luxon Hunter's Mace
+  99667: [{id: 99666, count: 1}], // Energized Luxon Hunter's Pistol
+  99682: [{id: 99666, count: 1}], // Energized Luxon Hunter's Rifle
+  99678: [{id: 99666, count: 1}], // Energized Luxon Hunter's Scepter
+  99743: [{id: 99666, count: 1}], // Energized Luxon Hunter's Shield
+  99671: [{id: 99666, count: 1}], // Energized Luxon Hunter's Staff
+  99752: [{id: 99666, count: 1}], // Energized Luxon Hunter's Sword
+  99730: [{id: 99666, count: 1}], // Energized Luxon Hunter's Torch
+  99656: [{id: 99666, count: 1}], // Energized Luxon Hunter's Warhorn
+
+  // Abyssal Fractal Weapons
+  94042: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Axe Skin
+  94087: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Dagger Skin
+  94011: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Mace Skin
+  94060: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Pistol Skin
+  94022: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Scepter Skin
+  94062: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Sword Skin
+  94071: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Focus Skin
+  94053: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Shield Skin
+  94029: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Torch Skin
+  94025: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Warhorn Skin
+  94068: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Greatsword Skin
+  94077: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Hammer Skin
+  94066: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Longbow Skin
+  94016: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Rifle Skin
+  94083: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Short Bow Skin
+  94031: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Staff Skin
+  94073: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Speargun Skin
+  94072: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Harpoon Skin
+  94058: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Trident Skin
+  94036: [{id: 75439, count: 1}, {id: 19721, count: 40}, {id: 79230, count: 10}], // Abyssal Fractal Weapon Box
+
+  // Lonely Tower Fractal Weapons (Vendor)
+  101739: [{id: 19721, count: 100}, {id: 79230, count: 20}], // Eparch's Sword
+  101750: [{id: 19721, count: 200}, {id: 79230, count: 40}], // Eparch's Greatsword
+  101795: [{id: 75439, count: 1}, {id: 19721, count: 150}, {id: 79230, count: 30}], // Empowered Eparch's Sword
+  101736: [{id: 75439, count: 2}, {id: 19721, count: 300}, {id: 79230, count: 60}], // Eparch's Empowered Greatsword
+
+  // Silent Surf Fractal Weapons (Vendor)
+  99891: [{id: 75439, count: 1}, {id: 19721, count: 100}, {id: 79230, count: 10}], // Last Words
+
+  // Nightmare Fractal Weapons (Vendor)
+  79815: [{id: 79230, count: 20}, {id: 72936, count: 10}], // Caustic Nightmare Thornblade Skin
+  79767: [{id: 79230, count: 20}, {id: 72936, count: 10}], // Caustic Nightmare Corsage Skin
+  79797: [{id: 79230, count: 20}, {id: 72936, count: 10}], // Caustic Nightmare Nettleguard Skin
+  79920: [{id: 79230, count: 20}, {id: 72936, count: 10}], // Caustic Nightmare Anelace Skin
+  79747: [{id: 79230, count: 20}, {id: 72936, count: 10}], // Nightmare Skin Chest
+
+  // Obsidian Weapons
+  86454: [{id: 19721, count: 5}, {id: 70820, count: 250}, {gold: 5}], // Obsidian Weapon Box
+  88403: [{id: 86454, count: 1}], // Obsidian Axe
+  86503: [{id: 86454, count: 1}], // Obsidian Dagger
+  87563: [{id: 86454, count: 1}], // Obsidian Focus
+  87576: [{id: 86454, count: 1}], // Obsidian Greatsword
+  87575: [{id: 86454, count: 1}], // Obsidian Hammer
+  87562: [{id: 86454, count: 1}], // Obsidian Longbow
+  87378: [{id: 86454, count: 1}], // Obsidian Mace
+  87352: [{id: 86454, count: 1}], // Obsidian Pistol
+  88449: [{id: 86454, count: 1}], // Obsidian Rifle
+  87369: [{id: 86454, count: 1}], // Obsidian Scepter
+  86705: [{id: 86454, count: 1}], // Obsidian Shield
+  88372: [{id: 86454, count: 1}], // Obsidian Short Bow
+  86514: [{id: 86454, count: 1}], // Obsidian Staff
+  86531: [{id: 86454, count: 1}], // Obsidian Sword
+  86397: [{id: 86454, count: 1}], // Obsidian Torch
+  88384: [{id: 86454, count: 1}], // Obsidian Warhorn
+
+  // Sun-Blessed Zephyrite Weapons
+  93941: [{gold: 2}], // Sun-Blessed Zephyrite Axe
+  93929: [{gold: 2}], // Sun-Blessed Zephyrite Dagger
+  93967: [{gold: 2}], // Sun-Blessed Zephyrite Mace
+  93935: [{gold: 2}], // Sun-Blessed Zephyrite Pistol
+  93954: [{gold: 2}], // Sun-Blessed Zephyrite Scepter
+  93943: [{gold: 2}], // Sun-Blessed Zephyrite Sword
+  93952: [{gold: 2}], // Sun-Blessed Zephyrite Focus
+  93951: [{gold: 2}], // Sun-Blessed Zephyrite Shield
+  93960: [{gold: 2}], // Sun-Blessed Zephyrite Torch
+  93962: [{gold: 2}], // Sun-Blessed Zephyrite Warhorn
+  93944: [{gold: 2}], // Sun-Blessed Zephyrite Greatsword
+  93956: [{gold: 2}], // Sun-Blessed Zephyrite Hammer
+  93942: [{gold: 2}], // Sun-Blessed Zephyrite Longbow
+  93948: [{gold: 2}], // Sun-Blessed Zephyrite Rifle
+  93934: [{gold: 2}], // Sun-Blessed Zephyrite Short Bow
+  93927: [{gold: 2}], // Sun-Blessed Zephyrite Staff
+
+  // Fortune-Shining Aureate Weapons
+  94661: [{gold: 2}], // Fortune-Shining Aureate Axe
+  94669: [{gold: 2}], // Fortune-Shining Aureate Dirk
+  94635: [{gold: 2}], // Fortune-Shining Aureate Mace
+  94691: [{gold: 2}], // Fortune-Shining Aureate Pistol
+  94638: [{gold: 2}], // Fortune-Shining Aureate Virge
+  94663: [{gold: 2}], // Fortune-Shining Aureate Rinblade
+  94672: [{gold: 2}], // Fortune-Shining Aureate Charm
+  94683: [{gold: 2}], // Fortune-Shining Aureate Targe
+  94636: [{gold: 2}], // Fortune-Shining Aureate Sconce
+  94652: [{gold: 2}], // Fortune-Shining Aureate Warhorn
+  94637: [{gold: 2}], // Fortune-Shining Aureate Highlander Greatsword
+  94681: [{gold: 2}], // Fortune-Shining Aureate Warhammer
+  94632: [{gold: 2}], // Fortune-Shining Aureate Longbow
+  94646: [{gold: 2}], // Fortune-Shining Aureate Musket
+  94677: [{gold: 2}], // Fortune-Shining Aureate Short Bow
+  94693: [{gold: 2}], // Fortune-Shining Aureate Staff
+
+  // Refitted Aureate Weapons
+  94673: [{gold: 0.2}], // Refitted Aureate Axe
+  94629: [{gold: 0.2}], // Refitted Aureate Dirk
+  94698: [{gold: 0.2}], // Refitted Aureate Charm
+  94634: [{gold: 0.2}], // Refitted Aureate Highlander Greatsword
+  94695: [{gold: 0.2}], // Refitted Aureate Warhammer
+  94628: [{gold: 0.2}], // Refitted Aureate Longbow
+  94651: [{gold: 0.2}], // Refitted Aureate Mace
+  94678: [{gold: 0.2}], // Refitted Aureate Pistol
+  94679: [{gold: 0.2}], // Refitted Aureate Musket
+  94659: [{gold: 0.2}], // Refitted Aureate Virge
+  94660: [{gold: 0.2}], // Refitted Aureate Targe
+  94657: [{gold: 0.2}], // Refitted Aureate Short Bow
+  94647: [{gold: 0.2}], // Refitted Aureate Staff
+  94650: [{gold: 0.2}], // Refitted Aureate Rinblade
+  94664: [{gold: 0.2}], // Refitted Aureate Sconce
+  94662: [{gold: 0.2}], // Refitted Aureate Warhorn
+
+  // Sparkling Wrapped Weapons
+  94387: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Axe
+  94374: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Dagger
+  94383: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Mace
+  94447: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Pistol
+  94444: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Scepter
+  94405: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Sword
+  94396: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Focus
+  94435: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Shield
+  94438: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Torch
+  94434: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Warhorn
+  94448: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Greatsword
+  94446: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Hammer
+  94450: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Longbow
+  94404: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Rifle
+  94381: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Short Bow
+  94430: [{id: 86627, count: 4}, {gold: 2}], // Sparkling Wrapped Staff
+
+  // Dragon Bash Weapon Chest Weapons
+  102016: [{id: 43320, count: 20}, {gold: 4}], // Dragon Bash Weapon Chest
+  101964: [{id: 102016, count: 1}], // Bonfire Axe
+  102037: [{id: 102016, count: 1}], // Bonfire Longbow
+  102059: [{id: 102016, count: 1}], // Bonfire Torch
+  95059: [{id: 102016, count: 1}], // Journey's Call
+  95069: [{id: 102016, count: 1}], // Spring Warmth
+  95056: [{id: 102016, count: 1}], // Summer Light
+  98185: [{id: 102016, count: 1}], // Draketalon Partisan
+  98183: [{id: 102016, count: 1}], // Draketalon Culverin
+  98180: [{id: 102016, count: 1}], // Draketalon Cleaver
+  99838: [{id: 102016, count: 1}], // Candy-Packed Dragon Sword
+  99775: [{id: 102016, count: 1}], // Candy-Packed Dragon Scepter
+  99788: [{id: 102016, count: 1}], // Candy-Packed Dragon Pistol
+  99791: [{id: 102016, count: 1}] // Candy-Packed Dragon Mace
 }
