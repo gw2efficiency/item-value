@@ -101,6 +101,14 @@ export default {
   83826: [{id: 87291, count: 1}], // Khadiri's Music Box
   84566: [{id: 87061, count: 1}], // Nightingale's Music Box
   83444: [{id: 86987, count: 1}], // Tinari's Music Box
+  99674: [{id: 99681, count: 1}], // Oni Lord's Throne
+  99533: [{id: 99419, count: 1}], // Mining Rig Operator's Seat
+  97467: [{id: 97424, count: 1}], // The Jade Throne
+  94107: [{id: 8700, count: 250}], // Endless Potion of Ascalonian Mages
+  86495: [{id: 86627, count: 1}], // Enchanted Colorful Snowball
+  81632: [{id: 79230, count: 30}], // Endless Chaos Combat Tonic
+  50014: [{gold: 100000}], // Selfless Potion
+  50048: [{gold: 100000}], // Thoughtless Potion
 
   // Raven Ceremonial containers
   92693: [{id: 92739, count: 0.33}], // Raven Ceremonial Sandals (heavy)
