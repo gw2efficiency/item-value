@@ -1455,7 +1455,34 @@ export default {
   100407: [{id: 100244, count: 1}], // Possession Infusion -- Healing to Jar of Dangerous Spirits
   100008: [{id: 100244, count: 1}], // Possession Infusion -- Power to Jar of Dangerous Spirits
   100302: [{id: 100244, count: 1}], // Possession Infusion -- Precision to Jar of Dangerous Spirits
+  100065: [{id: 100244, count: 1}], // Possession Infusion -- Toughness to Jar of Dangerous Spirits
   100913: [{id: 100244, count: 1}], // Possession Infusion -- Vitality to Jar of Dangerous Spirits
+  101169: [{id: 101144, count: 1}], // Jotun Infusion -- Concentration to Vial of Cosmic Energies
+  101124: [{id: 101144, count: 1}], // Jotun Infusion -- Condition Damage to Vial of Cosmic Energies
+  101262: [{id: 101144, count: 1}], // Jotun Infusion -- Expertise to Vial of Cosmic Energies
+  101146: [{id: 101144, count: 1}], // Jotun Infusion -- Healing to Vial of Cosmic Energies
+  101276: [{id: 101144, count: 1}], // Jotun Infusion -- Power to Vial of Cosmic Energies
+  101226: [{id: 101144, count: 1}], // Jotun Infusion -- Precision to Vial of Cosmic Energies
+  101171: [{id: 101144, count: 1}], // Jotun Infusion -- Toughness to Vial of Cosmic Energies
+  101259: [{id: 101144, count: 1}], // Jotun Infusion -- Vitality to Vial of Cosmic Energies
+  101234: [{id: 19721, count: 50}, {gold: 100}], // Arcane Flow Infusion -- Concentration
+  101237: [{id: 19721, count: 50}, {gold: 100}], // Arcane Flow Infusion -- Condition Damage
+  101223: [{id: 19721, count: 50}, {gold: 100}], // Arcane Flow Infusion -- Expertise
+  101261: [{id: 19721, count: 50}, {gold: 100}], // Arcane Flow Infusion -- Healing
+  101199: [{id: 19721, count: 50}, {gold: 100}], // Arcane Flow Infusion -- Power
+  101279: [{id: 19721, count: 50}, {gold: 100}], // Arcane Flow Infusion -- Precision
+  101263: [{id: 19721, count: 50}, {gold: 100}], // Arcane Flow Infusion -- Toughness
+  101278: [{id: 19721, count: 50}, {gold: 100}], // Arcane Flow Infusion -- Vitality
+  104566: [{id: 19721, count: 50}, {gold: 24}], // Chatoyant Infusion -- Precision
+  102508: [{id: 19721, count: 50}, {gold: 100}], // Heat Core Infusion -- Power
+  104472: [{id: 104448, count: 1}], // Bloodstone Infusion -- Concentration to Chunk of Pulsing Bloodstone
+  104386: [{id: 104448, count: 1}], // Bloodstone Infusion -- Condition Damage to Chunk of Pulsing Bloodstone
+  104481: [{id: 104448, count: 1}], // Bloodstone Infusion -- Expertise to Chunk of Pulsing Bloodstone
+  104340: [{id: 104448, count: 1}], // Bloodstone Infusion -- Healing to Chunk of Pulsing Bloodstone
+  104357: [{id: 104448, count: 1}], // Bloodstone Infusion -- Power to Chunk of Pulsing Bloodstone
+  104349: [{id: 104448, count: 1}], // Bloodstone Infusion -- Precision to Chunk of Pulsing Bloodstone
+  104456: [{id: 104448, count: 1}], // Bloodstone Infusion -- Toughness to Chunk of Pulsing Bloodstone
+  104348: [{id: 104448, count: 1}], // Bloodstone Infusion -- Vitality to Chunk of Pulsing Bloodstone
 
   // Legendary Rune
   91381: [{id: 91536, count: 1}], // Superior Rune of Thorns
