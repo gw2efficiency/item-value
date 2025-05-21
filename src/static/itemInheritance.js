@@ -1336,6 +1336,7 @@ export default {
   91210: [{id: 91202, count: 1}], // Peerless Infusion -- Healing to Power
   91221: [{id: 91202, count: 1}], // Peerless Infusion -- Concentration to Power
   91236: [{id: 91202, count: 1}], // Peerless Infusion -- Expertise to Power
+  78052: [{id: 19721, count: 32}, {gold: 64}], // Moto's Unstable Bauble Infusion: Blue -- Power
   78012: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Condition Damage to Power
   78054: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Precision to Power
   78079: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Healing to Power
@@ -1343,6 +1344,7 @@ export default {
   78090: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Vitality to Power
   86552: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Concentration to Power
   86571: [{id: 78052, count: 1}], // Moto's Unstable Bauble Infusion: Blue -- Expertise to Power
+  78028: [{id: 19721, count: 32}, {gold: 64}], // Moto's Unstable Bauble Infusion: Red -- Power
   78016: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Healing to Power
   78030: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Toughness to Power
   78031: [{id: 78028, count: 1}], // Moto's Unstable Bauble Infusion: Red -- Precision to Power
